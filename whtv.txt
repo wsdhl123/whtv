@@ -68,7 +68,7 @@ CCTV17,http://39.135.55.105:6610/PLTV/88888888/224/3221226986/index.m3u8?service
 香港澳门,#genre#
 凤凰中文台,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 澳视莲花,http://nettvpro.live/hls/lotustv.php
 澳门卫视,http://61.244.22.4/ch3/ch3.live/chunklist_w415594313.m3u8
 
