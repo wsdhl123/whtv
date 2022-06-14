@@ -229,4 +229,4 @@ NewTV频道,#genre#
 爱怀旧,http://111.11.123.49:6610/000000001000/6000000006000260630/1.m3u8?
 爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?
 春江集团,#genre#
-春江水泥,https://m.baidu.com/video/page?pd=video_page&nid=15001591019538730477&sign=1150550899270119878&word=%E6%98%A5%E6%B1%9F%E9%9B%86%E5%9B%A2&oword=%E6%98%A5%E6%B1%9F%E9%9B%86%E5%9B%A2&atn=index&frsrcid=4295&ext=%7B%22jsy%22%3A1%7D&top=%7B%22sfhs%22%3A1%2C%22_hold%22%3A2%7D&sl=4&fr0=A&fr1=A&ms=1&lid=11135964973224249666&referlid=11135964973224249666&frorder=10&_t=1655197100668
+春江水泥,https://v.youku.com/v_show/id_XNTE4NzE3Mjc2.html
