@@ -325,7 +325,7 @@
 {"name":"PM","type":1,"url":"https://www.playm3u8.cn/jiexi.php?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}
   ],
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/2925.jar,
+"spider":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/0831.jar,
 //"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvbGVldmkwNzA5L2R1by9tYWluL3R4dC9sLnR4dA=="
 ]}]}],
