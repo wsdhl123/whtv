@@ -4,7 +4,7 @@
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppTT","name":"🐰兔兔影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "APPTT","name": "🗺️图图影视","api": "csp_AppTT","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
 {"key": "M3U8资源","name": "🍇M3U8资源","type": 1,"api": "https://www.zycaiji.net:7788/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
 {"key": "海玉影视","name": "🍬海玉影视","type": 1,"api": "http://tv2.hykjtv.cn/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
 {"key":"csp_Bdys01","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
