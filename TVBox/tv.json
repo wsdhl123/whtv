@@ -17,8 +17,7 @@
 {"key": "csp_MGTV","name": "🥭芒果(官)","type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},  
 {"key": "csp_IQIYI","name": "🥝爱奇艺(官)","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_QQ","name": "🐧腾讯(官)","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "小城","name": "小城影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "http://bc.yybox.xyz/api.php/v1.vod"},
-{"key": "刺猬影视","name": "🦔刺猬影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.cccvvv.top/api.php/iptv/vod/"},
+
 
 {"key":"csp_Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ZJMiao","name":"🐱追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
