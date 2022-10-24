@@ -2,7 +2,6 @@
 "sites": [
 {"key":"csp_SP360","name":"🍅360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xBPQ","name":" 🍂厂长资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/MeowXP/厂长资源.json"},
 {"key":"csp_AppTT","name": "🐇兔兔影视","type": 3,"api": "csp_AppTT","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "M3U8资源","name": "🍇M3U8资源","type": 1,"api": "https://www.zycaiji.net:7788/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
