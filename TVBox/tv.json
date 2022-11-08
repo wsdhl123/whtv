@@ -24,6 +24,7 @@
 {"key":"csp_Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ZJMiao","name":"🐱追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🚗可乐影视","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_Nkdy","name": "🎨南柯电影","type": 3,"api": "csp_Nkdy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Zjdr","name":"🌷追剧达人","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"778e8966ec0e9c0ae0b4682ad3550f40","jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/ext/cs.txt"},
 {"key":"Yanet","name":"🌷鸭奶飞","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349","jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/ext/cs.txt"},
 {"key":"Pang","name":"🌷胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/ext/cs.txt"},
