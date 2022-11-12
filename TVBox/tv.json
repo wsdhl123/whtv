@@ -45,7 +45,7 @@
 {"key":"csp_MGTV","name":"🍋芒果TV(官)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/ext/qq_qiyi_mgtv.jpg"},
 {"key": "py_cctv","name": "❤️爱央视PY","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/ext/cctv.py"},
 {"key":"北雁资源","name":"🦢北燕资源","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","categories": ["电影", "国产剧", "港台剧", "日韩剧", "欧美剧", "综艺", "动漫"]},
-{"key":"csp_SP293","name":" 👒293视频〔SP〕","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"date":"2022-11-12 16:55:15"},
+{"key":"csp_SP293","name":" 👒293视频〔SP〕","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/ext/dmtv.jar"},
  
  
 {"key":"t4_公共","name":"📡公共(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
