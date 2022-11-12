@@ -412,7 +412,7 @@
 {"name":"CL4K01","type":0,"url":"https://ys.ling00.cn/CL4K/?url=","ext":{"flag":["CL4K","qq","腾讯"]}},
 {"name":"CL4K02","type":0,"url":"https://app.okmedcos.com/4k/?url=","ext":{"flag":["CL4K","qq","腾讯","pptv","PPTV"]}}
 ],
-"wallpaper":"https://picsum.photos/1280/720/?blur=10",
+"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 //"spider":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/1008.jar;md5;6d99c46de900f7b85bbfa8ced2d780b0", 
 "spider":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/1105.jar",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
