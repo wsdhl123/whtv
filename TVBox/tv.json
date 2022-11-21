@@ -13,7 +13,7 @@
 {"key":"csp_Mjxq","name":"🌏美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"📺低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"奥特影视","name":"奥特影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_DY1990","name":"🦋九零影视","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
+
 {"key":"csp_xBPQ_野荷塘","name":"🌷野荷塘影视","type": 3,"api":"csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"{\"免嗅\":\"0\",\"嗅探词\": \"m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#.mp4#item/video#is_play_url=1\",\"副标题\": \"vod_remarks*>&&<\",\"播放数组\": \"mdui-panel-item-body&&</div\",\"线路数组\": \"mdui-panel-item-title&&/div\",\"分类\":\"国产电视剧$13#电视剧$2#电影$1#动漫$4#综艺$3\",\"分类url\":\"https://yehetang.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html\",\"年份\":\"2000-2022\",\"筛选\":\"1\"}","jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/ext/xBPQ1107.jar"},
 {"key": "PpTV","name": "📺PPTV(官)","type": 0,"api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable": 0,"quickSearch": 0,"filterable": 0,"categories": ["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧",
 "惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","少儿","其他片"]},
