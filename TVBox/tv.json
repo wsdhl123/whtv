@@ -413,7 +413,7 @@
 {"name":"CL4K02","type":0,"url":"https://app.okmedcos.com/4k/?url=","ext":{"flag":["CL4K","qq","腾讯","pptv","PPTV"]}}
 ],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-"spider":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/1129.jar",
+"spider":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/xo.jar",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby93c2RobDEyMy93aHR2L21hc3Rlci9UVkJveC93aHR2LnR4dA=="
 ]}]}],
