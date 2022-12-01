@@ -4,6 +4,7 @@
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"AppTT","name":"图图影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/ts.jar"},
 {"key":"Czsapp","name":"🏭厂长资源","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/ts.jar"},
+{"key":"世界杯","name":"✌一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/ts.jar"},
 //{"key":"Czsapp","name":"🏭厂长资源","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/735/ts.jar?sign=aiIxWTSkoIoN83lpEJm3iChI1jHPeVTkEWCYZAluzsI%3D%3A0"},
 {"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
