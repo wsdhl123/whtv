@@ -3,10 +3,10 @@
   "站名": "今日影视",
   "主页url": "https://jinri.live",
   
-  "分类": "电影&剧集&综艺&动漫",
+  "分类": "电影&电视剧&综艺&动漫",
   "分类值": "1&2&3&4",
   
-  "分类url": "https://jinri.live/vodtype/1.html",
+  "分类url": "https://https://jinri.live/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
   "数组": "pack-ykpack\">&&pack-subtitle",
   "标题": "<a class=\"channelname\"*>&&</a>",
