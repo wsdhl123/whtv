@@ -31,7 +31,7 @@
 {"key": "嗯哩嗯哩","name": "🍖┃嗯哩┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://enlienli.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"},
 {"key":"csp_XBPQ新大米","name":"🌾┃大米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$20#连续剧$21#综艺$22#动漫$23#福利$35","分类url":"https://www.lkfrp.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/pjax/YES.html"}},
 
-{"key":"csp_xBPQ_23影视","name":"23影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/XBPQ/23影视.json"},
+{"key":"csp_xBPQ_23影视","name":"23影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/XBPQ/23影视.json,"jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/XBPQ0111.jar"},
 {"key":"csp_xBPQ_52看剧","name":"52看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/XBPQ/52看剧.json"},
 {"key":"98影院","name":"98影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/XBPQ/98影院.json"},
 {"key":"csp_xBPQ_188影视","name":"188影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/XBPQ/188影视.json"},
