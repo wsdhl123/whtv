@@ -34,7 +34,7 @@
 {"key":"csp_xBPQ_23影视","name":"23影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/23影视.json"},
 {"key":"csp_xBPQ_52看剧","name":"52看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/52看剧.json"},
 {"key":"98影院","name":"98影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/98影院.json"},
-{"key":"csp_xBPQ_188影视","name":"188影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/XBPQ/188%E5%BD%B1%E8%A7%86.json"},
+{"key":"csp_xBPQ_188影视","name":"188影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/XBPQ/188影视"},
 {"key":"csp_xBPQ_360影视","name":"360影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox.cainisi.cf/xBPQ/360影视.json"},
 {"key":"csp_xBPQ_555电影","name":"555电影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/555电影.json"},
 {"key":"csp_xBPQ_COKEMV","name":"COKEMV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/COKEMV.json"},
