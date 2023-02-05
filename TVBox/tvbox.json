@@ -20,7 +20,7 @@
 {"key":"在线之家","name":"🎞在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Dm84","name":" 🦸动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Anime1","name":" 🧟Ani影视","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_XYQ_lu1","name":"🐼️电视直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"http://我不是.肥.love:63/ningmeng.json"},
+{"key": "csp_XYQ_lu1","name":"🐼️电视直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/ext/电视直播.json"},
 {"key":"csp_Paper","name":"📜小纸条云盘","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/token.php"},
 {"key":"csp_GitCafe","name":"📜小纸条雲盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/token.php"},
 {"key": "xxyy","name": "🦄小路影视","type":1,"api":"http://xiaolu.shenzhuo.vip:49798/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"fl":"520520","categories": ["4K专区","动漫","科幻","电影","泰剧","综艺","连续剧","香港剧","韩国剧","台湾剧","日本剧"]},
