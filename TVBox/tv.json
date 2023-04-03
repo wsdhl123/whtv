@@ -5,7 +5,7 @@
 "sites":[
 {"key":"Czsapp","name":"🏭厂长影视","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"csp_Kunyu77","name":"🌈Kunyu77影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_SP360","name":"🍅360视频","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1}, 
+{"key":"csp_SP360","name":"🍅360视频","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key": "csp_BuLei","name":"🍩布雷影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"m3u8ads":"wan.51img1.com"},
 {"key":"Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="},
