@@ -9,7 +9,7 @@
 {"key":"csp_SP360","name":"🍅360视频","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/0305.jar"},
 {"key": "csp_BuLei","name":"🍩布雷影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"m3u8ads":"wan.51img1.com"},
 {"key":"Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"AList","name":"🗂Alist合集","type":3,"api":"csp_AList","searchable":0,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/ext/Alist.txt"},
+
 {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","m3u8ads": "hd.youyhn.com"},
 {"key":"csp_apple","name":"🍎苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Smdyy","name": "🐴神马影视","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -22,7 +22,7 @@
 {"key":"csp_DiDuan" ,"name":"⏮️低端影视","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Nkdy","name":"🗽南柯影视","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🏝Aue影视","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Kuaikan","name":"🦋快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_3EDY","name":"🔥3E飘花(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/ext/EEEDY.jpg"},
 {"key":"csp_QQ","name":" 🍅腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/ext/qim.jpg;md5;3C40DBCB8082364E1C416EBC3E219E6A"},
 {"key":"csp_IQIYI","name":"🥝爱奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/ext/qim.jpg;md5;3C40DBCB8082364E1C416EBC3E219E6A"},
