@@ -14,7 +14,7 @@
 {"key":"csp_apple","name":"🍎苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Smdyy","name": "🐴神马影视","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_MeiJu69","name":"🗽69美剧","type":3,"api":"csp_MeiJu69","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/"},
-
+{"key":"csp_Lib","name":"🍲LIB[SP]","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
 {"key": "csp_AppMr","name": "👻明明影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 {"key":"csp_Yj1211","name":"👑直播合集","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"新片热播","name":"🔷新片热播","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["连续剧","动漫"]},
