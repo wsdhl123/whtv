@@ -15,11 +15,11 @@
 {"key":"csp_apple","name":"🍎苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Smdyy","name": "🐴神马影视","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_MeiJu69","name":"🗽69美剧","type":3,"api":"csp_MeiJu69","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/"},
-{"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key": "csp_AppMr","name": "👻明明影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1}, 
-{"key":"csp_Lib","name":"💫Lib影视","type":3,,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
+
 {"key":"csp_Dy1010","name":"❤️双十影视","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_panghu","name": "🐯胖虎影视","type": 3,"api": "csp_Panghu","searchable": 1,"quickSearch": 1,"filterable": 1},
+
 {"key":"csp_DiDuan" ,"name":"⏮️低端影视","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Nkdy","name":"🗽南柯影视","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🏝Aue影视","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
@@ -35,7 +35,7 @@
 {"key":"Anime1","name":" 🧟Ani影视","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_XYQ_lu1","name":"📺电视直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/ext/电视直播.json"},
 {"key":"csp_Paper","name":"📜┃纸条┃云盘","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/token.php"}, 
-{"key":"csp_DiDuan","name":"🐞低端[SP]","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
+
 {"key": "xcys","name": "🌠星辰影视","type":1,"api":"http://tv.cpkey.cn/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"fl":"520520","categories": ["电影","电视剧","综艺","动漫"]},
  
 //xBPQ系列
