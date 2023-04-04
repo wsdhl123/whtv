@@ -1,11 +1,37 @@
-{"🐞9T(Adult)":"https://drive.9t.ee",
-  "米奇妙妙屋":"https://anime.mqmmw.ga",
-  "小兵组网盘影视":"https://6vv.app",
-  "小光盘":"https://alist.xiaoguanxiaocheng.life",
-  "一只鱼":"https://alist.youte.ml",
-  "七米蓝":"https://al.chirmyram.com",
-  "梓澪の妙妙屋(H)":"https://xn--i0v44m.xyz",
-  "非盘":"http://www.feifwp.top",
-  "嗨翻":"https://pan.hikerfans.com",
-  "sangxuesheng":"https://wangpan.sangxuesheng.com"
-}
+{
+  "drives": [	
+    {
+     "name": "🎢arhome",
+     "server": "https://xn--ar-4g8e.tk"
+    },
+   {
+      "name": "💢姹莱坞",
+      "server": "https://a.aa01.ml",
+	  "passwd": "agree"
+    },	
+    {
+     "name": "🧬杜比",
+     "server": "https://dubi.tk"
+    },
+    {
+     "name": "🐉神族九帝",
+     "server": "https://alist.shenzjd.com"
+    },
+    {
+     "name": "✨星梦",
+     "server": "https://pan.bashroot.top"
+    },
+    {
+     "name": "💫触光",
+     "server": "https://pan.ichuguang.com"
+    },
+    {
+     "name": "👨‍🎓Lan同学",
+     "server": "https://l.lantongxue.repl.co/"
+    },
+    {
+     "name": "🌟云星",
+     "server": "http://alist.itvbox.cc/"
+    }	
+  ]
+}  
