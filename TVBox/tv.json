@@ -3,6 +3,7 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby93c2RobDEyMy93aHR2L21hc3Rlci9UVkJveC93aHR2LnR4dA"]}]}],
 "sites":[
+{"key":"csp_apple","name":"🍎苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Czsapp","name":"🏭厂长影视","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"csp_Kunyu77","name":"🌈Kunyu77影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YQKAPP","name":"👨‍👩‍👧‍👦一起看TV","type":3,"api":"csp_YQKAPP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.11ty.top"},
@@ -15,7 +16,7 @@
 {"key":"Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"AList","name":"🗂Alist合集","type":3,"api":"csp_AList","searchable":0,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/ext/Alist.txt"},
 {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","m3u8ads": "hd.youyhn.com"},
-{"key":"csp_apple","name":"🍎苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_Smdyy","name": "🐴神马影视","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Btwtoo","name":"✌两个BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name":"🍲LIB[SP]","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
@@ -47,7 +48,7 @@
  
 //xBPQ系列
 //{"key":"csp_xBPQ_云播影视","name":"🍎云播影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"免嗅:1,分类url:http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/year/{year}.html"},
-{"key":"csp_XYQHiker_布蕾","name":"⚡️布雷影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/XBPQ/布蕾影院.json","jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/23044.jar"},
+{"key":"csp_XYQHiker_布蕾","name":"⚡️布雷影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/XBPQ/布蕾影院.json","jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/230404.jar"},
 //{"key":"csp_xBPQ_新大米","name":"🌾大米影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$20#连续剧$21#综艺$22#动漫$23#福利$35","分类url":"https://www.lkfrp.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/pjax/YES.html"}},
 {"key": "csp_XBPQ秋霞影视","name": "️🍂秋霞影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"分类":"电影$1#连续剧$2#动漫$4#综艺$3","分类url":"https://www.qiuxia360.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val","跳转播放链接": "https://www.jfxz689.com/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"","二次跳转播放链接": "https://www.jfxz689.com/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"","三次跳转播放链接": "\"url\"*\"&&\""}},
 {"key":"csp_xBPQ_52看剧","name":"🍎52看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/XBPQ/52看剧.json","jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/XBPQ0111.jar"},
