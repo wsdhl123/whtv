@@ -280,7 +280,7 @@ CCTV17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 
 黑龙江卫视,http://1.204.169.243/live.aishang.ctlcdn.com/00000110240131_1/playlist.m3u8?CONTENTID=00000110240131_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
-📺央视[IPV6],#genre#
+📺｜央视[IPV6],#genre#
 CCTV-1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225642/index.m3u8
 CCTV-1,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?
 CCTV-1,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225816/index.m3u8
@@ -320,7 +320,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 
-💖本地卫视,#genre#
+💖｜本地卫视,#genre#
 卫辉综合,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
 卫辉综合,http://live.dxhmt.cn:9081/tv/10781-1.m3u8
 辉县综合,http://tvpull.dxhmt.cn:9081/tv/10782-1.m3u8
@@ -1517,7 +1517,7 @@ CCTV8K,http://www.kitcc.cn:8888/udp/239.253.43.106:5146$广东东莞电信8K
 
 
 
-💖香港澳门,#genre#
+💖｜香港澳门,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8#http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
@@ -2240,5 +2240,5 @@ NewTV频道,#genre#
 爱怀旧,http://111.11.123.49:6610/000000001000/6000000006000260630/1.m3u8?
 爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?
 
-㊙｜加密频道_2022,#genre#
+㊙｜加密频道_2023,#genre#
 爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?
