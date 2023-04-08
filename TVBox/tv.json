@@ -10,7 +10,7 @@
 {"key":"csp_YQKAPP","name":"👨‍👩‍👧‍👦一起看TV","type":3,"api":"csp_YQKAPP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.11ty.top"},
 {"key":"mtv_pc_焦炭影视","name":"🔥焦炭影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"懒猫影视","name":"懒猫影视","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://lanmao.lanmaoymw.cn/api.php/v1.vod"},
-//{"key":"csp_SP360","name":"🍅360视频","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/0305.jar"},
+{"key": "刺猬影视","name": "🦔刺猬影视(优)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.cccvvv.top/api.php/iptv/vod/"},
 {"key": "csp_xb_lez","name": "🦉乐猪(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"homeUrl": "http://www.lezhutv.com/type/{cateId}-{datePg}.html","playlist":{"sort":1}}},
 {"key": "csp_xb_ysgc","name": "🌟影视工厂(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"},
 {"key": "csp_xb_lgyys","name": "🌟蓝光影院(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
