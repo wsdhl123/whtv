@@ -31,7 +31,7 @@
 {"key":"新片热播","name":"🔷新片热播","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["连续剧","动漫"]},
 {"key":"csp_大明","name":"🏰大明影视","type":1,"api":"https://ys.md214.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["大陆剧","电影","连续剧","综艺","动漫","直播"]},
 {"key":"csp_AppMr","name":"🦍二明影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_DiDuan" ,"name":"⏮️低端影视","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_DiDuan" ,"name":"⏮️低端影视","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"csp_Nkdy","name":"🗽南柯影视","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🏝Aue影视","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xinsj","name":"🐠视觉影院","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
