@@ -13,6 +13,7 @@
 {"key": "csp_xb_lez","name": "🦉乐猪(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"homeUrl": "http://www.lezhutv.com/type/{cateId}-{datePg}.html","playlist":{"sort":1}}},
 {"key":"csp_sp_龙门影视","name":"🐉龙门影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch": 1,"filterable":1,"ext":"https://app.looo.top/lm_api.php/v1.vod"},	
 {"key": "csp_363","name": "☀️明帝影视","api": "csp_AppYsV2","type": 3,"m3u8ads": "hd.youyhn.com","filterable": 1,"quickSearch": 1,"searchable": 1,      "ext": "https://lzrjk.hao363.com/api.php/v1.vod"},	
+{"key":"紙條","name":"紙條","type":3,"api":"csp_Paper","searchable":1,"filterable":1,"changeable":0,"ext":"影視天下第一"},
 {"key": "csp_Paper","name": "🔖小纸条","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:8080/token.txt"},	
 {"key": "csp_xb_ysgc","name": "🌟影视工厂(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"},
 
