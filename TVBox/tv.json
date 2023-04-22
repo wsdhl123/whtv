@@ -15,7 +15,7 @@
 {"key":"紙條","name":"紙條","type":3,"api":"csp_Paper","searchable":1,"filterable":1,"changeable":0,"ext":"影視天下第一"},
 {"key": "csp_Paper","name": "🔖小纸条","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/ext/ali.txt"},	
 {"key": "csp_xb_ysgc","name": "🌟影视工厂(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"},
-{"key": "csp_XBiu大豆高清","name": "️🍂大豆高清","type": 3,"api":"csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.dadou.pro/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;a"},
+{"key": "csp_xBPQ大豆高清","name": "️🍂大豆高清","type": 3,"api":"csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.dadou.pro/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;a"},
 
 {"key":"csp_xBPQ_52看剧","name":"🍎52看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/XBPQ/52看剧.json","jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/230411.jar"},
 {"key": "csp_xb_lgyys","name": "🌟蓝光影院(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
