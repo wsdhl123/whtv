@@ -1,10 +1,11 @@
 {
-"spider":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/230411.jar",
+"spider":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/230423.jar",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby93c2RobDEyMy93aHR2L21hc3Rlci9UVkJveC93aHR2LnR4dA"]}]}],
 "sites":[
 {"key":"csp_apple","name":"🍎苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider","name":"💫360影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_CZSPP","name": "🏭️厂长资源[SP]","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Kunyu77","name":"🌈Kunyu77影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YQKAPP","name":"👨‍👩‍👧‍👦一起看TV","type":3,"api":"csp_YQKAPP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.11ty.top"},
 {"key":"mtv_pc_焦炭影视","name":"🔥焦炭影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1}, 
