@@ -14,7 +14,7 @@
 {"key": "csp_xb_lez","name": "🦉乐猪(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"homeUrl": "http://www.lezhutv.com/type/{cateId}-{datePg}.html","playlist":{"sort":1}}},
 {"key":"csp_sp_龙门影视","name":"🐉龙门影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch": 1,"filterable":1,"ext":"https://app.looo.top/lm_api.php/v1.vod"},	
 {"key": "csp_363","name": "☀️明帝影视","api": "csp_AppYsV2","type": 3,"m3u8ads": "hd.youyhn.com","filterable": 1,"quickSearch": 1,"searchable": 1,      "ext": "https://lzrjk.hao363.com/api.php/v1.vod"},	
-{"key":"csp_Ysgc","name":"🎥影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
+{"key":"csp_Ysgc","name":"🎥影视工厂","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
 {"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 {"key":"csp_Bd","name":"☀️哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
