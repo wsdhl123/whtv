@@ -17,7 +17,7 @@
 {"key":"csp_Ysgc","name":"🎥影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
 {"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 {"key":"csp_Bd","name":"☀️哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"热剧天堂","name":"🌟热剧天堂","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"热剧天堂","name":"🌟热剧天堂","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"创艺影视","name":"🎀创艺影视(聚)","type":1,"api":"https://www.30dian.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_ZxzjH3","name":"🏠在线之家H3","type":3,"api":"csp_ZxzjH3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com"},
 {"key": "csp_Paper","name": "🔖小纸条","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://raw.iqiq.io/wsdhl123/whtv/master/TVBox/ext/token.txt"},	
