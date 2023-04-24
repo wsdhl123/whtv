@@ -115,7 +115,7 @@
 {"key":"csp_XBiu口袋影院","name": "📩口袋影视","type": 3,"api": "csp_XBiu","ext": {"homeUrl": "http://www.koudaitv.com/type/{cateId}-{catePg}.html","playlist":{"sort":1}}},
 {"key":"csp_XBiu233动漫","name": "🦁233动漫","type": 3,"api": "csp_XBiu","ext": "https://www.233dm.cc/show/{cateId}--------{catePg}---.html"},
 {"key":"csp_XBiuCOKEMV","name":"🍬COK影视","type":3,"api":"csp_XBiu","ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"csp_XBPQ创艺影视","name":"🥒创艺影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://https://www.30dian.cn/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_XBPQ创艺影视","name":"🥒创艺影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.30dian.cn/vodshow/{cateId}--------{catePg}---.html"},
 //采集
 {"key":"U酷资源","name":"U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"淘片资源","name":"淘片资源(优)","type":1,"api":"https://taopianapi.com/home/cjapi/as/mc10/vod/json","searchable":1,"quickSearch":1},
