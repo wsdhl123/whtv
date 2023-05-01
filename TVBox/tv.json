@@ -5,7 +5,7 @@
 "sites":[
 {"key":"csp_apple","name":"🍎苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider","name":"💫360影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_Xinsj","name": "🐼新视觉┃直连","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.6080dy3.com"},
+{"key": "csp_Xinsj","name": "🐼新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.6080dy3.com"},
 {"key": "csp_AppTT","name": "🐰图图┃App","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "dldYWXFObkhNTWlsV1pMdFNSSyN0ME1JdzVJQVJyY3I=$$$Q2hpbko5UzdvNnNZbU1WTQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/fty.jar"},
 {"key":"csp_XBPQ_24","name":"🦸简写","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组": "class=\"aplus-exp\"&&</a>","分类":"电影$1#剧集$2#动漫$4#综艺$3#记录$20","分类url":"https://www.23wm.net/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"}},
 {"key":"csp_Kunyu77","name":"🌈Kunyu77影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -35,7 +35,7 @@
 {"key": "pwd_zyku","name": "📓zyku","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php","searchable": 1,"quickSearch": 1},
 {"key":"Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"AList","name":"🗂Alist合集","type":3,"api":"csp_AList","searchable":0,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/ext/Alist.txt"},
-{"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1, "filterable":1,"playerType": 2,"ext":"tv$$$dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
+
 {"key":"csp_DiDuan","name":"🐞低端[SP]","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Cokemv","name":"🎀Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Smdyy","name": "🐴神马影视","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
