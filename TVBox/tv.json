@@ -5,7 +5,7 @@
 "sites":[
 {"key":"csp_apple","name":"🍎苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider","name":"💫360影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/fty.jar"},
-{"key": "csp_SP33","name": "📺三三┃解析","type": 3,"api": "csp_SP33","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0"jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/fty.jar"},
+{"key": "csp_SP33","name": "📺三三┃解析","type": 3,"api": "csp_SP33","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/fty.jar"},
 {"key": "csp_Xinsj","name": "🐼新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.6080dy3.com"},
 {"key":"sp-AppTT","name":"🐰图图影视","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://download.kstore.space/download/4127/FXZ.txt;md5;e9cd011b798d103bbdbdca9966983ecb","ext":"vWXYqNnHMMilWZLtSRK#t0MIw5IARrcMqiaojiChinJ9S7o6sYmMVW"},
 {"key": "csp_Czsapp","name": "📔厂长资源","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/fty.jar"},
