@@ -1,10 +1,10 @@
 {
-"spider":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/xh.jar",
+"spider":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/230411.jar",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby93c2RobDEyMy93aHR2L21hc3Rlci9UVkJveC93aHR2LnR4dA"]}]}],
 "sites":[
 {"key":"csp_apple","name":"🍎苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"360_spider","name":"💫360影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/zzg0512.jar"},
+{"key":"360_spider","name":"💫360影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/fty.jar"},
 {"key": "csp_Xinsj","name": "🐼新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.6080dy3.com"},
 {"key":"sp-AppTT","name":"🐰图图影视","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://download.kstore.space/download/4127/FXZ.txt;md5;e9cd011b798d103bbdbdca9966983ecb","ext":"vWXYqNnHMMilWZLtSRK#t0MIw5IARrcMqiaojiChinJ9S7o6sYmMVW"},
 {"key": "csp_Czsapp","name": "📔厂长资源","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/fty.jar"},
@@ -177,8 +177,6 @@
 {"name":"解析聚合","type": 3,"url": "Demo"},
 {"name":"Json并发","type": 2,"url": "Parallel"},
 {"name":"Json轮询","type": 2,"url": "Sequence"},
-{"name":"自动解析","type":1,"url":"https://api.json.icu/api/?key=e1b8ffbdf28ad7be871278b468b0f127&url="},
-{"name":"手动解析","type":1,"url":"http://jiexi.xdv.icu/api/?key=2y7rbLuUGKfMvlHR02&url="},
 {"name":"1号线","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 {"name": "自动嗅探","type": 3,"url": "Web","header":{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"}},
 {"name": "智能探测CM","type": 0,"url": "https://jxdp.codermart.net/?url="},
