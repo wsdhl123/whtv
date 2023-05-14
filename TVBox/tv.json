@@ -2,6 +2,14 @@
 "spider":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/230411.jar",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby93c2RobDEyMy93aHR2L21hc3Rlci9UVkJveC93aHR2LnR4dA"]}]}],
+"lives": [{
+"name": "live",
+"type": 0,
+//"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+"playerType": 1,
+"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+}],
 "sites":[
 {"key":"csp_apple","name":"🍎苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_555","name": "5️⃣️555","type": 3,"api": "csp_Ys555","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.555dyy1.com"},
