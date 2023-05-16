@@ -1,58 +1,94 @@
 
 🌏｜央视频道,#genre#
 CCTV1,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
-
 CCTV2,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
-
 CCTV3,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
-
 CCTV4,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
-
 CCTV5,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
-
 CCTV5+,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
-
 CCTV6,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
-
 CCTV7,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
-
 CCTV8,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
-
 CCTV9,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
-
 CCTV10,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
-
 CCTV11,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
-
 CCTV12,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
-
 CCTV13,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-
 CCTV14,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
-
 CCTV15,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
-
-
 CCTV16,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012375003.m3u8
-
 CCTV17,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
 
-CCTV1,http://lu1.cc/a/play/php/as.php?id=cctv1hd
+CCTV1,http://221.0.78.198:1681/hls/10201/index.m3u8
+CCTV2,http://221.0.78.198:1681/hls/10202/index.m3u8
+CCTV3,http://221.0.78.198:1681/hls/10203/index.m3u8
+CCTV4,http://221.0.78.198:1681/hls/10204/index.m3u8
+CCTV5,http://221.0.78.198:1681/hls/10205/index.m3u8
+CCTV5+,http://221.0.78.198:1681/hls/10217/index.m3u8
+CCTV6,http://221.0.78.198:1681/hls/10206/index.m3u8
+CCTV7,http://221.0.78.198:1681/hls/10207/index.m3u8
+CCTV8,http://221.0.78.198:1681/hls/10208/index.m3u8
+CCTV9,http://221.0.78.198:1681/hls/10209/index.m3u8
+CCTV10,http://221.0.78.198:1681/hls/10210/index.m3u8
+CCTV11,http://221.0.78.198:1681/hls/10211/index.m3u8
+CCTV12,http://221.0.78.198:1681/hls/10212/index.m3u8
+CCTV13,http://221.0.78.198:1681/hls/10213/index.m3u8
+CCTV14,http://221.0.78.198:1681/hls/10214/index.m3u8
+CCTV15,http://221.0.78.198:1681/hls/10215/index.m3u8
+CCTV17,http://221.0.78.198:1681/hls/10289/index.m3u8
+CGTN,http://221.0.78.198:1681/hls/10216/index.m3u8
+
+CCTV1,http://www.yiyibest.com:7777/udp/239.49.8.19:9614
+CCTV2,http://www.yiyibest.com:7777/udp/239.49.8.50:9802
+CCTV3,http://www.yiyibest.com:7777/udp/239.49.9.31:6000
+CCTV4,http://www.yiyibest.com:7777/udp/239.49.8.51:9806
+CCTV5,http://www.yiyibest.com:7777/udp/239.49.8.75:8000
+CCTV5+,http://www.yiyibest.com:7777/udp/239.49.8.18:9610
+CCTV6,http://www.yiyibest.com:7777/udp/239.49.9.33:6000
+CCTV7,http://www.yiyibest.com:7777/udp/239.49.9.81:6000
+CCTV8,http://www.yiyibest.com:7777/udp/239.49.9.34:6000
+CCTV9,http://www.yiyibest.com:7777/udp/239.49.8.53:9814
+CCTV10 ,http://www.yiyibest.com:7777/udp/239.49.8.54:9818
+CCTV11,http://www.yiyibest.com:7777/udp/239.49.0.127:8000
+CCTV12,http://www.yiyibest.com:7777/udp/239.49.8.55:9822
+CCTV13,http://www.yiyibest.com:7777/udp/239.49.9.43:6000
+CCTV14,http://www.yiyibest.com:7777/udp/239.49.8.56:9826
+CCTV15,http://www.yiyibest.com:7777/udp/239.49.0.128:8000
+CCTV16 ,http://www.yiyibest.com:7777/udp/239.49.9.58:6000
+CCTV17,http://www.yiyibest.com:7777/udp/239.49.8.52:9810
+
 CCTV1,http://113.207.84.197:8090/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8 
+CCTV2,http://113.207.84.197:8090/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8 
+CCTV3,http://113.207.84.197:8090/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8 
+CCTV4,http://113.207.84.197:8090/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8 
+CCTV5,http://113.207.84.197:8090/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8 
+CCTV5+,http://113.207.84.197:8090/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8 
+CCTV6,http://113.207.84.197:8090/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8 
+CCTV7,http://113.207.84.197:8090/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8 
+CCTV8,http://113.207.84.197:8090/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8 
+CCTV9,http://113.207.84.197:8090/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8 
+CCTV10,http://113.207.84.197:8090/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8 
+CCTV11,http://113.207.84.197:8090/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8 
+CCTV12,http://113.207.84.197:8090/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8 
+CCTV13,http://113.207.84.197:8090/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8 
+CCTV14,http://113.207.84.197:8090/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8 
+CCTV15,http://113.207.84.197:8090/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8 
+CCTV16,http://113.207.84.197:8090/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8 
+CCTV17,http://113.207.84.197:8090/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8 
+
+
+
+
 CCTV1,http://1.204.169.243/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
 
-CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
-CCTV1,http://www.yiyibest.com:7777/udp/239.49.8.19:9614
 
-
-CCTV2,http://113.207.84.197:8090/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8 
 CCTV2,http://1.204.169.243/live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
 
 CCTV2,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
 
-CCTV3,http://113.207.84.197:8090/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8 
+
 CCTV3,http://1.204.169.243/live.aishang.ctlcdn.com/00000110240245_1/playlist.m3u8?CONTENTID=00000110240245_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
 
@@ -67,26 +103,26 @@ CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
 CCTV4,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
 
 
-CCTV5,http://113.207.84.197:8090/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8 
+
 CCTV5,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
 CCTV5,http://1.204.169.243/live.aishang.ctlcdn.com/00000110240246_1/playlist.m3u8?CONTENTID=00000110240246_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CCTV5,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240246_1/playlist.m3u8?CONTENTID=00000110240246_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+
 CCTV5,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
 
-CCTV5+,http://113.207.84.197:8090/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8 
+
 
 CCTV5+,http://live.cooltv.top/tv/aishang.php?id=cctv5p
 CCTV5+,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 
 
-CCTV6,http://113.207.84.197:8090/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8 
+
 CCTV6,http://1.204.169.243/live.aishang.ctlcdn.com/00000110240247_1/playlist.m3u8?CONTENTID=00000110240247_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV6,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
 
 CCTV6,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
 
 
-CCTV7,http://113.207.84.197:8090/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8 
+
 CCTV7,http://1.204.169.243/live.aishang.ctlcdn.com/00000110240248_1/playlist.m3u8?CONTENTID=00000110240248_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV7,http://live.cooltv.top/tv/aishang.php?id=cctv7hd
 
@@ -94,20 +130,20 @@ CCTV7,http://live.cooltv.top/tv/aishang.php?id=cctv7hd
 
 
 
-CCTV8,http://113.207.84.197:8090/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8 
+
 CCTV8,http://1.204.169.243/live.aishang.ctlcdn.com/00000110240249_1/playlist.m3u8?CONTENTID=00000110240249_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV8,http://live.cooltv.top/tv/aishang.php?id=cctv8hd
 
 CCTV8,https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
 
 
-CCTV9,http://113.207.84.197:8090/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8 
+
 CCTV9,http://1.204.169.243/live.aishang.ctlcdn.com/00000110240250_1/playlist.m3u8?CONTENTID=00000110240250_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV9,http://live.cooltv.top/tv/aishang.php?id=cctv9hd
 
 CCTV9,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
 
-CCTV10,http://113.207.84.197:8090/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8 
+
 
 CCTV10,http://live.cooltv.top/tv/aishang.php?id=cctv10hd
 
@@ -115,42 +151,41 @@ CCTV10,https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000
 
 CCTV11,http://218.29.55.44:808/hls/11/index.m3u8
 
-CCTV11,http://113.207.84.197:8090/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8 
+
 CCTV11,http://1.204.169.243/live.aishang.ctlcdn.com/00000110240328_1/playlist.m3u8?CONTENTID=00000110240328_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
 CCTV11,https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000
 
 
-CCTV12,http://113.207.84.197:8090/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8 
+
 CCTV12,http://1.204.169.243/live.aishang.ctlcdn.com/00000110240252_1/playlist.m3u8?CONTENTID=00000110240252_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV12,http://live.cooltv.top/tv/aishang.php?id=cctv12hd
 
 CCTV12,https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000
 
-CCTV13,http://113.207.84.197:8090/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8 
+
 CCTV13,http://1.204.169.243/live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
 
 CCTV13,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
 
-CCTV14,http://113.207.84.197:8090/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8 
+
 CCTV14,http://1.204.169.243/live.aishang.ctlcdn.com/00000110240253_1/playlist.m3u8?CONTENTID=00000110240253_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV14,http://live.cooltv.top/tv/aishang.php?id=cctv14hd
 
 CCTV14,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
 
-CCTV15,http://113.207.84.197:8090/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8 
 CCTV15,http://1.204.169.243/live.aishang.ctlcdn.com/00000110240329_1/playlist.m3u8?CONTENTID=00000110240329_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV15,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
 
 CCTV15,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
 
-CCTV16,http://113.207.84.197:8090/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8 
+
 CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
 
 CCTV16,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
 
-CCTV17,http://113.207.84.197:8090/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8 
+
 CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 
 CCTV17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
