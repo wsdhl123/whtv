@@ -143,7 +143,7 @@
 {"key":"csp_XBiu口袋影院","name": "📩口袋影视","type": 3,"api": "csp_XBiu","ext": {"homeUrl": "http://www.koudaitv.com/type/{cateId}-{catePg}.html","playlist":{"sort":1}}},
 {"key":"csp_XBiu233动漫","name": "🦁233动漫","type": 3,"api": "csp_XBiu","ext": "https://www.233dm.cc/show/{cateId}--------{catePg}---.html"},
 {"key":"csp_XBiuCOKEMV","name":"🍬COK影视","type":3,"api":"csp_XBiu","ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
-创建训练
+
 
 
 //采集
