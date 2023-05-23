@@ -5,7 +5,7 @@
 "lives": [{
 "name": "live",
 "type": 0,
-"url": "https://raw.fastgit.org/wsdhl123/whtv/master/TVBox/whtv.txt",
+"url": "https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/whtv.txt",
 "playerType": 1,
 "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 "logo": "https://epg.112114.xyz/logo/{name}.png"
