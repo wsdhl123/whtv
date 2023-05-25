@@ -4,7 +4,7 @@
 
 
 CCTV1,http://stream4.jlntv.cn:80/cctv1hd/playlist.m3u8
-CCTV1,http://lu1.cc/itv/php/cqyx.php?id=cctv1
+CCTV1,https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
 CCTV9,http://stream1.jlntv.cn/fzpd/sd/live.m3u8
 CCTV13,http://stream4.jlntv.cn:80/cctv13/playlist.m3u8
 CCTV17,http://stream1.jlntv.cn/xcpd/sd/live.m3u8
