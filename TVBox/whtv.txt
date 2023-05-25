@@ -3,7 +3,7 @@
 
 
 
-CCTV1,http://www.yiyibest.com:7777/udp/239.49.8.19:9614
+CCTV1,http://ct.whosayssowhat.top:4022/udp/239.77.1.17:5146
 CCTV1,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
 CCTV2,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
 CCTV3,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
