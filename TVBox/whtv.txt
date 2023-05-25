@@ -38,25 +38,6 @@ CCTV15,http://221.0.78.198:1681/hls/10215/index.m3u8
 CCTV17,http://221.0.78.198:1681/hls/10289/index.m3u8
 CGTN,http://221.0.78.198:1681/hls/10216/index.m3u8
 
-cctv1,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
-cctv2,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
-cctv3,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
-cctv4,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
-cctv5,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
-cctv5+,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
-cctv6,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
-cctv7,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
-cctv8,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000203903.m3u8
-cctv9,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
-cctv10,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000203503.m3u8
-cctv11,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000204103.m3u8
-cctv12,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000202603.m3u8
-cctv13,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000204603.m3u8
-cctv14,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000204403.m3u8
-cctv15,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205002.m3u8
-cctv16,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012375003.m3u8
-cctv17,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
-
 CCTV1,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210103.m3u8
 CCTV2,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203603.m3u8
 CCTV3,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
