@@ -20,23 +20,22 @@ CCTV15,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
 CCTV16,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012375003.m3u8
 CCTV17,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
 
+CCTV1,http://1.183.141.194:8000/hls/1/index.m3u8
+CCTV2,http://1.183.141.194:8000/hls/2/index.m3u8
+CCTV3,http://1.183.141.194:8000/hls/3/index.m3u8
+CCTV4,http://1.183.141.194:8000/hls/4/index.m3u8
+CCTV5,http://1.183.141.194:8000/hls/5/index.m3u8
+CCTV6,http://1.183.141.194:8000/hls/6/index.m3u8
+CCTV7,http://1.183.141.194:8000/hls/7/index.m3u8
+CCTV8,http://1.183.141.194:8000/hls/8/index.m3u8
+CCTV9,http://1.183.141.194:8000/hls/9/index.m3u8
+CCTV10,http://1.183.141.194:8000/hls/10/index.m3u8
+CCTV11,http://1.183.141.194:8000/hls/11/index.m3u8
+CCTV12,http://1.183.141.194:8000/hls/12/index.m3u8
+CCTV13,http://1.183.141.194:8000/hls/13/index.m3u8
+CCTV14,http://1.183.141.194:8000/hls/14/index.m3u8
+CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
 
-CCTV1,mitv://generationnexxxt.com:19806/ed4a6f0452a24765bc252f219b5f3d70.ts
-CCTV2,mitv://generationnexxxt.com:19806/d6bab1cf99c84393bc5cfec7f3f1ce1a.ts
-CCTV3,mitv://generationnexxxt.com:19806/2b71b803204a4db68b811aeebff78583.ts
-CCTV4,mitv://generationnexxxt.com:19806/184980ad9121443fa6b45c9f6c3f9e3c.ts
-CCTV5,mitv://generationnexxxt.com:19806/3b142cffb4924301b28c5f605630801e.ts
-CCTV5+,mitv://generationnexxxt.com:19806/523c903908b7424f9f71bf77a2427b71.ts
-CCTV6,mitv://generationnexxxt.com:19806/fabe340b1cc94bc8a42db4844fb7e497.ts
-CCTV7,mitv://generationnexxxt.com:19806/bdb65d653d2047b28f0b63754eaedf7f.ts
-CCTV8,mitv://generationnexxxt.com:19806/0b89dbe0103d4b7c996322d23953ee61.ts
-CCTV9,mitv://generationnexxxt.com:19806/5f684b66c63e4e13a64d397bdcfc6080.ts
-CCTV10,mitv://generationnexxxt.com:19806/e80d571550544cec9c042cd582afe711.ts
-CCTV11,mitv://generationnexxxt.com:19806/8904b82974004fa3b0322f4d1961d8ce.ts
-CCTV12,mitv://generationnexxxt.com:19806/d9aa973d952a4400b770e0e159556464.ts
-CCTV13,mitv://generationnexxxt.com:19806/707de9b4cd414d8d9a0d22412f0f7fbc.ts
-CCTV14,mitv://generationnexxxt.com:19806/85745f450c384b1e9a8b632423828e4f.ts
-CCTV15,mitv://generationnexxxt.com:19806/e01f3a43c75241bbbc11e400490c45eb.ts
 
 
 CCTV1,http://221.0.78.198:1681/hls/10201/index.m3u8
