@@ -1,25 +1,6 @@
 
 🌏｜央视频道,#genre#
 
-CCTV1,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
-CCTV2,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
-CCTV3,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
-CCTV4,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
-CCTV5,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
-CCTV5+,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
-CCTV6,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
-CCTV7,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
-CCTV8,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
-CCTV9,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
-CCTV10,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
-CCTV11,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
-CCTV12,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
-CCTV13,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-CCTV14,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
-CCTV15,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
-CCTV16,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012375003.m3u8
-CCTV17,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
-
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
@@ -45,6 +26,25 @@ CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212261
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV16,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+
+CCTV1,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
+CCTV2,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
+CCTV3,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
+CCTV4,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
+CCTV5,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
+CCTV5+,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
+CCTV6,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
+CCTV7,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
+CCTV8,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
+CCTV9,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
+CCTV10,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
+CCTV11,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
+CCTV12,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
+CCTV13,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+CCTV14,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
+CCTV15,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
+CCTV16,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012375003.m3u8
+CCTV17,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
 
 
 CCTV1,http://221.0.78.198:1681/hls/10201/index.m3u8
