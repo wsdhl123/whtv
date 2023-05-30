@@ -177,7 +177,7 @@
 {"key":"初中","name":"📚初中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/61581/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json?sign=7Jxqd0BzuIm-2OvXZyoRasDb1P3OojENYkxLf6bhLr0%3D%3A0","jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/zzg.jar"},
 {"key":"高中","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/61580/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json?sign=ESNTJf_EMO0ch_J5j-kV35jFLeg1GvG4VJjUqW2DJCc%3D%3A0","jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/zzg.jar"},
 {"key":"csp_xBPQ_学习课堂","name":"📚学习课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/XBPQ/学习课堂.json","jar":"https://raw.kgithub.com/XiaoYiChaHang/tvbox/main/JAR/XiaoYiChaHang.jar"},
-{"key":"mtv_xp_学习课堂","name":"🅱学习课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./XBPQ/学习课堂.json,"jar":"https://raw.kgithub.com/XiaoYiChaHang/tvbox/main/JAR/XiaoYiChaHang.jar""},
+{"key":"mtv_xp_学习课堂","name":"🅱学习课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/XBPQ/学习课堂.json","jar":"https://raw.kgithub.com/XiaoYiChaHang/tvbox/main/JAR/XiaoYiChaHang.jar"},
 {"key":"说明4","name":"不要相信视频中的任何广告","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0}
 ],
 
