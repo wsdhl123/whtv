@@ -138,7 +138,6 @@
 {"key":"csp_XBPQ创艺影视","name":"🥒创艺影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/XBPQ/创意影视.json","jar":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/230423.jar"},
 //XBiu
 {"key": "csp_XBPQ_南瓜影视","name": "南瓜影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html"},
-{"key":"csp_XBiu口袋影院","name": "📩口袋影视","type": 3,"api": "csp_XBiu","ext": {"homeUrl": "http://www.koudaitv.com/list/{cateId}_{catePg}_desc_{by}_0_0___.html;;ak","playlist":{"sort":1}}},
 {"key":"csp_XBiu233动漫","name": "🦁233动漫","type": 3,"api": "csp_XBiu","ext": "https://www.233dm.cc/show/{cateId}--------{catePg}---.html"},
 {"key":"csp_XBiuCOKEMV","name":"🍬COK影视","type":3,"api":"csp_XBiu","ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
 
