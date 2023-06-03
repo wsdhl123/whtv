@@ -109,7 +109,7 @@ CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 
 
 
-💖｜央视二,#genre#
+💖｜央视 二,#genre#
 CCTV1,http://39.134.136.151:6610/000000001000/1000000001000021973/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=00
 CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226638/1.m3u8
 CCTV1,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
@@ -686,7 +686,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 
-💟｜卫视二,#genre#
+💟｜卫视 二,#genre#
 湖南卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
 湖南卫视,http://39.134.136.151:6610/000000001000/1000000001000009115/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=00
 湖南卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/001/2000296203.m3u8
@@ -1343,7 +1343,7 @@ Fox News Now,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 日本-NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-🎶｜MTV,#genre#
+🎶｜  MTV,#genre#
 陈元汐-桃花笑,https://vd2.bdstatic.com/mda-nbg4cz1tc501zby3/sc/cae_h264_delogo/1645068400771569995/mda-nbg4cz1tc501zby3.mp4
 想你的时候问月亮,https://vdse.bdstatic.com//ec33a3aaab2aafb34d5816962f2a5ae5.mp4
 刀郎-手心里的温柔,https://vd4.bdstatic.com/mda-kj18fhzhecfm9trb/hd/mda-kj18fhzhecfm9trb.mp4?v_from_s=hkapp-haokan-hna&auth_key=1660979429-0-0-d618a562756592f47e49b48da28b03c0&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2429666415&vid=7354365621159416902&abtest=103525_2-103742_1-103579_2&klogid=2429666415
@@ -1608,7 +1608,7 @@ Fox News Now,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 一生所爱,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgk9aq4gUogIDbxwQ.mp4
 迈克尔杰克逊,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw9ma4gUo3YLDvgU.mp4
 
-🎸｜DJ热,#genre#
+🎸｜  DJ热,#genre#
 今日热歌DJ《如果爱还在》,https://vd2.bdstatic.com/mda-mhhf5mr00yyhpfjs/1080p/cae_h264/1629284581057661229/mda-mhhf5mr00yyhpfjs.mp4
 推荐9首DJ舞曲,https://vd2.bdstatic.com/mda-mhig1c3sw223mx8p/1080p/cae_h264/1629380139191731149/mda-mhig1c3sw223mx8p.mp4
 动感DJ《苦了累了听听歌》,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_h264/1629888246186602728/mda-mhqekuf2r91v08dt.mp4
