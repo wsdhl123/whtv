@@ -4,7 +4,7 @@
 "lives":[{"name": "live","type": 0,"url": "https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/whtv.txt","playerType": 1, "ua": "okhttp/3.12.13","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "sites":
 [
-{"key":"csp_apple","name":"🍎苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_apple","name":"🍎苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/fty.jar"},
 {"key": "csp_555","name": "5️⃣️555","type": 3,"api": "csp_Ys555","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.555dyy1.com"},
 {"key": "csp_MeiJu69","name": "🗽69美剧","api": "csp_AppYsV2","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://www.69mj.com/xgapp.php/v2/"},
  {"key":"csp_WoGG","name":"👨‍🏫玩偶4K","type":3,"api":"csp_WoGG","playerType":2,"ext":"http://raw.kgithub.com/wsdhl123/whtv/master/TVBox/ext/token.txt"},
