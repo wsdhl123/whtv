@@ -81,7 +81,7 @@
 {"key":"Anime1","name":" 🧟Ani影视","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_XYQ_lu1","name":"📺电视直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/ext/电视直播.json"},
 {"key":"csp_Paper","name":"📜纸条云盘","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://raw.kgithub.com/wsdhl123/whtv/master/TVBox/ext/token.txt"}, 
-{"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
+{"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","ext":"http://raw.kgithub.com/wsdhl123/whtv/master/TVBox/ext/token.txt"},
 {"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","ext":"http://127.0.0.1:9978/file/tvfan/token.txt$$$hz752$$$mdsy2513"},
 {"key":"PanSou","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","ext":"http://raw.kgithub.com/wsdhl123/whtv/master/TVBox/ext/token.txt"},
 {"key":"TuGou","name":"😿土狗┃搜索","type":3,"api":"csp_TuGou","ext":"http://raw.kgithub.com/wsdhl123/whtv/master/TVBox/ext/token.txt"},
