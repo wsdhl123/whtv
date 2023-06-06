@@ -202,7 +202,7 @@
 {"name":"新建5","type":0,"url":"https://jx.rdhk.net/?v="}, 
 {"name":"新建6","type":0,"url":"https://jsap.attakids.com/?url="}, 
 {"name":"新建7","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
-{"name":"新建8","type":0,"url":"https://hi1907.top/?jx","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name":"新建8","type":0,"url":"https://hi1907.top/?jx","header":{"User-Agent":"Mozilla/5.0"}},
 {"name": "云","type": 0,"url": "https://jx.aidouer.net/?url="},
 {"name": "小新解析", "type": 1, "url": "http://xiaoxin.1080p.me/api/?key=368b2df76af1b58d897bbe31a00180c0&url="},
 
