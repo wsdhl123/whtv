@@ -25,7 +25,6 @@
 {"key":"在线","name":"🧵在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/","jar":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/xh.jar"},
 {"key":"csp_YQKAPP","name":"👨‍👩‍👧‍👦一起看TV","type":3,"api":"csp_YQKAPP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
 {"key":"mtv_pc_焦炭影视","name":"🔥焦炭影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"csp_8K","name":"🌠八K之光","type":1,	  "api":"http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/","playUrl":"json:http://47.119.122.235:5566/json/free.php?url="},
 {"key":"csp_ole","name":"欧乐影院","type":4,"api":"https://php.dovxs.repl.co/vod/ole.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xml_可米","name":"可米影视","type":1,"api":"https://cj.kemi.lol/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
