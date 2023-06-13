@@ -1,6 +1,6 @@
 {
 "spider":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/yydd.jar",
-"warningText":"😄接口已更新，若无法解析需要升级TVbox软件！😄",
+"warningText":"😄接口已更新，若无法解析需要升级TVbox软件！😄","jar":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/xymz4.jar",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives":[{"name": "live","type": 0,"url": "https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/whtv.txt","playerType": 1, "ua": "okhttp/3.12.13","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "sites":
