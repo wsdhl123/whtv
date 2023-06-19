@@ -195,9 +195,6 @@
 {"name":"解析聚合"，"type": 3，"url": "Demo"}，
 {"name":"Json并发"，"type": 2，"url": "Parallel"}，
 {"name":"Json轮询"，"type": 2，"url": "Sequence"}，
-{"name":"前期"，"type": 0，"url": "https://api.qianqi.net/vip/?url="}，
-{"name":"nv"，"type": 0，"url": "https://jx.nnxv.cn/tv.php?url="}，
-{"name":"ad"，"type": 0，"url": "https://jx.aidouer.net/?url="}， 
 {"name":"2.08"，"type":0，"url":"https://2.08bk.com/?url="}， 
 {"name":"80902"，"type":0，"url":"https://www.8090g.cn/jiexi/?url="}， 
 {"name":"新建7"，"type":0，"url":"https://jx.jsonplayer.com/player/?url="}，
