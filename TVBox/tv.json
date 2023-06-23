@@ -19,6 +19,7 @@
 {"key":"csp_Kunyu77","name":"🌈Kunyu77影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/fty.jar"},
 {"key":"360_spider","name":"💫360影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.360kan.com","jar":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/fty.jar"},
 {"key":"csp_Xinsj","name": "🐼新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.6080dy3.com"},
+{"key": "csp_Czsapp","name": "厂长┃直连","type": 3,"api": "csp_Czsapp",playerType": 2, "searchable": 1, "quickSearch": 1,"ext": "https://czzy.art/", "filterable": 1},
 {"key":"csp_Czsapp","name": "📔厂长资源","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/fty.jar"},
 {"key":"csp_Dy1010","name": "❤️双十","type": 3,"api": "csp_Dy1010","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/fty.jar"},
 {"key":"csp_非凡资源","name":"🥗非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playurl":"","searchable":1,"quickSearch":1},
