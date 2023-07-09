@@ -14,14 +14,14 @@
 
 {"key":"csp_Kunyu77","name":"🌈Kunyu77影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Xinsj","name": "🐼新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.6080dy3.com"},
+
 {"key": "csp_Czsapp","name":"📔厂长直连","type": 3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"ext": "https://czzy.art/", "filterable":1},
 
-{"key":"csp_Dy1010","name": "❤️双十","type": 3,"api": "csp_Dy1010","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/fty.jar"},
+{"key":"csp_Dy1010","name": "❤️双十","type": 3,"api": "csp_Dy1010","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_非凡资源","name":"🥗非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playurl":"","searchable":1,"quickSearch":1},
 {"key":"csp_量子资源","name":"🌟量子","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_XBPQ_24","name":"🦸简写","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组": "class=\"aplus-exp\"&&</a>","分类":"电影$1#剧集$2#动漫$4#综艺$3#记录$20","分类url":"https://www.23wm.net/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"}},
-{"key":"在线","name":"🧵在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/","jar":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/xh.jar"},
+{"key":"在线","name":"🧵在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 {"key":"csp_YQKAPP","name":"👨‍👩‍👧‍👦一起看TV","type":3,"api":"csp_YQKAPP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
 {"key":"mtv_pc_焦炭影视","name":"🔥焦炭影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_8K","name":"🌠八K之光","type":1,	  "api":"http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/","playUrl":"json:http://47.119.122.235:5566/json/free.php?url="},
