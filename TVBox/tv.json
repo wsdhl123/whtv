@@ -45,17 +45,17 @@
 {"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 
 {"key": "csp_xb_ysgc","name": "🌟影视工厂(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"},
-{"key":"csp_xBPQ_52看剧","name":"🍎52看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/XBPQ/52看剧.json","jar":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/230411.jar"},
+{"key":"csp_xBPQ_52看剧","name":"🍎52看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/XBPQ/52看剧.json"},
 {"key": "csp_xb_lgyys","name": "🌟蓝光影院(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"奥特影视","name":"🍈奥特影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key": "pwd_zyku","name": "📓zyku","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php","searchable": 1,"quickSearch": 1},
 {"key":"Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"AList","name":"🗂Alist合集","type":3,"api":"csp_AList","searchable":0,"quickSearch":1,"filterable":0,"ext":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/ext/Alist.txt"},
 
 {"key":"csp_DiDuan","name":"🐞低端[SP]","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Cokemv","name":"🎀Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_Smdyy","name": "🐴神马影视","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/fty.jar"},
-{"key":"csp_Btwtoo","name":"✌两个BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/fty.jar"},
+{"key":"csp_Smdyy","name": "🐴神马影视","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_Btwtoo","name":"✌两个BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,},
 {"key":"csp_Lib","name":"🍲LIB[SP]","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
 {"key": "csp_AppMr","name": "👻明明影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 {"key":"csp_Yj1211","name":"👑直播合集","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
