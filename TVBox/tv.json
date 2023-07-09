@@ -55,7 +55,7 @@
 {"key":"csp_DiDuan","name":"🐞低端[SP]","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Cokemv","name":"🎀Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Smdyy","name": "🐴神马影视","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_Btwtoo","name":"✌两个BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_Lib","name":"🍲LIB[SP]","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
 {"key": "csp_AppMr","name": "👻明明影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 {"key":"csp_Yj1211","name":"👑直播合集","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
@@ -64,23 +64,16 @@
 {"key":"csp_AppMr","name":"🦍二明影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan" ,"name":"⏮️低端影视","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"csp_Nkdy","name":"🗽南柯影视","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Auete","name":"🏝Aue影视","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Nkdy","name":"🦸‍耐看电影","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_555电影","name":"🐾三五电影","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
 
-{"key":"csp_3EDY","name":"🔥3E飘花(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/ext/EEEDY.jpg"},
+
 {"key":"csp_QQ","name":" 🍅腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/ext/qim.jpg;md5;3C40DBCB8082364E1C416EBC3E219E6A"},
 {"key":"csp_IQIYI","name":"🥝爱奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/ext/qim.jpg;md5;3C40DBCB8082364E1C416EBC3E219E6A"},
 {"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/ext/qim.jpg;md5;3C40DBCB8082364E1C416EBC3E219E6A"},
-{"key":"csp_Bd","name":"🎵哔滴影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_Bttoo","name":"🔺Btto影视","api":"csp_Bttwoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 
-{"key":"Dm84","name":" 🦸动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Anime1","name":" 🧟Ani影视","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_XYQ_lu1","name":"📺电视直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/ext/电视直播.json"},
-{"key":"csp_Paper","name":"📜纸条云盘","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://raw.kgithub.com/wsdhl123/whtv/master/TVBox/ext/token.txt"}, 
-{"key": "xcys","name": "🌠星辰影视","type":1,"api":"http://tv.cpkey.cn/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"fl":"520520","categories": ["电影","电视剧","综艺","动漫"]},
- 
+
 //xBPQ系列
 {"key":"csp_XYQHiker_布蕾","name":"⚡️布雷影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/XBPQ/布蕾影院.json","jar":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/230411.jar"},
 {"key": "csp_XBPQ秋霞影视","name": "️🍂秋霞影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"分类":"电影$1#连续剧$2#动漫$4#综艺$3","分类url":"https://www.qiuxia360.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val","跳转播放链接": "https://www.jfxz689.com/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"","二次跳转播放链接": "https://www.jfxz689.com/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"","三次跳转播放链接": "\"url\"*\"&&\""}},
@@ -137,7 +130,7 @@
 {"key":"csp_xBPQ_8K影视","name":"🌟8K影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/XBPQ/8K影视.json","jar":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/xbpq2.jar"},
 {"key":"csp_XBPQ创艺影视","name":"🥒创艺影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/XBPQ/创意影视.json","jar":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/xbpq2.jar"},
 //XBiu
-{"key": "csp_XBPQ_南瓜影视","name": "南瓜影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html","jar":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/fty.jar"},
+{"key": "csp_XBPQ_南瓜影视","name": "南瓜影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html"},
 {"key":"csp_XBiu233动漫","name": "🦁233动漫","type": 3,"api": "csp_XBiu","ext": "https://www.233dm.cc/show/{cateId}--------{catePg}---.html"},
 {"key":"csp_XBiuCOKEMV","name":"🍬COK影视","type":3,"api":"csp_XBiu","ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
 
@@ -151,17 +144,17 @@
 {"key":"789盘","name":"🦞789盘(优)","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"龙腾资源","name":"🎂龙腾资源(优)","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"映迷","name":"🍡映迷(优)","type":1,"api":"https://www.inmi.app/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"乐活影视","name":"🍝乐活影视(优)","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
 {"key":"csp_xml_天堂资源","name":"🐝天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_影图资源","name":"🐝影图资源","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key": "软件","name": "📚软件教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/wsdhl/whtv/raw/master/TVBox/MeowXB/软件教程.json"},
+
 {"key":"csp_xml_xinlang","name":"🐝新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 {"key":"csp_xml_光速资源","name":"🐝光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_忆梦","name":"🐝忆 梦","type":1,"api":"http://anltv.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_快播云","name":"🐝快播云","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+
 {"key":"csp_xml_红牛资源","name":"🐝红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_外国影源","name":"🐝外国影源","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+
 {"key":"csp_xml_百度资源","name":"🐝百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_飞速采集","name":"🐝飞速采集","type":1,"api":"https://m3u8.feisuzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_飞速资源","name":"🐝飞速资源","type":1,"api":"http://fszy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -169,17 +162,14 @@
 {"key":"csp_xml_U酷资源","name":"🐝U酷 资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_天空资源","name":"🐝天空资源m3u8","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_卧龙资源","name":"🐝卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_FOX采集","name":"🐝Fox 采集","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_酷点资源","name":"🐝酷点资源","type":1,"api":"https://api.kuapi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_鱼乐资源","name":"🐝鱼乐资源","type":1,"api":"https://www.ylzy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"乐活影视","name":"乐活影视(优)","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
 //学习教育
-{"key":"儿童","name":"📚少儿教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/61578/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json?sign=3BlFTWj-rXJPPgJB6eQ1_C0odRnDCaW28cr8afXaO_I%3D%3A0","jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/zzg.jar"},
-{"key":"小学","name":"📚小学课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/61579/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json?sign=Oqbf9547dxbhVTf07kdHsuNZgzIWH2UT9uY7zRbTA5M%3D%3A0","jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/zzg.jar"},
-{"key":"初中","name":"📚初中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/61581/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json?sign=7Jxqd0BzuIm-2OvXZyoRasDb1P3OojENYkxLf6bhLr0%3D%3A0","jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/zzg.jar"},
-{"key":"高中","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/61580/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json?sign=ESNTJf_EMO0ch_J5j-kV35jFLeg1GvG4VJjUqW2DJCc%3D%3A0","jar":"https://raw.iqiq.io/wsdhl123/whtv/master/TVBox/zzg.jar"},
-{"key":"csp_xBPQ_学习课堂","name":"📚学习课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/XBPQ/学习课堂.json","jar":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/xych.jar"},
-{"key":"mtv_xp_学习课堂","name":"🅱学习课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/XBPQ/学习课堂.json","jar":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/xych.jar"},
+{"key":"儿童","name":"📚少儿教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/61578/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json?sign=3BlFTWj-rXJPPgJB6eQ1_C0odRnDCaW28cr8afXaO_I%3D%3A0"},
+{"key":"小学","name":"📚小学课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/61579/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json?sign=Oqbf9547dxbhVTf07kdHsuNZgzIWH2UT9uY7zRbTA5M%3D%3A0"},
+{"key":"初中","name":"📚初中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/61581/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json?sign=7Jxqd0BzuIm-2OvXZyoRasDb1P3OojENYkxLf6bhLr0%3D%3A0"},
+{"key":"高中","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/61580/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json?sign=ESNTJf_EMO0ch_J5j-kV35jFLeg1GvG4VJjUqW2DJCc%3D%3A0"},
+{"key":"csp_xBPQ_学习课堂","name":"📚学习课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/XBPQ/学习课堂.json"},
+{"key":"mtv_xp_学习课堂","name":"🅱学习课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.kgithub.com/wsdhl123/whtv/master/TVBox/XBPQ/学习课堂.json"},
 {"key":"说明4","name":"不要相信视频中的任何广告","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0}
 ],
 
