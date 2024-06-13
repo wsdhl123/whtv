@@ -1,4 +1,17 @@
+🌏｜央视调试,#genre#
+CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV1,http://23.237.196.98:680/live/CCTV1HD/hls.m3u8
+CCTV1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
+CCTV1,http://59.174.226.55:8880/rtp/239.254.96.96:8550
+CCTV1,http://220.175.144.163:9000/udp/239.252.219.200:5140
+CCTV1,http://122.235.240.131:8888/rtp/233.50.201.118:5140
+CCTV1,http://121.206.28.77:9999/rtp/239.61.3.60:9878
+CCTV1,http://219.145.43.10:8000/rtp/239.112.205.59:5140
+CCTV1,http://171.109.211.52:8888/udp/239.81.0.102:4056
+CCTV1,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel116/index.m3u8
+CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
 🌏｜央视频道,#genre#
+
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
