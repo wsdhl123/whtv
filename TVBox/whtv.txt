@@ -56,7 +56,7 @@ CCTV15,http://111.225.92.140:33333/hls/15/index.m3u8
 CCTV17,http://111.225.92.140:33333/hls/16/index.m3u8
 CCTV5+,http://111.225.92.140:33333/hls/17/index.m3u8
 
-
+CCTV1,http://TVOD/88888888/224/3221225816/main.m3u8
 
 
 
