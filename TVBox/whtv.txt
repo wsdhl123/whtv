@@ -29,6 +29,42 @@ CCTV法语,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cgtnf
 CCTV阿拉伯语,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cgtna
 CCTV俄语,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cgtnr
 
+CCTV1,http://kxrj.site:8081/8647/mg.php?id=cctv1
+CCTV2,http://kxrj.site:8081/8647/mg.php?id=cctv2
+CCTV3,http://kxrj.site:8081/8647/mg.php?id=cctv3
+CCTV4,http://kxrj.site:8081/8647/mg.php?id=cctv4
+CCTV5,http://kxrj.site:8081/8647/mg.php?id=cctv5
+CCTV5+,http://kxrj.site:8081/8647/mg.php?id=cctv5p
+CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
+CCTV6,http://kxrj.site:8081/8647/mg.php?id=cctv6
+CCTV7,http://kxrj.site:8081/8647/mg.php?id=cctv7
+CCTV8,http://kxrj.site:8081/8647/mg.php?id=cctv8
+CCTV9,http://kxrj.site:8081/8647/mg.php?id=cctv9
+CCTV10,http://kxrj.site:8081/8647/mg.php?id=cctv10
+CCTV11,http://kxrj.site:8081/8647/mg.php?id=cctv11
+CCTV12,http://kxrj.site:8081/8647/mg.php?id=cctv12
+CCTV13,http://kxrj.site:8081/8647/mg.php?id=cctv13
+CCTV14,http://kxrj.site:8081/8647/mg.php?id=cctv14
+CCTV15,http://kxrj.site:8081/8647/mg.php?id=cctv15
+CCTV17,http://kxrj.site:8081/8647/mg.php?id=cctv17
+
+CCTV1,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv1
+CCTV2,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv2
+CCTV3,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv3
+CCTV4,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv4
+CCTV5,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv5
+CCTV5+,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv5p
+CCTV6,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv6
+CCTV7,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv7
+CCTV8,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv8
+CCTV9,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv9
+CCTV10,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv10
+CCTV11,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv11
+CCTV12,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv12
+CCTV13,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv13
+CCTV14,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv14
+CCTV15,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv15
+CCTV17,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv17
 
 
 
@@ -213,6 +249,46 @@ CCTV-14 少儿,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/8
 CCTV-15 音乐,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225601/index.m3u8
 CCTV-16 奥林,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
 CCTV-17 农业,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
+
+CCTV1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010011/1.m3u8
+CCTV2,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8
+CCTV3,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/1.m3u8
+CCTV4,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010017/1.m3u8
+CCTV5,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010139/1.m3u8
+CCTV5+,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/1.m3u8
+CCTV6,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010214/1.m3u8
+CCTV7,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010215/1.m3u8
+CCTV8,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010216/1.m3u8
+CCTV9,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010052/1.m3u8
+CCTV10,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010203/1.m3u8
+CCTV11,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010092/1.m3u8
+CCTV12,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010205/1.m3u8
+CCTV13,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010093/1.m3u8
+CCTV14,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/1.m3u8
+CCTV15,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/1.m3u8
+CCTV16,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8
+CCTV17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
+
+CCTV1,http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
+CCTV2,http://[2409:8087:74d9:21::6]:80/270000001128/9900000502/index.m3u8
+CCTV3,http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8
+CCTV4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000503/index.m3u8
+CCTV5,http://[2409:8087:74d9:21::6]:80/270000001128/9900000005/index.m3u8
+CCTV5+,http://[2409:8087:74d9:21::6]:80/270000001128/9900000507/index.m3u8
+CCTV6,http://[2409:8087:74d9:21::6]:80/270000001128/9900000006/index.m3u8
+CCTV7,http://[2409:8087:74d9:21::6]:80/270000001128/9900000504/index.m3u8
+CCTV8,http://[2409:8087:74d9:21::6]:80/270000001128/9900000008/index.m3u8
+CCTV9,http://[2409:8087:74d9:21::6]:80/270000001128/9900000505/index.m3u8
+CCTV10,http://[2409:8087:74d9:21::6]:80/270000001128/9900000506/index.m3u8
+CCTV11,http://[2409:8087:74d9:21::6]:80/270000001128/9900000508/index.m3u8
+CCTV12,http://[2409:8087:74d9:21::6]:80/270000001128/9900000509/index.m3u8
+CCTV13,http://[2409:8087:74d9:21::6]:80/270000001128/9900000510/index.m3u8
+CCTV14,http://[2409:8087:74d9:21::6]:80/270000001128/9900000511/index.m3u8
+CCTV15,http://[2409:8087:74d9:21::6]:80/270000001128/9900000512/index.m3u8
+CCTV16,http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
+CCTV17,http://[2409:8087:74d9:21::9]:80/270000001128/9900000513/index.m3u8
+
+
 
 CCTV1,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225816/index.m3u8
 CCTV3,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8
@@ -418,233 +494,43 @@ SiTV魅力足球,http://fmbox.cc/公众号玉玉软件库/iptv6.php?id=00002021
 
 
 🌞｜IPTV频道,#genre#
-CCTV-1 综合,http://php.iptviptv.site/iptv.php?id=cctv01
-CCTV-2 财经,http://php.iptviptv.site/iptv.php?id=cctv2
-CCTV-3 综艺,http://php.iptviptv.site/iptv.php?id=cctvz3
-CCTV-4 中文国际,http://php.iptviptv.site/iptv.php?id=cctvb4
-CCTV-5 体育,http://php.iptviptv.site/iptv.php?id=cctv5
-CCTV-6 电影,http://php.iptviptv.site/iptv.php?id=cctvm6
-CCTV-5+,http://php.iptviptv.site/iptv.php?id=cctv5+
-CCTV-7 国防军事,http://php.iptviptv.site/iptv.php?id=cctvq7
-CCTV-8 电视剧,http://php.iptviptv.site/iptv.php?id=cctv88
-CCTV-9 纪录,http://php.iptviptv.site/iptv.php?id=cctv09
-CCTV-10 科教,http://php.iptviptv.site/iptv.php?id=cctv100
-CCTV-11 戏曲,http://php.iptviptv.site/iptv.php?id=cctvp11
-CCTV-12 社会与法,http://php.iptviptv.site/iptv.php?id=cctv12
-CCTV-13 新闻,http://php.iptviptv.site/iptv.php?id=cctv13
-CCTV-14 少儿,http://php.iptviptv.site/iptv.php?id=cctv14
-CCTV-15 音乐,http://php.iptviptv.site/iptv.php?id=cctvo15
-CCTV-16 奥林匹克,http://php.iptviptv.site/iptv.php?id=cctvd16
-CCTV-17 农业高清,http://php.iptviptv.site/iptv.php?id=cctv17
-湖南卫视,http://php.iptviptv.site/iptv.php?id=hunan0d
-浙江卫视,http://php.iptviptv.site/iptv.php?id=zhejiangcy
-江苏卫视,http://php.iptviptv.site/iptv.php?id=jiangsu66
-东方卫视,http://php.iptviptv.site/iptv.php?id=dongfang18
-安徽卫视,http://php.iptviptv.site/iptv.php?id=anhui75
-北京卫视,http://php.iptviptv.site/iptv.php?id=bjws
-天津卫视,http://php.iptviptv.site/iptv.php?id=tianjin39
-山东卫视,http://php.iptviptv.site/iptv.php?id=shandongw1
-江西卫视,http://php.iptviptv.site/iptv.php?id=jiangxi80
-湖北卫视,http://php.iptviptv.site/iptv.php?id=hubeihubei
-辽宁卫视,http://php.iptviptv.site/iptv.php?id=liao
-黑龙江卫视,http://php.iptviptv.site/iptv.php?id=hlj62
-贵州卫视,http://php.iptviptv.site/iptv.php?id=guizhou112
-四川卫视,http://php.iptviptv.site/iptv.php?id=sichuan
-河南卫视,http://php.iptviptv.site/iptv.php?id=henan68
-云南卫视,http://php.iptviptv.site/iptv.php?id=yunnansf
-重庆卫视,http://php.iptviptv.site/iptv.php?id=chongqing
-河北卫视,http://php.iptviptv.site/iptv.php?id=hebeiyu
-东南卫视,http://php.iptviptv.site/iptv.php?id=dongnan11
-广西卫视,http://php.iptviptv.site/iptv.php?id=guangxibiaoge
-吉林卫视,http://php.iptviptv.site/iptv.php?id=jilina
-陕西卫视,http://php.iptviptv.site/iptv.php?id=shanxi5
-山西卫视,http://php.iptviptv.site/iptv.php?id=shangxi
-内蒙古卫视,http://php.iptviptv.site/iptv.php?id=neimenggu
-青海卫视,http://php.iptviptv.site/iptv.php?id=qinghai12
-海南卫视,http://php.iptviptv.site/iptv.php?id=hainan29
-宁夏卫视,http://php.iptviptv.site/iptv.php?id=lxia
-西藏卫视,http://php.iptviptv.site/iptv.php?id=xizang
-新疆卫视,http://php.iptviptv.site/iptv.php?id=xinjiang
-甘肃卫视,http://php.iptviptv.site/iptv.php?id=gansu93
-厦门卫视,http://php.iptviptv.site/iptv.php?id=xiamen
-五星体育,http://php.iptviptv.site/iptv.php?id=wuxingtiyu32
-新闻综合,http://php.iptviptv.site/iptv.php?id=xinwenzonghe41
-东方财经,http://php.iptviptv.site/iptv.php?id=dongfangcaijing88
-第一财经,http://php.iptviptv.site/iptv.php?id=dycaijing
-都市频道,http://php.iptviptv.site/iptv.php?id=dushi
-东方影视,http://php.iptviptv.site/iptv.php?id=dfys1
-重庆影视,http://php.iptviptv.site/iptv.php?id=cqys123
-重庆新闻,http://php.iptviptv.site/iptv.php?id=cqxw349
-重庆社会,http://php.iptviptv.site/iptv.php?id=cqsh1lm
-重庆娱乐,http://php.iptviptv.site/iptv.php?id=cqyl
-重庆少儿,http://php.iptviptv.site/iptv.php?id=cqse
-浙江新闻,http://php.iptviptv.site/iptv.php?id=zjxw6345
-浙江体育,http://php.iptviptv.site/iptv.php?id=zjty
-浙江少儿,http://php.iptviptv.site/iptv.php?id=zjs12e
-杭州TV-1 综合,http://php.iptviptv.site/iptv.php?id=zjhztv1
-杭州TV-2 明珠,http://php.iptviptv.site/iptv.php?id=zjhztv2
-杭州TV-3 生活,http://php.iptviptv.site/iptv.php?id=zjhztv3
-杭州TV-4 影视,http://php.iptviptv.site/iptv.php?id=zjhztv4
-杭州TV-5 青少·体育,http://php.iptviptv.site/iptv.php?id=zjhztv5
-宁波TV1,http://php.iptviptv.site/iptv.php?id=zjlbtv1
-宁波TV2,http://php.iptviptv.site/iptv.php?id=zjlbtv2
-宁波TV3,http://php.iptviptv.site/iptv.php?id=zjlbtv3
-宁波TV4,http://php.iptviptv.site/iptv.php?id=zjlbtv
-安徽体育,http://php.iptviptv.site/iptv.php?id=ahty56
-安徽公共,http://php.iptviptv.site/iptv.php?id=ahggrw
-安徽影视,http://php.iptviptv.site/iptv.php?id=ahysys
-安徽经济,http://php.iptviptv.site/iptv.php?id=ahjjjw
-安徽科教,http://php.iptviptv.site/iptv.php?id=ahkjyd
-亳州农村,http://php.iptviptv.site/iptv.php?id=ahhzcn
-亳州新闻,http://php.iptviptv.site/iptv.php?id=ahhzxw
-歙县综合,http://php.iptviptv.site/iptv.php?id=ahxzh
-滁州公共,http://php.iptviptv.site/iptv.php?id=ahxzgg
-滁州科教,http://php.iptviptv.site/iptv.php?id=ahxzjk
-滁州新闻综合,http://php.iptviptv.site/iptv.php?id=ahxzxwzh
-四川影视,http://php.iptviptv.site/iptv.php?id=scysysys1
-新闻频道,http://php.iptviptv.site/iptv.php?id=scxwzhzx
-峨眉电影,http://php.iptviptv.site/iptv.php?id=scemmetw
-天津新闻,http://php.iptviptv.site/iptv.php?id=TJxwef
-天津影视,http://php.iptviptv.site/iptv.php?id=TJyswed
-天津都市,http://php.iptviptv.site/iptv.php?id=TJds
-天津体育,http://php.iptviptv.site/iptv.php?id=TJtyTYH
-陕西新闻,http://php.iptviptv.site/iptv.php?id=SXXW111
-陕西影视,http://php.iptviptv.site/iptv.php?id=sxys666
-陕西体育,http://php.iptviptv.site/iptv.php?id=sxtysxty
-西部电影,http://php.iptviptv.site/iptv.php?id=sxxbdydytr
-西安影视,http://php.iptviptv.site/iptv.php?id=sxxady
-广东卫视,http://php.iptviptv.site/iptv.php?id=gdws651
-广东珠江,http://php.iptviptv.site/iptv.php?id=gdzjzj
-大湾区卫视,http://php.iptviptv.site/iptv.php?id=dawanqu678
-广州综合,http://php.iptviptv.site/iptv.php?id=gzzhhzzf
-广东新闻,http://php.iptviptv.site/iptv.php?id=gdxwgt
-广东民生,http://php.iptviptv.site/iptv.php?id=gdmswt
-广东体育,http://php.iptviptv.site/iptv.php?id=gdtyre
-广东经济科教,http://php.iptviptv.site/iptv.php?id=gdkejiao
-广东影视,http://php.iptviptv.site/iptv.php?id=gdyingshi
-潮州综合,http://php.iptviptv.site/iptv.php?id=gdczzh
-广东导视(G导视),http://php.iptviptv.site/iptv.php?id=gdds12
-潮安综合,http://php.iptviptv.site/iptv.php?id=cazh154
-汕头文旅体育，http://php.iptviptv.site/iptv.php?id=stty
-汕头新闻综合，http://php.iptviptv.site/iptv.php?id=stxw
-汕尾新闻综合，http://php.iptviptv.site/iptv.php?id=swxw
-斗门融媒，http://php.iptviptv.site/iptv.php?id=dmrm
-广西新闻,http://php.iptviptv.site/iptv.php?id=gxxw
-广西综艺,http://php.iptviptv.site/iptv.php?id=gxzy
-广西影视,http://php.iptviptv.site/iptv.php?id=gxys
-南宁新闻,http://php.iptviptv.site/iptv.php?id=nlxw
-南宁影视,http://php.iptviptv.site/iptv.php?id=nlys
-河北都市,http://php.iptviptv.site/iptv.php?id=hbds
-河北影视,http://php.iptviptv.site/iptv.php?id=hbys12
-河北少儿,http://php.iptviptv.site/iptv.php?id=hbsese
-河北公共,http://php.iptviptv.site/iptv.php?id=hbgg
-河北杂技,http://php.iptviptv.site/iptv.php?id=hbzj
-湖北经视,http://php.iptviptv.site/iptv.php?id=hubeijs
-湖北垄上,http://php.iptviptv.site/iptv.php?id=hubeigs
-湖北影视,http://php.iptviptv.site/iptv.php?id=hubeiys
-武汉新闻,http://php.iptviptv.site/iptv.php?id=whxw
-武汉电视剧,http://php.iptviptv.site/iptv.php?id=whdsj
-江苏体育休闲,http://php.iptviptv.site/iptv.php?id=jsxxty
-江苏影视,http://php.iptviptv.site/iptv.php?id=jsys
-江苏综艺,http://php.iptviptv.site/iptv.php?id=jszy
-江苏新闻,http://php.iptviptv.site/iptv.php?id=jsxw
-CHC家庭影院,http://php.iptviptv.site/iptv.php?id=chcjiat66
-CHC动作电影,http://php.iptviptv.site/iptv.php?id=chdzc
-CHC影迷电影,http://php.iptviptv.site/iptv.php?id=chcmy
-星空卫视,http://php.iptviptv.site/iptv.php?id=xingkongsw
-风云足球,http://php.iptviptv.site/iptv.php?id=fengyunzq478
-央视台球,http://php.iptviptv.site/iptv.php?id=yangshitaiq4123
-高尔夫网球,http://php.iptviptv.site/iptv.php?id=gaoerfu
-女性时尚,http://php.iptviptv.site/iptv.php?id=nxss
-世界地理,http://php.iptviptv.site/iptv.php?id=sjdl
-怀旧剧场,http://php.iptviptv.site/iptv.php?id=hjjc873
-风云剧场,http://php.iptviptv.site/iptv.php?id=fengyunjc87
-第一剧场,http://php.iptviptv.site/iptv.php?id=diyijuc
-老故事,http://php.iptviptv.site/iptv.php?id=laogushi
-中学生,http://php.iptviptv.site/iptv.php?id=zxs
-快乐垂钓,http://php.iptviptv.site/iptv.php?id=klcd87
-天元围棋,http://php.iptviptv.site/iptv.php?id=tianyuanwq
-重温经典,http://php.iptviptv.site/iptv.php?id=cwjd
-新视觉,http://php.iptviptv.site/iptv.php?id=xsj
-劲爆体育,http://php.iptviptv.site/iptv.php?id=jbty
-魅力足球,http://php.iptviptv.site/iptv.php?id=mlzq
-北京体育,http://php.iptviptv.site/iptv.php?id=beijty23
-淘电影,http://php.iptviptv.site/iptv.php?id=taod
-淘剧场,http://php.iptviptv.site/iptv.php?id=taojr
-淘娱乐,http://php.iptviptv.site/iptv.php?id=taoyl31
-淘baby,http://php.iptviptv.site/iptv.php?id=taoybayd
-淘精彩,http://php.iptviptv.site/iptv.php?id=taoycj
-北京影视,http://php.iptviptv.site/iptv.php?id=beijingys
-北京财经,http://php.iptviptv.site/iptv.php?id=beijingcj
-北京新闻,http://php.iptviptv.site/iptv.php?id=beijingxw
-北京卡酷少儿,http://php.iptviptv.site/iptv.php?id=beijingku
-V音乐台,http://php.iptviptv.site/iptv.php?id=vyinyue
-HBO,http://php.iptviptv.site/iptv.php?id=HBO
-今日俄罗斯,http://php.iptviptv.site/iptv.php?id=elsjr
-日本NHK,http://php.iptviptv.site/iptv.php?id=nhk
-韩国KBS,http://php.iptviptv.site/iptv.php?id=kbs
-翡翠台(广电),http://php.iptviptv.site/iptv.php?id=fctgd66
-明珠台,http://php.iptviptv.site/iptv.php?id=mzt
-翡翠台(原版),http://php.iptviptv.site/iptv.php?id=fctyb841
-千禧经典台,http://php.iptviptv.site/iptv.php?id=qianxi
-翡翠台4k,http://php.iptviptv.site/iptv.php?id=fct4kcj
-Animax,http://php.iptviptv.site/iptv.php?id=animax
-美亚电影台,http://php.iptviptv.site/iptv.php?id=meiya666
-TVB PLUS,http://php.iptviptv.site/iptv.php?id=tvbsulp
-无线新闻台,http://php.iptviptv.site/iptv.php?id=wuxianxwfeiwu
-天映經典頻道,http://php.iptviptv.site/iptv.php?id=tianying
-黃金翡翠台,http://php.iptviptv.site/iptv.php?id=hjfct
-凤凰香港,http://php.iptviptv.site/iptv.php?id=fhxgwe
-凤凰中文,http://php.iptviptv.site/iptv.php?id=fhzwwe
-凤凰资询,http://php.iptviptv.site/iptv.php?id=fhzx
-黄金华剧台,http://php.iptviptv.site/iptv.php?id=hjhjt
-华语剧台,http://php.iptviptv.site/iptv.php?id=hyjt66
-粤语片台,http://php.iptviptv.site/iptv.php?id=yueyupiantai
-神州新闻台,http://php.iptviptv.site/iptv.php?id=szxwt
-无线卫星新闻台,http://php.iptviptv.site/iptv.php?id=wxwxxwt
-无线卫星亚洲台,http://php.iptviptv.site/iptv.php?id=wxwxyzt
-东方卫视国际频道,http://php.iptviptv.site/iptv.php?id=dfwsgj
-戏曲台,http://php.iptviptv.site/iptv.php?id=xqt
-娱乐新闻台,http://php.iptviptv.site/iptv.php?id=ylxwtww
-半岛电视台英语频道,http://php.iptviptv.site/iptv.php?id=bddstyypd
-创世电视,http://php.iptviptv.site/iptv.php?id=csds
-亚洲新闻台,http://php.iptviptv.site/iptv.php?id=yzxwt
-亚洲剧台,http://php.iptviptv.site/iptv.php?id=yzjt
-ZooMoo,http://php.iptviptv.site/iptv.php?id=zoomoosb
-tvN,http://php.iptviptv.site/iptv.php?id=tvnbs
-Thrill,http://php.iptviptv.site/iptv.php?id=thrillbs1
-SUPER Kids Channel,http://php.iptviptv.site/iptv.php?id=kidsch
-ROCK 综艺娱乐,http://php.iptviptv.site/iptv.php?id=rockzyyl
-ROCK Action,http://php.iptviptv.site/iptv.php?id=rockacti
-PopC,http://php.iptviptv.site/iptv.php?id=rock69
-Nickelodeon,http://php.iptviptv.site/iptv.php?id=nickelo
-Nick Jr,http://php.iptviptv.site/iptv.php?id=nickjr
-NHK World-Japan,http://php.iptviptv.site/iptv.php?id=nhkjapan
-my直播足球6台,http://php.iptviptv.site/iptv.php?id=zq6t
-my直播足球5台,http://php.iptviptv.site/iptv.php?id=zq5t
-my直播足球4台,http://php.iptviptv.site/iptv.php?id=zq4t
-my直播足球3台,http://php.iptviptv.site/iptv.php?id=zq3t
-myTV SUPER FREE,http://php.iptviptv.site/iptv.php?id=superfree
-myTV SUPER 18台,http://php.iptviptv.site/iptv.php?id=super18
-Mezzo Live HD,http://php.iptviptv.site/iptv.php?id=mezzo
-Love Nature HD,http://php.iptviptv.site/iptv.php?id=lovehd
-Love Nature 4K,http://php.iptviptv.site/iptv.php?id=love4k
-KIX,http://php.iptviptv.site/iptv.php?id=kix
-Global Trekker,http://php.iptviptv.site/iptv.php?id=global
-France 24,http://php.iptviptv.site/iptv.php?id=france67
-FashionBox,http://php.iptviptv.site/iptv.php?id=fashionbox
-DW,http://php.iptviptv.site/iptv.php?id=dw54
-AXN,http://php.iptviptv.site/iptv.php?id=axnwd
-Arirang TV,http://php.iptviptv.site/iptv.php?id=arirang
-viutv,http://php.iptviptv.site/iptv.php?id=viutv
-viutv6,http://php.iptviptv.site/iptv.php?id=viutv6
-RTHK31,http://php.iptviptv.site/iptv.php?id=RTHK31
-RTHK32,http://php.iptviptv.site/iptv.php?id=RTHK32
-爆谷台,http://php.iptviptv.site/iptv.php?id=baogu
-星影台,http://php.iptviptv.site/iptv.php?id=xingying12
-Hoy76，http://php.iptviptv.site/iptv.php?id=Hoy76
-Hoy77，http://php.iptviptv.site/iptv.php?id=Hoy77
-Hoy78，http://php.iptviptv.site/iptv.php?id=Hoy78
+CCTV1,http://dd.ddzb.fun/php/migu.php?id=cctv1
+CCTV2,http://dd.ddzb.fun/php/migu.php?id=cctv2
+CCTV3,http://dd.ddzb.fun/php/migu.php?id=cctv3
+CCTV4,http://dd.ddzb.fun/php/migu.php?id=cctv4
+CCTV4欧洲,http://dd.ddzb.fun/php/migu.php?id=cctv4o
+CCTV4美洲,http://dd.ddzb.fun/php/migu.php?id=cctv4a
+CCTV5,http://dd.ddzb.fun/php/migu.php?id=cctv5
+CCTV5+,http://dd.ddzb.fun/php/migu.php?id=cctv5p
+CCTV6,http://dd.ddzb.fun/php/migu.php?id=cctv6
+CCTV7,http://dd.ddzb.fun/php/migu.php?id=cctv7
+CCTV8,http://dd.ddzb.fun/php/migu.php?id=cctv8
+CCTV9,http://dd.ddzb.fun/php/migu.php?id=cctv9
+CCTV10,http://dd.ddzb.fun/php/migu.php?id=cctv10
+CCTV11,http://dd.ddzb.fun/php/migu.php?id=cctv11
+CCTV12,http://dd.ddzb.fun/php/migu.php?id=cctv12
+CCTV13,http://dd.ddzb.fun/php/migu.php?id=cctv13
+CCTV14,http://dd.ddzb.fun/php/migu.php?id=cctv14
+CCTV15,http://dd.ddzb.fun/php/migu.php?id=cctv15
+CCTV17,http://dd.ddzb.fun/php/migu.php?id=cctv17
+
+CCTV1,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/ysptp/cctv1.m3u8
+CCTV2,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/ysptp/cctv2.m3u8
+CCTV3,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/ysptp/cctv3.m3u8
+CCTV4,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/ysptp/cctv4.m3u8
+CCTV5,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/ysptp/cctv5.m3u8
+CCTV5+,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/ysptp/cctv5p.m3u8
+CCTV7,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/ysptp/cctv7.m3u8
+CCTV8,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/ysptp/cctv8.m3u8
+CCTV9,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/ysptp/cctv9.m3u8
+CCTV10,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/ysptp/cctv10.m3u8
+CCTV11,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/ysptp/cctv11.m3u8
+CCTV12,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/ysptp/cctv12.m3u8
+CCTV13,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/ysptp/cctv13.m3u8
+CCTV14,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/ysptp/cctv14.m3u8
+CCTV15,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/ysptp/cctv15.m3u8
+CCTV16,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/ysptp/cctv16.m3u8
+CCTV17,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/ysptp/cctv17.m3u8
 
 
 
