@@ -61,34 +61,23 @@ CETV4,https://www.freetv.top/migu/923287339.m3u8?migutoken=9e166c17bc4a767d4cfce
 
 
 ﻿咪咕CCTV,#genre#
-CCTV1综合,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv1
-CCTV2财经 ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv2
-CCTV3综艺,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv3
-CCTV4中文国际,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv4
-CCTV4美洲,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv4a
-CCTV4欧洲,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv4o
-CCTV5体育,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv5
-CCTV5+体育赛事,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv5p
-CCTV6电影,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv6
-CCTV7国防军事,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv7
-CCTV8电视剧  ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv8
-CCTV9纪录,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv9
-CCTV10科教  ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv10
-CCTV11戏曲  ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv11
-CCTV12社会与法,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv12
-CCTV13新闻  ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv13
-CCTV14少儿  ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv14
-CCTV15音乐  ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv15
-CCTV17农业农村,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv17
-CCTV发现之旅,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=fxzl
-CCTV老故事  ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=lgs
-CCTV中学生  ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=zxs
-CGTN     ,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cgtn
-CGTN纪录,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cgtnjl
-CCTV西班牙语,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cgtne
-CCTV法语,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cgtnf
-CCTV阿拉伯语,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cgtna
-CCTV俄语,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cgtnr
+CCTV1综合,http://106.46.147.82:10443/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2财经 http://106.46.147.82:10443/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3综艺,http://106.46.147.82:10443/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4中文国际,http://106.46.147.82:10443/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5体育,http://106.46.147.82:10443/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6电影,http://106.46.147.82:10443/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7国防军事,http://106.46.147.82:10443/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8电视剧  http://106.46.147.82:10443/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9纪录,http://106.46.147.82:10443/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10科教  ,http://106.46.147.82:10443/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11戏曲  ,http://106.46.147.82:10443/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12社会与法,http://106.46.147.82:10443/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13新闻  ,hhttp://106.46.147.82:10443/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14少儿  ,http://106.46.147.82:10443/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15音乐  ,http://106.46.147.82:10443/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17农业农村,http://106.46.147.82:10443/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 🌏｜央视移动频道,#genre#
 
