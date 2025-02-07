@@ -60,7 +60,7 @@ CETV2,https://www.freetv.top/migu/923287211.m3u8?migutoken=80736f34a16fc440cb04f
 CETV4,https://www.freetv.top/migu/923287339.m3u8?migutoken=9e166c17bc4a767d4cfce720993ca6bd534ecac488357ef29b77e9c8f63a99dd0cea081b6f86325600957a20840e353a56a18ae59e6dc3a7e3f9eef8e692637294bb4a90243ccf0dc25adccfaa
 
 
-﻿咪咕CCTV,#genre#
+🌏｜央视酒店CCTV,#genre#
 CCTV1综合,http://106.46.147.82:10443/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经 http://106.46.147.82:10443/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3综艺,http://106.46.147.82:10443/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
