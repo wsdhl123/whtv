@@ -291,10 +291,10 @@
 "jar": "https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/bili.jar"
 },
 
-{"key":"儿童","name":"📚少儿教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wsdhl123/whtv/raw/master/TVBox/xuexi/少儿教育.json"},
-{"key":"小学","name":"📚小学课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wsdhl123/whtv/raw/master/TVBox/xuexi/小学课堂.json"},
-{"key":"初中","name":"📚初中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wsdhl123/whtv/raw/master/TVBox/xuexi/初中课堂.json"},
-{"key":"高中","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wsdhl123/whtv/raw/master/TVBox/xuexi/高中课堂.json"},
+{"key":"儿童","name":"📚少儿教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/xuexi/少儿教育.json"},
+{"key":"小学","name":"📚小学课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/xuexi/小学课堂.json"},
+{"key":"初中","name":"📚初中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/xuexi/初中课堂.json"},
+{"key":"高中","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/xuexi/高中课堂.json"},
 
 
 
