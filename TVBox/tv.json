@@ -1,6 +1,5 @@
 {
 "spider": "https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/0620.jar",
-//"spider": "https://gitee.com/wsdhl123/whtv/raw/master/TVBox/xm.jar",
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "sites": [
 //👨‍💻👌🏰🍑🐅🧣 🌺📢🎉🌙🌟🌸✨🍓🥚🏝🍆🍅🐎🐐 🌩🏭👨‍👩‍👧‍👧🌍🙏🎃🐇🌞⛈️❄️☔🌍
@@ -273,9 +272,9 @@
 }},
 
 {"key":"光速资源","name":"光速资源","type":1,"api":"http://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","动漫电影","大陆剧","欧美剧","港澳剧","韩剧","日剧","台湾剧","泰剧","综艺","动漫","记录片"]},
-{"key":"csp_SP360","name": "💘360","type": 3,"api": "csp_SP33","jar":"https://gitee.com/wsdhl123/whtv/raw/master/TVBox/231108.jar"},
-{"key":"teng","name":"🐧腾讯","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/wsdhl123/whtv/raw/master/TVBox/231108.jar"},
-{"key":"MGT","name":"🍋芒果","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/wsdhl123/whtv/raw/master/TVBox/231108.jar"},
+{"key":"csp_SP360","name": "💘360","type": 3,"api": "csp_SP33","jar":"https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/231108.jar"},
+{"key":"teng","name":"🐧腾讯","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/231108.jar"},
+{"key":"MGT","name":"🍋芒果","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/231108.jar"},
 {"key":"csp_IQIYI","name": "🥝爱奇艺","type":3,"api":"csp_Itv","quickSearch": 1,"searchable": 1,"filterable": 1,"changeable": 0,"jar":"https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/231108.jar"},
 
 
