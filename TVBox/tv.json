@@ -8,26 +8,27 @@
 {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.com/"},
 {"key": "新6V", "name": "🧲新6V磁力", "type": 3, "api": "csp_SixV", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "https://www.xb6v.com/" },
+{"key": "csp_LiteApple","name": "🍎苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"},
+
+
+{"key": "cbhys","name": "🏔️茶杯狐", "type": 3, "api": "csp_XBPQ", "playerType": "1",
+"ext": {
+"分类url": "https://www.cupfox2025.com/movie/fenlei5.html;;m",
+"分类": "电影&电视剧&综艺&动漫&短剧",
+"分类值": "1&2&3&4&5"
+}},
+    
 {"key":"csp_红狐狸影视","name":"🧿红狐狸影视","type":3,"api":"csp_XBPQ",
 "ext":{
 "分类url":"https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4"
 }},
 
-    {
-      "key": "csp_LiteApple",
-      "jar":"https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
-      "name": "🍎苹果",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
 
+
+    
 {"key":"JPdy","name":"❄️金牌电影 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
 "ext":{
-    
 "播放标题":"+>&&</a>",
 "播放数组": "<div class=\"play-btn\">&&</div>",
 "分类url": "https://www.jinpaidy.com/type/{cateId}",
