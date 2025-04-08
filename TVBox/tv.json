@@ -12,8 +12,8 @@
 
 {"key":"ysw","name":"✨央视网 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
 "ext":{
-"分类url": "https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1",
-"分类":"cctv1&cctv2&cctv3&cctv4&cctv5","分类值":"https://tv.cctv.com/live/cctv1/?spm=C28340.PotG4tICJnBr.ExidtyEJcS5K.1&https://tv.cctv.com/live/cctv2/?spm=C28340.PoakR0uYBKgp.ExidtyEJcS5K.13&3&4&5"}},
+"分类url": "https://tv.cctv.com/live/cctv1/"
+}},
 
 
 
