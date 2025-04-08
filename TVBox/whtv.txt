@@ -1,29 +1,4 @@
-🌏｜CCTV央视频道,#genre#
 
-CCTV1,http://xsbc.3sbio.com:35455/gaoma/cctv1.m3u8
-CCTV2,http://xsbc.3sbio.com:35455/gaoma/cctv2.m3u8
-CCTV3,http://xsbc.3sbio.com:35455/gaoma/cctv3.m3u8
-CCTV4,http://xsbc.3sbio.com:35455/gaoma/cctv4.m3u8
-CCTV5+,http://xsbc.3sbio.com:35455/gaoma/cctv5+.m3u8
-CCTV5,http://xsbc.3sbio.com:35455/gaoma/cctv5.m3u8
-CCTV6,http://xsbc.3sbio.com:35455/gaoma/cctv6.m3u8
-CCTV7,http://xsbc.3sbio.com:35455/gaoma/cctv7.m3u8
-CCTV8,http://xsbc.3sbio.com:35455/gaoma/cctv8.m3u8
-CCTV9,http://xsbc.3sbio.com:35455/gaoma/cctv9.m3u8
-CCTV10,http://xsbc.3sbio.com:35455/gaoma/cctv10.m3u8
-CCTV11,http://xsbc.3sbio.com:35455/gaoma/cctv11.m3u8
-CCTV12,http://xsbc.3sbio.com:35455/gaoma/cctv12.m3u8
-CCTV13,http://xsbc.3sbio.com:35455/gaoma/cctv13.m3u8
-CCTV14,http://xsbc.3sbio.com:35455/gaoma/cctv14.m3u8
-CCTV15,http://xsbc.3sbio.com:35455/gaoma/cctv15.m3u8
-CCTV16,http://xsbc.3sbio.com:35455/gaoma/cctv16.m3u8
-CCTV17,http://xsbc.3sbio.com:35455/gaoma/cctv17.m3u8
-
-🌏｜webview,#genre#
-浙江卫视,webview://https://www.cztv.com/liveTV/101
-浙江钱江,webview://https://www.cztv.com/liveTV/102
-浙江经济生活,webview://https://www.cztv.com/liveTV/103
-浙江教科影视,webview://https://www.cztv.com/liveTV/104
 
 
 🌏｜北京移动IPV6频道,#genre#
@@ -81,7 +56,7 @@ CGTN,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3
 兵团卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226541/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESv-rH0nF41q6pxKZKeRnNA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN-56c_rnHTXQA4R-D0Dlau%2CEND
 延边卫视[1024*576],http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONS2RAhxb5u6NYaMGGM23S%2CEND
 康巴卫视[1024*576],http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPtFfVFX0AVycM8b4Xmbcl4%2CEND
-🌏高校央卫频道,#genre#
+🌏高校央卫频道(联通）,#genre#
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
