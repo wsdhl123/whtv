@@ -10,7 +10,7 @@
 {"key": "新6V", "name": "🧲新6V磁力", "type": 3, "api": "csp_SixV", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "https://www.xb6v.com/" },
 {"key": "csp_LiteApple","name": "🍎苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"},
 
-{"key":"JPYY","name":"✨央视网 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
+{"key":"ysw","name":"✨央视网 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
 "ext":{
 "分类url": "https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1",
 "分类":"cctv1&cctv2&cctv3&cctv4&cctv5","分类值":"https://tv.cctv.com/live/cctv1/?spm=C28340.PotG4tICJnBr.ExidtyEJcS5K.1&https://tv.cctv.com/live/cctv2/?spm=C28340.PoakR0uYBKgp.ExidtyEJcS5K.13&3&4&5"}},
