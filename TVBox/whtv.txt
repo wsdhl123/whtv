@@ -18,12 +18,8 @@ CCTV14,http://xsbc.3sbio.com:35455/gaoma/cctv14.m3u8
 CCTV15,http://xsbc.3sbio.com:35455/gaoma/cctv15.m3u8
 CCTV16,http://xsbc.3sbio.com:35455/gaoma/cctv16.m3u8
 CCTV17,http://xsbc.3sbio.com:35455/gaoma/cctv17.m3u8
-CCTV1,http://120.76.248.139/live/bfgd/4200000484.m3u8
-CCTV1,http://1120.76.248.139/live/bfgd/4200000488.m3u8
-CCTV1,http://1120.76.248.139/live/bfgd/4200000489.m3u8
-CCTV1,http://1120.76.248.139/live/bfgd/4200000201.m3u8
-CCTV1,http://1183.215.134.239:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://1xsbc.3sbio.com:35455/gaoma/cctv1.m3u8
+
+
 
 
 
