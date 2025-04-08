@@ -19,8 +19,11 @@ CCTV15,http://xsbc.3sbio.com:35455/gaoma/cctv15.m3u8
 CCTV16,http://xsbc.3sbio.com:35455/gaoma/cctv16.m3u8
 CCTV17,http://xsbc.3sbio.com:35455/gaoma/cctv17.m3u8
 
-
-
+🌏｜webview,#genre#
+浙江卫视,webview://https://www.cztv.com/liveTV/101
+浙江钱江,webview://https://www.cztv.com/liveTV/102
+浙江经济生活,webview://https://www.cztv.com/liveTV/103
+浙江教科影视,webview://https://www.cztv.com/liveTV/104
 
 
 🌏｜北京移动IPV6频道,#genre#
