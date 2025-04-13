@@ -106,12 +106,7 @@
 "分类url": "https://www.zzhycg.com/show/{cateId}-{area}--{class}-{lang}-------{year}.html",
 "分类":"电影&电剧集&综艺&动漫&短剧","分类值":"1&2&3&4&33"}},
 
-{"key": "6080","name": "🎸6080", "type": 3, "api": "csp_XBPQ", "searchable": 0,"quickSearch": 0, "filterable": 1,
-"ext": {
-"分类":"电影片&连续剧&综艺片&动漫片&短剧片",
-"分类值":"60dyp&60lxj&60zyp&60dmp&60dj",
-"分类url": "https://jiayifang.com/vod/{cateId}/"
-}},
+
 
 {"key":"PBYS","name":"     ✨片吧影视","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
 "ext":{
@@ -119,7 +114,7 @@
 "线路标题": "<span>&&</span>",
 "线路数组": "data-dropdown-value=&&</div>", 
 "播放标题":"+>&&</a>",
-"分类url": "https://www.pianbax.com/sort/{cateId}.html",
+"分类url": "https://www.pbpbv.com/sort/{cateId}.html",
 "分类":"电影&电视剧&综艺&动漫","分类值":"1&2&4&3"}},
 
 
