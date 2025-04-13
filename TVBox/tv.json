@@ -137,23 +137,6 @@
 "分类url": "https://www.cechiyy.sbs/ccvt/{cateId}.html",
 "分类":"电影&电视剧&综艺&动漫","分类值":"1&2&3&4"}},
 
-{"key":"MYYS","name":"     ✨快看影视 ","type":3,"api":"csp_XBPQ",
-"ext":{
-"线路标题": "<span>&&</span>",
-"线路数组": "data-dropdown-value=&&</div>", 
-"播放标题":"+>&&</a>",
-"分类url": "https://www.jzleyu.com/vodshow/{cateId}-{area}--{class}-{lang}-------{year}.html",
-"分类":"电影&电视剧&综艺&动漫","分类值":"1&2&3&4"}},
-
-{"key":"TTZJYS","name":"     🙏天天追剧 ","type":3,"api":"csp_XBPQ",
-"ext":{
-"线路标题": "<span>&&</span>",
-"线路数组": "data-dropdown-value=&&</div>", 
-"播放标题":"+>&&</a>",
-"分类url": "https://www.ttzj.net/vodshow/{cateId}-{area}--{class}-{lang}-------{year}/",
-"分类":"电影&追剧&综艺&动漫","分类值":"dianying&zhuiju&zongyi&dongman"}},
-
-
 
  
 {"key":"2GBT","name":"   👬二个BT","type":3,"api":"csp_XBPQ",
@@ -195,8 +178,8 @@
 "线路标题": "线路标题=\"&&\"",  
 "播放标题":"+>&&</a>",
 "播放数组":"<div class=\"module-play-list&&</div>",
-"分类url":"https://www.lzrs.cc/index.php/vod/type/id/{cateId}.html",
-"分类":"电影&电视剧&综艺&动漫","分类值":"1&2&4&3"}},
+"分类url":https://lzrs.cc/vodtype/{cateId}.html",
+"分类":"电影&电视剧&综艺&动漫","分类值":"1&2&3&4"}},
 
 
 
