@@ -320,8 +320,8 @@
 "ads": ["mozai.4gtv.tv"],
 
 "lives": [
-{"name": "live","type": 0,"playerType": 1,  "timeout": 10,"url": "https://raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/whtv.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","catchup": {"days": "7","type": "append","regex": "/PLTV/","source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"}},
-{"name": "肥羊TV", "type": 0, "url": "https://raw.bgithub.xyz/vbskycn/iptv/refs/heads/master/tv/iptv4.txt", "ua": "okhttp/3.15", "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png" }
+{"name": "live","type": 0,"playerType": 1,  "timeout": 10,"url": "https://raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/whtv.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","catchup": {"days": "7","type": "append","regex": "/PLTV/","source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"}}
+
 ],
 
 "ijk": [
