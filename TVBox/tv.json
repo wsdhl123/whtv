@@ -27,12 +27,13 @@
 {"key": "非凡资源","name": "🏰非凡资源","type": 1,"api": "http://cj.ffzyapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧", "台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 
 
-{"key":"NZYYy","name":"❄️哪吒影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
+{"key":"555yy","name":"❄️555影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
 "ext":{
 "播放标题":"+>&&</a>",
 //"播放数组": "<div class=\"play-btn\">&&</div>",  
-"分类url": "https://nezhayy.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/year/{year}.html",
-"分类":"电影&电视剧&综艺&动漫&短剧","分类值":"2&1&4&3&41"}},
+     
+"分类url": "https://www.555gy.cc/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/year/{year}.html",
+"分类":"电影&剧集&动漫&综艺&短剧","分类值":"1&2&3&4&45"}},
 
 
 
