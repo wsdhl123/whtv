@@ -6,12 +6,9 @@ CCTV1,video://http://tv.haoqu99.com/1/cctv1.html
 CCTV1,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV2,video://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv2/
 CCTV2,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
-CCTV3,video://http://www.66zhibow.com/1/cctv3.html
 CCTV3,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
 CCTV3,video://http://m.345iptv.com/?act=play&token=ca28d0abb279949ee03368a064522e10&tid=ys&id=3
-CCTV4,video://http://www.66zhibow.com/1/cctv4.html
 CCTV4,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=7f4e2027-e822-49f3-88b1-2ffe00919f92
-CCTV5,video://http://www.66zhibow.com/1/cctv5.html
 CCTV5,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
 CCTV6,video://https://www.1905.com/cctv6/live/
 CCTV6,video://http://m.345iptv.com/?act=play&token=84b8fbb869796b576e224b7b84196156&tid=ys&id=7
