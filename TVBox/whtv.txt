@@ -1,5 +1,5 @@
 🌏｜网页TV,#genre#
-CCTV1,video://https://m.miguvideo.com/m/home/8cfc42990f214674a2e2fa149e7afd6d?plt=sub&channelId=10010001005
+CCTV1,video://https://m.miguvideo.com/mgs/msite/prd/liveDetail.html?channelid=201600010010034&contId=60880742020250421017&sharefrom=miguvideoapp
 CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
 CCTV1,video://http://www.guangbomi.com/tv/zy/cctv1.html
 CCTV1,video://http://tv.haoqu99.com/1/cctv1.html
