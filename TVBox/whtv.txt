@@ -1,4 +1,5 @@
 🌏｜网页TV,#genre#
+CCTV1,video://https://m.miguvideo.com/mgs/msite/prd/liveDetail.html?channelid=201600010010034&contId=60880742020250421011&sharefrom=miguvideoapp&pwId=e15612610d23447fbcd23d3b3ad8e2fb
 CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
 CCTV1,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV2,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
