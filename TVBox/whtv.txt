@@ -1,5 +1,5 @@
 🌏｜网页TV,#genre#
-CCTV1,video://https://tv.cctv.com/live/cctv1/?spm=C28340.P8YyNiekrjS1.ExidtyEJcS5K.1
+
 CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
 CCTV1,video://http://www.guangbomi.com/tv/zy/cctv1.html
 CCTV1,video://http://tv.haoqu99.com/1/cctv1.html
