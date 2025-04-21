@@ -21,7 +21,7 @@ CCTV13,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
 CCTV13,video://http://tv.haoqu99.com/1/cctv13.html
 CCTV14,video://http://tv.haoqu99.com/1/cctv14.html
 CCTV15,video://http://tv.haoqu99.com/1/cctv15.html
-CCTV16,video://http://tv.haoqu99.com/1/cctv16.html
+CCTV16,video://https://www.yangshipin.cn/tv/home?pid=600098637
 CCTV17,video://http://tv.haoqu99.com/1/cctv17.html
 
 北京卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=11
