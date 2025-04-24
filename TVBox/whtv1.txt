@@ -11,7 +11,7 @@ video://https://item.btime.com/5755n511tbk8flo40l4c71l0sdf
 video://https://tv.cctv.com/live/cctv1/
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视频",CCTV-1 综合
 video://https://yangshipin.cn/tv/home?pid=600001859
-
+https://yangshipin.cn/tv/home?pid=600001859
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-2 财经
 video://https://tv.cctv.com/live/cctv2/
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="央视频",CCTV-2 财经
