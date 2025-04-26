@@ -3,10 +3,8 @@
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "sites": [
 //👨‍💻👌🏰🍑🐅🧣 🌺📢🎉🌙🌟🌸✨🍓🥚🏝🍆🍅🐎🐐 🌩🏭👨‍👩‍👧‍👧🌍🙏🎃🐇🌞⛈️❄️☔🌍🍉🥇☀️👩‍🌾🏔️🔥☁️
+    
 
-
-     
-{"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.com/"},
 {"key": "新6V", "name": "🧲新6V磁力", "type": 3, "api": "csp_SixV", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "https://www.xb6v.com/" },
