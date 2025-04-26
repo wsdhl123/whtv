@@ -17,7 +17,17 @@
  "ext": "https://7337.kstore.space/twvip/js/央视新闻.js" },
 { "key": "央视综合","name": "📺央视综合", "type": 3, "api": "https://7337.kstore.space/twvip/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,
 "ext": "https://7337.kstore.space/twvip/js/央视综合.js"},
+     
 
+     
+{"key":"DSZB","name":"🧿电视直播","type":3,"api":"csp_XBPQ",
+"ext":{
+"分类url":"https://m.345iptv.com/?tid={cateId}",
+"分类":"综合&体育&央视&卫视&电影&咪咕视频福建移动IPTV&黑龙江移动IPTV&IPV6网络电视","分类值":"itv&ty&ys&ws&movie&migu&fjitv&litv&ipv6"}},
+}},
+
+
+     
      
 {"key":"黑木耳资源","name":"🌙黑木耳资源","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","动漫电影","大陆剧","欧美剧","港澳剧","韩剧","日剧","台湾剧","泰剧","综艺","动漫","记录片"]},
 {"key": "光速资源", "name": "🌟光速资源","type": 1,"api": "http://api.guangsuapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","动漫电影","大陆剧","欧美剧","港澳剧","韩剧","日剧","台湾剧","泰剧","综艺","动漫","记录片"]},
