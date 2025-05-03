@@ -72,7 +72,31 @@ CCTV17,video://https://hlszymgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/
 成都新闻综合,video://https://www.cditv.cn/show/4845-563.html
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 
-
+🌏｜北方广电央视频道,#genre#
+CCTV1,http://ygbh.site/php/bfgd.php?id=201
+CCTV1,http://ygbh.site/php/bfgd.php?id=484
+CCTV1,http://ygbh.site/php/bfgd.php?id=488
+CCTV1,http://ygbh.site/php/bfgd.php?id=489
+CCTV2,http://ygbh.site/php/bfgd.php?id=061
+CCTV3,http://ygbh.site/php/bfgd.php?id=062
+CCTV4,http://ygbh.site/php/bfgd.php?id=063
+CCTV5,http://ygbh.site/php/bfgd.php?id=064
+CCTV5+,http://ygbh.site/php/bfgd.php?id=246
+CCTV6,http://ygbh.site/php/bfgd.php?id=065
+CCTV7,http://ygbh.site/php/bfgd.php?id=127
+CCTV8,http://ygbh.site/php/bfgd.php?id=066
+CCTV9,http://ygbh.site/php/bfgd.php?id=128
+CCTV10,http://ygbh.site/php/bfgd.php?id=129
+CCTV11,http://ygbh.site/php/bfgd.php?id=130
+CCTV12,http://ygbh.site/php/bfgd.php?id=131
+CCTV13,http://ygbh.site/php/bfgd.php?id=067
+CCTV14,http://ygbh.site/php/bfgd.php?id=132
+CCTV15,http://ygbh.site/php/bfgd.php?id=133
+CCTV17,http://ygbh.site/php/bfgd.php?id=204
+CETV1,http://ygbh.site/php/bfgd.php?id=135
+CETV2,http://ygbh.site/php/bfgd.php?id=492
+CGTN,http://ygbh.site/php/bfgd.php?id=134
+CGTN,http://ygbh.site/php/bfgd.php?id=305
 
 🌏｜央视移动频道,#genre#
 
