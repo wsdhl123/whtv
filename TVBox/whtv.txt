@@ -1,5 +1,5 @@
 🌏｜网页TV,#genre#
-CCTV1,video://https://webapi.miguvideo.com/m/liveDetail/608807420?channelId=10010001005
+CCTV1,video://https://hlszymgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/600/01.m3u8?msisdn=fe07835a-315f-4f7c-9477-b7b76b80f8a4&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20250503150011&Channel_ID=0131_10010001005&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=120.194.220.48&SecurityKey=20250503150011&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-8.4.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&tid=h5&conFee=0&mtv_session=0be158c6bd54df92b3cba223ee75f97c&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7f9f4f38e1e418cd98322fd9bcc99754
 CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
 CCTV1,video://http://www.66zhibow.com/1/cctv1.html
 CCTV1,http://8.138.7.223/tv/ptbtv.php?id=27
