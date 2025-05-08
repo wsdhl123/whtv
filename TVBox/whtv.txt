@@ -28,11 +28,11 @@ CCTV13,http://8.138.7.223/tv/gzjs.m3u8
 CCTV13,http://8.138.7.223/tv/ptbtv.php?id=28
 CCTV13,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
 CCTV13,video://http://tv.haoqu99.com/1/cctv13.html
-CCTV14,//http://ali.hlspull.yximgs.com/live/36f7e5b4c944104969d7de236a4f705f.flv
-CCTV15,//http://ali.hlspull.yximgs.com/live/b30fcf446f60e2b874effc7ed10a3d7c.flv
+CCTV14,http://ali.hlspull.yximgs.com/live/36f7e5b4c944104969d7de236a4f705f.flv
+CCTV15,http://ali.hlspull.yximgs.com/live/b30fcf446f60e2b874effc7ed10a3d7c.flv
 CCTV16,video://http://tv.haoqu99.com/1/cctv16.html
-CCTV16,//http://27.19.219.87:34567/bptv/10000100000000050000000004972604.m3u8
-CCTV17,//http://ali.hlspull.yximgs.com/live/ee3eedf5e4723c43340eb50bbdca798e.flv
+CCTV16,http://27.19.219.87:34567/bptv/10000100000000050000000004972604.m3u8
+CCTV17,http://ali.hlspull.yximgs.com/live/ee3eedf5e4723c43340eb50bbdca798e.flv
 
 
 
