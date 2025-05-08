@@ -25,6 +25,13 @@ CCTV13,http://8.138.7.223/tv/gzjs.m3u8
 CCTV13,http://8.138.7.223/tv/ptbtv.php?id=28
 CCTV13,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
 CCTV13,video://http://tv.haoqu99.com/1/cctv13.html
+CCTV14,video://http://tv.haoqu99.com/1/cctv14.html
+CCTV15,video://http://tv.haoqu99.com/1/cctv15.html
+CCTV16,video://http://tv.haoqu99.com/1/cctv16.html
+CCTV17,video://http://tv.haoqu99.com/1/cctv17.html
+
+
+
 凤凰资讯,video://http://www.66zhibow.com/4/fhzx.html
 凤凰卫视中文台,video://http://www.66zhibow.com/4/fhzw.html
 凤凰香港台,video://http://www.66zhibow.com/4/fhxg.html
