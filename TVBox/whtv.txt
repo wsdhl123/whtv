@@ -11,7 +11,7 @@ CCTV3,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
 CCTV3,//http://27.19.219.87:34567/bptv/10000100000000050000000003870746.m3u8
 CCTV4,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=7f4e2027-e822-49f3-88b1-2ffe00919f92
 CCTV5,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
-CCTV6,video://https://www.1905.com/
+CCTV6,video://https://www.1905.com/cctv6/live/?index3
 CCTV6,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
 CCTV6,http://45.45.218.253:10087/bptv/10000100000000050000000003870749.m3u8
 CCTV7,video://http://www.66zhibow.com/1/cctv7.html
