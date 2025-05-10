@@ -16,12 +16,11 @@
 "ext": "https://7337.kstore.space/twvip/js/央视综合.js"},
  
      
-{"key":"黑木耳资源","name":"🌙黑木耳资源","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","动漫电影","大陆剧","欧美剧","港澳剧","韩剧","日剧","台湾剧","泰剧","综艺","动漫","记录片"]},
-{"key": "光速资源", "name": "🌟光速资源","type": 1,"api": "http://api.guangsuapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","动漫电影","大陆剧","欧美剧","港澳剧","韩剧","日剧","台湾剧","泰剧","综艺","动漫","记录片"]},
+
 {"key": "极速资源","name": "🏔️极速资源","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/", "searchable": 1,"changeable": 1, "categories": ["日剧","马泰剧","内地剧","欧美剧","香港剧","韩剧","台湾剧","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","灾难片","悬疑片","犯罪片","中国动漫","日本动漫","欧美动漫"]},
 {"key": "索尼资源","name": "✨索尼资源","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1, "categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","动画片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 {"key": "量子资源","name": "🌍量子资源","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-{"key": "非凡资源","name": "🏰非凡资源","type": 1,"api": "http://cj.ffzyapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧", "台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+
 
 {"key": "ffys","name": "✨飞飞影视", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
@@ -38,13 +37,7 @@
 "分类url": "https://khi.cc/vodshow/{cateId}-{area}---{lang}-------{year}.html",
 "分类":"电影&电视剧&动漫&综艺&短剧","分类值":"1&2&3&4&5"}},
 
-{"key":"555yy","name":"❄️555影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
-"ext":{
-"播放标题":"+>&&</a>",
-//"播放数组": "<div class=\"play-btn\">&&</div>",  
-     
-"分类url": "https://www.555gy.cc/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/year/{year}.html",
-"分类":"电影&剧集&动漫&综艺&短剧","分类值":"1&2&3&4&45"}},
+
 
 {"key": "YGYY","name": "🌙夜光影院", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
@@ -66,11 +59,7 @@
 "分类值": "1&2&3&4&5"
 }},
     
-{"key":"csp_红狐狸影视","name":"🧿红狐狸影视","type":3,"api":"csp_XBPQ",
-"ext":{
-"分类url":"https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
-"分类":"电影$1#电视剧$2#综艺$3#动漫$4"
-}},
+
     
 {"key":"JPdy","name":"❄️金牌电影 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
 "ext":{
@@ -109,21 +98,7 @@
 "分类":"电影&电视剧&港台&欧美&日韩&泰剧","分类值":"1&2&3&4&5&22"}},
 
 
-{"key":"YGDY","name":"  🌞阳光电影网","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
-"ext":{
-"线路标题": "<span>&&</span>",
-"线路数组": "data-dropdown-value=&&</div>",
-"播放标题":"+>&&</a>",
-"分类url":"https://www.ygdy8.cc/{cateId}/",
-"分类":"电影&电视剧&综艺&动漫&短剧","分类值":"dianying&dianshiju&zongyi&dongman&duanju"}},
 
-{"key":"XEYS","name":"     🎉秀儿影视","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
-"ext":{
-"线路标题": "<span>&&</span>",
-"线路数组": "data-dropdown-value=&&</div>",
-"播放标题":"+>&&</a>",
-"分类url":"https://xiuer.pro/vod/show/id/{cateId}/area/{area}/year/{year}/",
-"分类":"电影&电视剧&综艺&动漫&短剧&纪录片","分类值":"dianying&dianshiju&zongyi&dongman&duanju&jilupian"}},
 
 
 {"key":"LIBVIOYS","name":"     🧣LIBVIO","type":3,"api":"csp_XBPQ",
@@ -135,24 +110,10 @@
 "分类":"电影&剧集&动漫&日韩剧&欧美剧","分类值":"1&2&4&15&16"}},
 
 
-{"key":"PPYS","name":"     ✨皮皮影视","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
-"ext":{
-"线路标题": "<span>&&</span>",
-"线路数组": "data-dropdown-value=&&</div>", 
-"播放标题":"+>&&</a>",
-"分类url": "https://www.zzhycg.com/show/{cateId}-{area}--{class}-{lang}-------{year}.html",
-"分类":"电影&电剧集&综艺&动漫&短剧","分类值":"1&2&3&4&33"}},
 
 
 
-{"key":"PBYS","name":"     ✨片吧影视","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
-"ext":{
 
-"线路标题": "<span>&&</span>",
-"线路数组": "data-dropdown-value=&&</div>", 
-"播放标题":"+>&&</a>",
-"分类url": "https://www.pbpbv.com/sort/{cateId}.html",
-"分类":"电影&电视剧&综艺&动漫","分类值":"1&2&4&3"}},
 
 
 
@@ -166,13 +127,7 @@
 
 
 
-{"key":"CCYS","name":"     👨‍💻驰策影视 ","type":3,"api":"csp_XBPQ",
-"ext":{
-"线路标题": "<span>&&</span>",
-"线路数组": "data-dropdown-value=&&</div>", 
-"播放标题":"+>&&</a>",
-"分类url": "https://www.cechiyy.sbs/ccvt/{cateId}.html",
-"分类":"电影&电视剧&综艺&动漫","分类值":"1&2&3&4"}},
+
 
 
  
@@ -209,14 +164,7 @@
 
 
  
-{"key":"DYTT","name":"     💕电影天堂","type":3,"api":"csp_XBPQ",
-"ext":{
-"线路数组": "线路数组=&&=线路数组",
-"线路标题": "线路标题=\"&&\"",  
-"播放标题":"+>&&</a>",
-"播放数组":"<div class=\"module-play-list&&</div>",
-"分类url":"https://lzrs.cc/vodtype/{cateId}.html",
-"分类":"电影&电视剧&综艺&动漫","分类值":"1&2&3&4"}},
+
 
 
 
@@ -288,7 +236,7 @@
 
 
 
-{"key":"光速资源","name":"光速资源","type":1,"api":"http://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","动漫电影","大陆剧","欧美剧","港澳剧","韩剧","日剧","台湾剧","泰剧","综艺","动漫","记录片"]},
+
 {"key":"csp_SP360","name": "💘360","type": 3,"api": "csp_SP33","jar":"https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/231108.jar"},
 {"key":"teng","name":"🐧腾讯","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/231108.jar"},
 {"key":"MGT","name":"🍋芒果","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/231108.jar"},
@@ -301,7 +249,7 @@
 
 
 {"key": "csp_Bili1","name": "🅱️哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
-"ext": "https://raw.kkgithub.com/wsdhl123/whtv/master/TVBox/Bili.json",
+"ext": "https://raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/Bili.json",
 "jar": "https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/bili.jar"
 },
 
