@@ -14,13 +14,9 @@
  "ext": "https://7337.kstore.space/twvip/js/央视新闻.js" },
 { "key": "央视综合","name": "📺央视综合", "type": 3, "api": "https://7337.kstore.space/twvip/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,
 "ext": "https://7337.kstore.space/twvip/js/央视综合.js"},
- 
-     
-
 {"key": "极速资源","name": "🏔️极速资源","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/", "searchable": 1,"changeable": 1, "categories": ["日剧","马泰剧","内地剧","欧美剧","香港剧","韩剧","台湾剧","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","灾难片","悬疑片","犯罪片","中国动漫","日本动漫","欧美动漫"]},
 {"key": "索尼资源","name": "✨索尼资源","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1, "categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","动画片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 {"key": "量子资源","name": "🌍量子资源","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-
 
 {"key": "ffys","name": "✨飞飞影视", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
@@ -28,16 +24,11 @@
 "分类": "电影&剧集&动漫&综艺&纪录片",
 "分类值": "20&21&22&23&24"
 }},
-
-
-
     
 {"key":"ZRYY","name":"🔥最热影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
 "ext":{
 "分类url": "https://khi.cc/vodshow/{cateId}-{area}---{lang}-------{year}.html",
 "分类":"电影&电视剧&动漫&综艺&短剧","分类值":"1&2&3&4&5"}},
-
-
 
 {"key": "YGYY","name": "🌙夜光影院", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
@@ -45,8 +36,6 @@
 "分类": "电影&电视剧&综艺&动漫",
 "分类值": "1&2&3&4"
 }},
-
-
      
 {"key":"DSXYS","name":"🥇大师兄影视","type":3,"api":"csp_XBPQ",
 "ext":{"分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
@@ -58,7 +47,6 @@
 "分类": "电影&电视剧&综艺&动漫&短剧",
 "分类值": "1&2&3&4&5"
 }},
-    
 
     
 {"key":"JPdy","name":"❄️金牌电影 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
@@ -98,9 +86,6 @@
 "分类":"电影&电视剧&港台&欧美&日韩&泰剧","分类值":"1&2&3&4&5&22"}},
 
 
-
-
-
 {"key":"LIBVIOYS","name":"     🧣LIBVIO","type":3,"api":"csp_XBPQ",
 "ext":{
 "线路标题": "<span>&&</span>",
@@ -110,13 +95,6 @@
 "分类":"电影&剧集&动漫&日韩剧&欧美剧","分类值":"1&2&4&15&16"}},
 
 
-
-
-
-
-
-
-
   {"key":"JSYS","name":"     🍅极速影视","type":3,"api":"csp_XBPQ",
 "ext":{
 "线路标题": "<span>&&</span>",
@@ -124,11 +102,6 @@
 "播放标题":"+>&&</a>",
 "分类url":"https://www.1qik.com/jisusw/{cateId}-{area}--{class}-{lang}-------{year}.html",
 "分类":"电影&电剧集&综艺&动漫&短剧","分类值":"1&2&3&4&5"}},
-
-
-
-
-
 
  
 {"key":"2GBT","name":"   👬二个BT","type":3,"api":"csp_XBPQ",
@@ -140,9 +113,6 @@
 "播放标题":"+>&&</a>",
 "分类url": "https://www.bttwoo.com/{cateId}/page/{catePg}",
 "分类": "电影$new-movie#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv" }},
-
-
-
 
 
 { "key": "VS影院", "name": "👥VS影院","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
@@ -157,17 +127,8 @@
 
 {"key": "YSDQW","name": "🔥影视大全网","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
 "ext": {
-
 "分类url": "https://www.waffleboy.com.cn/vodshow/{cateId}-{area}--{class}-{lang}-------{year}.html",
 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动画片$20#短剧$38"}},
-
-
-
- 
-
-
-
-
 
 {"key":"567DYY","name":" 🎆567电影院","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
@@ -176,7 +137,6 @@
 "播放数组":"<div class=\"vod-play-list&&</div>",
 "分类url":"https://www.ruchengxxw.com/vod/{cateId}/",
 "分类":"电影片&连续剧&综艺片&动漫片","分类值":"56dyp&56lxj&56zyp&56dmp"}},
-
 
 
 {"key": "黑狐", "name": "🦊黑狐影院","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "2","api": "csp_XBPQ",
@@ -214,7 +174,6 @@
 }},
 
 
-
 {"key":"小小影视","name":" 🌼小小影视","type":3,"api":"csp_XBPQ",
 "ext":{
 "免嗅": "0",//1开0关，默认为0，不解析不嗅探，直接播放链接，可在字母开关用m代替
@@ -223,8 +182,6 @@
 "播放标题":"+>&&</a>",
 "分类url":"https://www.weihuafrp.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 "分类":"电视剧&电影&综艺&动漫","分类值":"2&1&3&4"}},
-
-
 
 {"key":"DDYY","name":"  🌅大地影院","type":3,"api":"csp_XBPQ",
 "ext":{
@@ -235,18 +192,11 @@
 "分类":"电视剧&电影&综艺&动漫","分类值":"2&1&4&3"}},
 
 
-
-
 {"key":"csp_SP360","name": "💘360","type": 3,"api": "csp_SP33","jar":"https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/231108.jar"},
 {"key":"teng","name":"🐧腾讯","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/231108.jar"},
 {"key":"MGT","name":"🍋芒果","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/231108.jar"},
 {"key":"csp_IQIYI","name": "🥝爱奇艺","type":3,"api":"csp_Itv","quickSearch": 1,"searchable": 1,"filterable": 1,"changeable": 0,"jar":"https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/231108.jar"},
-
-
-
 {"key":"Aid","name":"🚑急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"jar":"https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/0620.jar"},
-
-
 
 {"key": "csp_Bili1","name": "🅱️哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
 "ext": "https://raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/Bili.json",
@@ -257,8 +207,6 @@
 {"key":"小学","name":"📚小学课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/xuexi/小学课堂.json"},
 {"key":"初中","name":"📚初中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/xuexi/初中课堂.json"},
 {"key":"高中","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/xuexi/高中课堂.json"},
-
-
 
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"http://127.0.0.1:9978/file/fatcat/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://api.wogg.xyz/","danMu":"弹"}},
 {"key":"csp_YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"http://127.0.0.1:9978/file/fatcat/token.txt","from":"4k|auto|fhd"}},
