@@ -21,14 +21,14 @@
 {"key": "ffys","name": "✨飞飞影视", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
 "分类url": "https://www.ffys.fun/vodshow/area/{area}/class/{class}/id/{cateId}/year/{year}.html",
-"分类": "电影&剧集&综艺&动漫&短剧",
+"分类": "电影&剧集&综艺&动漫&纪录片",
 "分类值": "20&21&22&23&24"
 }},
 
 {"key": "hnys","name": "🌍海纳影视", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
 "分类url": "https://www.hainatv.net/index.php/vod/show/area/{area}/id/{cateId}/lang/{lang}/year/{year}.html",
-"分类": "电影&剧集&动漫&综艺&纪录片",
+"分类": "电影&剧集&动漫&综艺&短剧",
 "分类值": "1&2&3&4&59"
 }},
 
