@@ -31,7 +31,12 @@
 "分类": "电影&剧集&动漫&综艺&短剧",
 "分类值": "1&2&3&4&59"
 }},
-
+{"key": "qyf","name": "🌍趣映坊", "type": 3, "api": "csp_XBPQ", "playerType": "1",
+"ext": {
+"分类url": "https://www.xxjio.com/index.php/vod/show/area/{area}/id/{cateId}/lang/{lang}/letter/{letter}/year/{year}.html",
+"分类": "电影&连续剧&动漫&综艺&短剧",
+"分类值": "71&88&94&96&114"
+}},
     
 
 {"key": "NMDVD","name": "👩‍🌾农民影视", "type": 3, "api": "csp_XBPQ", "playerType": "1",
