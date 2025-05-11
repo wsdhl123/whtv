@@ -47,7 +47,7 @@
 }},
     
     
-{"key":"ZRYY","name":"🔥最热影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
+{"key":"ZRYY","name":"🔥最热影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
 "分类url": "https://khi.cc/vodshow/{cateId}-{area}---{lang}-------{year}.html",
 "分类":"电影&电视剧&动漫&综艺&短剧","分类值":"1&2&3&4&5"}},
@@ -71,7 +71,7 @@
 }},
 
     
-{"key":"JPdy","name":"❄️金牌电影 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
+{"key":"JPdy","name":"❄️金牌电影 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
 "播放标题":"+>&&</a>",
 "播放数组": "<div class=\"play-btn\">&&</div>",
@@ -79,7 +79,7 @@
 "分类":"电影&电视剧&综艺&动漫","分类值":"1&2&4&3"}},
 
 
-{"key":"JPYY","name":"✨金牌影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
+{"key":"JPYY","name":"✨金牌影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
 "分类url": "https://www.jinyu56.com/jpwusx/{cateId}-{area}--{class}-{lang}-------{year}.html",
 "分类":"电影&电视剧&综艺&动漫&短剧","分类值":"1&2&3&4&5"}},
@@ -101,7 +101,7 @@
 "分类值": "1&2&3&4&12"
 }},
 
-{"key":"1280","name":"  🏰VIP1280","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
+{"key":"1280","name":"  🏰VIP1280","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
 "播放标题":"+>&&</a>",
 "分类url":"https://vip1280.net/frim/index{cateId}/area/{area}/lang/{lang}/year/{year}.html",
