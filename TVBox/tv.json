@@ -25,6 +25,15 @@
 "分类值": "20&21&22&23&24"
 }},
 
+
+{"MTYY": "MTYS","name": "🎬麦田影院", "type": 3, "api": "csp_XBPQ", "playerType": "1",
+"ext": {
+"分类url": "https://mtyy1.com/vodshow/{cateId}-{area}--{class}-{lang}-------{year}.html",
+"分类": "电影&电视剧&综艺&动漫&纪录片",
+"分类值": "1&2&3&4&26"
+}},
+  
+
 {"key": "hnys","name": "🌍海纳影视", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
 "分类url": "https://www.hainatv.net/index.php/vod/show/area/{area}/id/{cateId}/lang/{lang}/year/{year}.html",
