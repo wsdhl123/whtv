@@ -26,6 +26,21 @@
 }},
 
 
+
+{"key": "HCTDs","name": "✨火车太堵", "type": 3, "api": "csp_XBPQ", "playerType": "1",
+"ext": {
+"分类url": "https://www.tdgo.shop/vodshow/{cateId}-{area}--{class}-{lang}-------{year}.html",
+"分类": "电影&剧集&综艺&动漫&纪录片",
+"分类值": "20&21&23&22&24"
+}},
+
+
+
+
+
+    
+
+
 {"key": "MTYY","name": "🎬麦田影院", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
 "图片": "data-src=\"&&\"",
