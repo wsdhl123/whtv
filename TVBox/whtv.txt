@@ -79,53 +79,30 @@ CCTV16,http://27.19.219.87:34567/bptv/10000100000000050000000004972604.m3u8
 
 🌏｜央视频道,#genre#
 CCTV1,http://124.127.46.59:9001/bptv/10000100000000050000000003864351.m3u8
-CCTV1,http://web9916.w.computerqwq.cf/jzb.php?id=cctv1
-CCTV2,http://web9916.w.computerqwq.cf/jzb.php?id=cctv2
-CCTV3,http://web9916.w.computerqwq.cf/jzb.php?id=cctv3
-CCTV4,http://web9916.w.computerqwq.cf/jzb.php?id=cctv4
-CCTV5,http://web9916.w.computerqwq.cf/jzb.php?id=cctv5
-CCTV5+,http://web9916.w.computerqwq.cf/jzb.php?id=cctv5plus
-CCTV6,http://web9916.w.computerqwq.cf/jzb.php?id=cctv6
-CCTV7,http://web9916.w.computerqwq.cf/jzb.php?id=cctv7
-CCTV8,http://web9916.w.computerqwq.cf/jzb.php?id=cctv8
-CCTV9,http://web9916.w.computerqwq.cf/jzb.php?id=cctv9
-CCTV10,http://web9916.w.computerqwq.cf/jzb.php?id=cctv10
-CCTV11,http://web9916.w.computerqwq.cf/jzb.php?id=cctv11 
-CCTV12,http://web9916.w.computerqwq.cf/jzb.php?id=cctv12
-CCTV13,http://web9916.w.computerqwq.cf/jzb.php?id=cctv13
-CCTV14,http://web9916.w.computerqwq.cf/jzb.php?id=cctv14
-CCTV15,http://web9916.w.computerqwq.cf/jzb.php?id=cctv15
-CCTV17,http://web9916.w.computerqwq.cf/jzb.php?id=cctv17 
-CCTV4美洲,http://web9916.w.computerqwq.cf/jzb.php?id=cctv4m
-CCTV4欧洲,http://web9916.w.computerqwq.cf/jzb.php?id=cctv4o 
-东方卫视,http://web9916.w.computerqwq.cf/jzb.php?id=dfws
-湖南卫视,http://web9916.w.computerqwq.cf/jzb.php?id=hunws
-浙江卫视,http://web9916.w.computerqwq.cf/jzb.php?id=zjws
-江苏卫视,http://web9916.w.computerqwq.cf/jzb.php?id=jsws
-北京卫视,http://web9916.w.computerqwq.cf/jzb.php?id=bjws
-深圳卫视,http://web9916.w.computerqwq.cf/jzb.php?id=szws
-安徽卫视,http://web9916.w.computerqwq.cf/jzb.php?id=ahws
-广东卫视,http://web9916.w.computerqwq.cf/jzb.php?id=gdws 
-湖北卫视,http://web9916.w.computerqwq.cf/jzb.php?id=hbws
-山东卫视,http://web9916.w.computerqwq.cf/jzb.php?id=sdws
-江西卫视,http://web9916.w.computerqwq.cf/jzb.php?id=jxws
-海南卫视,http://web9916.w.computerqwq.cf/jzb.php?id=hainws
-黑龙江卫视,http://web9916.w.computerqwq.cf/jzb.php?id=hljws
-东南卫视,http://web9916.w.computerqwq.cf/jzb.php?id=dnws
-河北卫视,http://web9916.w.computerqwq.cf/jzb.php?id=hebiws
-四川卫视,http://web9916.w.computerqwq.cf/jzb.php?id=scws
-辽宁卫视,http://web9916.w.computerqwq.cf/jzb.php?id=lnws
-重庆卫视,http://web9916.w.computerqwq.cf/jzb.php?id=cqws
-河南卫视,http://web9916.w.computerqwq.cf/jzb.php?id=henws
-贵州卫视,http://web9916.w.computerqwq.cf/jzb.php?id=gzws
-广西卫视,http://web9916.w.computerqwq.cf/jzb.php?id=gxws
-吉林卫视,http://web9916.w.computerqwq.cf/jzb.php?id=jlws
-陕西卫视,http://web9916.w.computerqwq.cf/jzb.php?id=sxws
-天津卫视,http://web9916.w.computerqwq.cf/jzb.php?id=tjws
-青海卫视,http://web9916.w.computerqwq.cf/jzb.php?id=qhws
-甘肃卫视,http://web9916.w.computerqwq.cf/jzb.php?id=gsws
-新疆卫视,http://web9916.w.computerqwq.cf/jzb.php?id=xjws
-山西卫视,http://web9916.w.computerqwq.cf/jzb.php?id=shanxws
+CCTV1,http://112.46.105.20:8009/hls/501/index.m3u8
+CCTV1,http://8.138.7.223/tv/ptbtv.php?id=27
+CCTV2,http://112.46.105.20:8009/hls/502/index.m3u8
+CCTV2,http://8.138.7.223/tv/cctv2.php
+CCTV3,http://112.46.105.20:8009/hls/3/index.m3u8
+CCTV4,http://112.46.105.20:8009/hls/4/index.m3u8
+CCTV5,http://112.46.105.20:8009/hls/503/index.m3u8
+CCTV5+,http://ylt.7766.org:333/hls/21/index.m3u8
+CCTV6,http://112.46.105.20:8009/hls/6/index.m3u8
+CCTV7,http://112.46.105.20:8009/hls/504/index.m3u8
+CCTV8,http://112.46.105.20:8009/hls/8/index.m3u8
+CCTV9,http://112.46.105.20:8009/hls/509/index.m3u8
+CCTV10,http://112.46.105.20:8009/hls/506/index.m3u8
+CCTV11,http://112.46.105.20:8009/hls/11/index.m3u8
+CCTV12,http://112.46.105.20:8009/hls/507/index.m3u8
+CCTV13,http://8.138.7.223/tv/ptbtv.php?id=28
+CCTV13,http://112.46.105.20:8009/hls/13/index.m3u8
+CCTV14,http://112.46.105.20:8009/hls/14/index.m3u8
+CCTV15 ,http://112.46.105.20:8009/hls/15/index.m3u8
+CCTV16,http://111.43.126.240:9003/hls/29/index.m3u8
+CCTV17,http://111.43.126.240:9003/hls/30/index.m3u8
+CCTV 4K,http://3501776.xyz:35455/gaoma/cctv4k.m3u8
+CCTV 8K,http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
+
 
 
 
