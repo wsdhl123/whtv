@@ -26,6 +26,18 @@
 }},
 
 
+{"key": "JZB","name": "📽️极直播", "type": 3, "api": "csp_XBPQ", "playerType": "1",
+"ext": {
+"分类url": "https://123kzb.net/{cateId}",
+"分类": "影视&TV频道",
+"分类值": "movies&tvs"
+}},
+
+
+
+
+
+    
 
 {"key": "HCTDs","name": "✨火车太堵", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
