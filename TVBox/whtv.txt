@@ -1,4 +1,5 @@
 🌏｜网页TV,#genre#
+CCTV1,http://39.135.133.167/TVOD/88888888/224/3221225816/main.m3u8
 CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
 CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
 CCTV1,video://http://www.66zhibow.com/1/cctv1.html
