@@ -94,7 +94,6 @@ CCTV12,http://182.254.225.1/zm/akmg.php?id=cctv12
 CCTV13,http://182.254.225.1/zm/akmg.php?id=cctv13
 CCTV14,http://182.254.225.1/zm/akmg.php?id=cctv14
 CCTV15,http://182.254.225.1/zm/akmg.php?id=cctv15
-CCTV16,http://182.254.225.1/zm/akmg.php?id=cctv16
 CCTV17,http://182.254.225.1/zm/akmg.php?id=cctv17
 
 
