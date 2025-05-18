@@ -19,6 +19,7 @@ CCTV7,video://https://web.junhao.mil.cn/cms/rmt9502_html/0/0rmhlm/zxrm/jhzh/4611
 CCTV7,video://http://www.66zhibow.com/1/cctv7.html
 CCTV7,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
 CCTV7,http://8.138.7.223/tv/cctv7.m3u8
+CCTV8,video://https://m.miguvideo.com/m/liveDetail/624878356?channelId=10010001005
 CCTV9,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=6
 CCTV10,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=7
 CCTV11,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=8
