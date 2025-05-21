@@ -1,6 +1,6 @@
 🌏｜网页TV,#genre#
 CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
-CCTV1,video://https://web.junhao.mil.cn/cms/rm ... p;articleid=5234612
+CCTV1,video://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612
 CCTV1,video://http://www.66zhibow.com/1/cctv1.html
 CCTV1,http://8.138.7.223/tv/ptbtv.php?id=27
 CCTV1,video://http://xiubo.net/tv/zy/cctv1.html
