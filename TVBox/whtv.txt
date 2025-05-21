@@ -82,24 +82,24 @@ CCTV16,http://27.19.219.87:34567/bptv/10000100000000050000000004972604.m3u8
 成都新闻综合,video://https://www.cditv.cn/show/4845-563.html
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 
-🌏｜咪咕央视频道,#genre#
-CCTV1,http://182.254.225.1/zm/akmg.php?id=cctv1
-CCTV2,http://182.254.225.1/zm/akmg.php?id=cctv2
-CCTV3,http://182.254.225.1/zm/akmg.php?id=cctv3
-CCTV4,http://182.254.225.1/zm/akmg.php?id=cctv4
-CCTV5,http://182.254.225.1/zm/akmg.php?id=cctv5
-CCTV5+,http://182.254.225.1/zm/akmg.php?id=cctv5p
-CCTV6,http://182.254.225.1/zm/akmg.php?id=cctv6
-CCTV7,http://182.254.225.1/zm/akmg.php?id=cctv7
-CCTV8,http://182.254.225.1/zm/akmg.php?id=cctv8
-CCTV9,http://182.254.225.1/zm/akmg.php?id=cctv9
-CCTV10,http://182.254.225.1/zm/akmg.php?id=cctv10
-CCTV11,http://182.254.225.1/zm/akmg.php?id=cctv11
-CCTV12,http://182.254.225.1/zm/akmg.php?id=cctv12
-CCTV13,http://182.254.225.1/zm/akmg.php?id=cctv13
-CCTV14,http://182.254.225.1/zm/akmg.php?id=cctv14
-CCTV15,http://182.254.225.1/zm/akmg.php?id=cctv15
-CCTV17,http://182.254.225.1/zm/akmg.php?id=cctv17
+🌏｜极速央视频道,#genre#
+CCTV1,https://tvpull.careryun.com/live/6affc23769b9b98ae2aef4a030603d8b.m3u8?txSecret=38536e5cf5c11cf2c1d7625f1dcef104&txTime=682d8e34
+CCTV2,https://tvpull.careryun.com/live/84e2198828007870a4e8f5499964888c.m3u8?txSecret=86c0716dff0cb4ec40526ee239f077b5&txTime=682d8e34
+CCTV3,https://tvpull.careryun.com/live/02b04ee89a7bea25b7778c181285fd0b.m3u8?txSecret=ac8b38f32b58b42f581946247a3b1ba1&txTime=682d8e34
+CCTV4,https://tvpull.careryun.com/live/37476db232639f59958cc054877e6548.m3u8?txSecret=80ded0fdc8d1ff651fada8f74e56056d&txTime=682d8e34
+CCTV5,https://tvpull.careryun.com/live/2fe3f8cc14c276a4d713fd6b9842e787.m3u8?txSecret=a43a072fb1045afa3e9e207c8df6d798&txTime=682d8e34
+CCTV5+,https://tvpull.careryun.com/live/481df449d0406ba63091dc0322d33c2a.m3u8?txSecret=f1744daa1df0cd21a47b39d4f804d8d0&txTime=682d8e34
+CCTV6,https://tvpull.careryun.com/live/6212fce3f9dbc18dd52290c9b11c878b.m3u8?txSecret=6d5c4448643dd2a2b744a80ab2598411&txTime=682d8e34
+CCTV7,https://tvpull.careryun.com/live/010d49629a6e9e3f4fabaae699399717.m3u8?txSecret=80e773035ea331ac55fd431ad39060f0&txTime=682d8e34
+CCTV8,https://tvpull.careryun.com/live/e0b8f4049d92f6773b878d26a6e870c2.m3u8?txSecret=61b1f9b14aa5923ae226011a5a1d39cb&txTime=682d8e34
+CCTV9,https://tvpull.careryun.com/live/b729fe7014340b4670a94a69bffc2515.m3u8?txSecret=58475c19b6cf11cb810e030ae480607d&txTime=682d8e34
+CCTV10,https://tvpull.careryun.com/live/bbcae7e28366b04fb6022316fff8816a.m3u8?txSecret=ad8dc25ffd7adc25628531f97de37997&txTime=682d8e34
+CCTV11,https://tvpull.careryun.com/live/c38f0fd188382b7bc025724033e69882.m3u8?txSecret=dca6f4ad579085f6dfcede808524a34d&txTime=682d8e34
+CCTV12,https://tvpull.careryun.com/live/e3c27629e20740ce89cb75e5fbfc02c9.m3u8?txSecret=d64eaf99c83bd733fec11b8e4828b3c9&txTime=682d8e34
+CCTV13,https://tvpull.careryun.com/live/78766fb89f154be74a98cb4c5586d46f.m3u8?txSecret=389d2499e1a6a4428ed19ed4ef3167dd&txTime=682d8e34
+CCTV14,https://tvpull.careryun.com/live/a955c6024121e7ec8cdefb176387bddb.m3u8?txSecret=a5cfd0d4e405748de1daea650d177f7f&txTime=682d8e34
+CCTV15,https://tvpull.careryun.com/live/fed59211dafcd17ec37e8ac349fc5dd4.m3u8?txSecret=33f2a5bd40e42723d555080f4a3b3985&txTime=682d8e34
+CCTV17,https://tvpull.careryun.com/live/ba591d30ad977fb8ca911e665fa016cf.m3u8?txSecret=26eb319a81e01337f3e5c931e315b4a1&txTime=682d8e34
 
 
 🌏｜央卫视频道,#genre#
