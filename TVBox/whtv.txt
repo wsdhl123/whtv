@@ -1,7 +1,8 @@
 🌏｜网页TV,#genre#
 CCTV1,video://https://webapi.miguvideo.com/m/liveDetail/608807420?channelId=10010001005
 CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
-CCTV1,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
+CCTV1,video://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612
+CCTV1,video://https://web.junhao.mil.cn/cms/rmt9502_html/0/0rmhlm/zxrm/jhzh/4611577.shtml
 CCTV1,video://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612
 CCTV1,video://http://www.66zhibow.com/1/cctv1.html
 CCTV1,http://8.138.7.223/tv/ptbtv.php?id=27
@@ -16,8 +17,7 @@ CCTV4,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumbe
 CCTV5,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
 CCTV6,video://https://m.1905.com/m/cctv6/gzh/?home
 CCTV6,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
-CCTV7,video://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612
-CCTV7,video://https://web.junhao.mil.cn/cms/rmt9502_html/0/0rmhlm/zxrm/jhzh/4611577.shtml
+
 CCTV7,video://http://www.66zhibow.com/1/cctv7.html
 CCTV7,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
 CCTV7,http://8.138.7.223/tv/cctv7.m3u8
