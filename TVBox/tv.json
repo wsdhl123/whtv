@@ -94,10 +94,10 @@
 }},
     
     
-{"key":"ZRYY","name":"🔥最热影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
+{"key":"DQYY","name":"🎬第七影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
-"分类url": "https://khi.cc/vodshow/{cateId}-{area}---{lang}-------{year}.html",
-"分类":"电影&电视剧&动漫&综艺&短剧","分类值":"1&2&3&4&5"}},
+"分类url": "https://the7tv.com/the/{cateId}.html",
+"分类":"电影&连续剧&综艺&动漫&短剧","分类值":"1&2&3&4&27"}},
 
 {"key": "YGYY","name": "🌙夜光影院", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
