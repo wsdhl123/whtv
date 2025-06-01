@@ -27,7 +27,7 @@
 
 {"key": "YQYY","name": "✨有趣影院", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
-"分类url": "https://www.yqu.cc/{class}/area/{area}/letter/{letter}/year/{year}.html",
+"分类url": "https://www.yqu.cc/t{class}/area/{area}/letter/{letter}/year/{year}.html",
 "分类": "电影&电视剧&综艺&动漫&纪录片",
 "分类值": "dianying&dianshiju&zongyi&dongman"
 }},
