@@ -54,6 +54,15 @@
 "分类值": "20&21&23&22&24"
 }},
 
+{"key":"DYGC","name":"     🧣电影工厂","type":3,"api":"csp_XBPQ",
+"ext":{
+"线路标题": "<span>&&</span>",
+"线路数组": "data-dropdown-value=&&</div>",
+"播放标题":"+>&&</a>",
+"分类url":"https://www.ysgc01.cc/show/{cateId}/area/{area}/class/{class}/year/{year}.html",
+"分类":"电视剧&电影&动漫剧","分类值":"d1&d2&d3"}},
+    
+
 
 {"key":"348Z","name":" 🎆348Z影院","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "2","api": "csp_XBPQ",
 "ext": {
