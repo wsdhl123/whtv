@@ -25,6 +25,18 @@
 "分类值": "20&21&23&22&24"
 }},
 
+{"key":"2GBT","name":"   👬二个BT","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
+"ext":{
+"数组": "",
+"线路数组": "在线播放&&</div>",
+"线路标题": "<span>&&</span>",
+"播放数组": "<div class=\"paly_list_btn\">&&</div>",
+"播放标题":"+>&&</a>",
+"分类url": "https://www.bttwo.org/{cateId}/page/{catePg}",
+"分类": "最新电影$new-movie#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv" }},
+
+    
+
 {"key": "JDYS","name": "🐧简单影视", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
 "分类url": "https://easysvip.com/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/year/{year}/",
@@ -181,15 +193,6 @@
 "分类":"电影&电剧集&综艺&动漫&短剧","分类值":"1&2&3&4&5"}},
 
  
-{"key":"2GBT","name":"   👬二个BT","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
-"ext":{
-"数组": "",
-"线路数组": "在线播放&&</div>",
-"线路标题": "<span>&&</span>",
-"播放数组": "<div class=\"paly_list_btn\">&&</div>",
-"播放标题":"+>&&</a>",
-"分类url": "https://www.bttwo.org/{cateId}/page/{catePg}",
-"分类": "最新电影$new-movie#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv" }},
 
 
 { "key": "VS影院", "name": "👥VS影院","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
