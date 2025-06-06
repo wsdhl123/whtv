@@ -37,7 +37,7 @@
 
  {"key": "WKYS","name": "💃悟空影视", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
-"分类url": "https://www.wukongvod.top/vodshow/{class}-{area}-{year}-2-0.html",
+"分类url": "https://www.wukongvod.top/{cateId}/",
 "分类": "电影&电视剧&动漫&综艺&短剧",
 "分类值": "movie&tv&cartoon&variety&shorts"
 }},   
