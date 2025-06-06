@@ -35,11 +35,11 @@
 "分类url": "https://www.bttwo.org/{cateId}/page/{catePg}",
 "分类": "最新电影$new-movie#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv" }},
 
- {"key": "WKYS","name": "💃悟空影视", "type": 3, "api": "csp_XBPQ", "playerType": "1",
+ {"key": "OKTV","name": "💃OKTV", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
-"分类url": "https://www.wukongvod.top/{cateId}/",
-"分类": "电影&电视剧&动漫&综艺&短剧",
-"分类值": "movie&tv&cartoon&variety&shorts"
+"分类url": "https://www.oktv.live/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/year/{year}.html",
+"分类": "电影&连续剧&动漫&综艺&短剧",
+"分类值": "1&2&4&3&21"
 }},   
 
 {"key": "JDYS","name": "🐧简单影视", "type": 3, "api": "csp_XBPQ", "playerType": "1",
