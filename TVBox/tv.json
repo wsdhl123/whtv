@@ -10,7 +10,7 @@
 {"key": "新6V", "name": "🧲新6V磁力", "type": 3, "api": "csp_SixV", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "https://www.xb6v.com/" },
 {"key": "hipy_js_央视大全[官]","name": "📺央视大全","type": 3,"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,
 "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/央视大全[官].js"},
-{ "key": "NFGC", "name": "🧣 奈飞工厂", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,
+{ "key": "奈飞工厂", "name": "🧣 奈飞工厂", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,
 "ext": {
 "分类url": "https://www.netflixgc.com/vodshow/{cateId}-----------.html",
 "分类": "电影$1#连续剧$2慢剧$3综艺$4"
