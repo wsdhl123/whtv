@@ -12,7 +12,7 @@
 "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/央视大全[官].js"},
 {"key": "BPSYS","name": "💯百思派", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
 "ext": {
-"图片": "data-original-scr=\"&&\"",
+"图片": "data-scr=\"&&\"",
 "分类url": "https://www.bestpipe.cn/vodshow/{cateId}-{area}--{class}-{lang}-------{year}.html",
 "分类": "电影$20#剧集$21#短剧$24#综艺$23#动漫$22"
 }},
@@ -28,7 +28,7 @@
 
 {"key":"5DYY","name":"✨5.影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
-"图片": "data-original-scr=\"&&\"",
+"图片": "data-scr=\"&&\"",
 "分类url": "https://www.5.movie/vodshow/{cateId}-{area}--{class}-{lang}-------{year}.html",
 "分类":"电影&剧集&动漫&综艺&短剧","分类值":"20&21&22&23&24"}},
 
