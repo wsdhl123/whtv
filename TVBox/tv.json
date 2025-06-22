@@ -26,12 +26,6 @@
 }},
 
 
-{"key":"5DYY","name":"✨5.影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
-"ext":{
-
-"分类url": "https://www.5.movie/vodshow/{cateId}-{area}--{class}-{lang}-------{year}.html",
-"分类":"电影&剧集&动漫&综艺&短剧","分类值":"20&21&22&23&24"}},
-
 
     
 
@@ -65,12 +59,6 @@
 "分类值": "1&2&4&3&21"
 }},   
 
-{"key": "JDYS","name": "🐧简单影视", "type": 3, "api": "csp_XBPQ", "playerType": "1",
-"ext": {
-"分类url": "https://easysvip.com/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/year/{year}/",
-"分类": "电影&电视剧&综艺&动漫&短剧",
-"分类值": "1&2&3&4&5"
-}},
 
    
 
@@ -92,32 +80,7 @@
     
 
 
-{"key":"348Z","name":" 🎆348Z影院","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "2","api": "csp_XBPQ",
-"ext": {
-"站名":"348影视",
-"主页url":"https://348z.com/",
-"简介":"+详情：&&</div>",
-"导演":"导演：&&</li>",
-"主演":"主演：&&</li>",
-"影片状态":"状态：&&</li>",
-"影片类型":"data vodTag\">&&</li>",
-"数组":"list-width volistwidthb\">&&</li>",
-"标题":"title=\"&&\"",
-"副标题":"list-remarks hidden\">&&</span>",
-"图片":"data-original=\"&&\"",
-"链接":"href=\"&&\"",
-"搜索url":"/vodsearch.html?wd={wd}",
-"搜索模式":"1",
-"搜索数组":"img lazy eclazy br\"&&</a>",
-"搜索标题":"title=\"&&\"",
-"搜索副标题":"list-remarks hidden\">&&</span>",
-"搜索图片":"data-original=\"&&\"",
-"搜索链接":"href=\"&&\"",
-"线路数组":"data-from=&&</a>[不包含:超清资源#MY][排序:极速2]",
-"线路标题":">&&</em>[替换:<em>>>共]+集",
-"分类url":"https://348z.com/vodshow/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html;;ak",
-"分类":"电影$1#电视剧$2#综艺$3#动漫$4"
-}},
+
 
 
 {"key": "MTYY","name": "🎬麦田影院", "type": 3, "api": "csp_XBPQ", "playerType": "1",
