@@ -32,7 +32,8 @@
 
 {"key": "WKys","name": "🎉悟空影视", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
-
+    a-con-inner
+"播放数组": "<div class=\"a-con-inner\">&&</div>",
 "分类url": "https://www.wkvod.cc/vodshow/area/{area}/class/{class}/id/{cateId}/year/{year}.html",
 "分类": "电影&剧集&综艺&动漫&纪录片",
 "分类值": "20&21&23&22&24"
