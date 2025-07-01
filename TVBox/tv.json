@@ -96,15 +96,7 @@
 "分类": "电影&连续剧&动漫&综艺&短剧",
 "分类值": "71&88&94&96&114"
 }},
-    
 
-{"key": "GPYS","name": "👩‍🌾瓜皮影视", "type": 3, "api": "csp_XBPQ", "playerType": "1",
-"ext": {
-    
-"分类url": "https://www.gpvod.cc/vodshow/area/{area}/class/{class}/id/{cateId}/year/{year}.html",
-"分类": "电影&剧集&动漫&综艺&短剧",
-"分类值": "dianying&juji&dongman&zongyi&duanju"
-}},
     
     
 {"key":"DQYY","name":"🎬第七影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
@@ -119,9 +111,7 @@
 "分类值": "1&2&3&4"
 }},
      
-{"key":"DSXYS","name":"🥇大师兄影视","type":3,"api":"csp_XBPQ",
-"ext":{"分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-"分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},
+
     
 {"key": "cbhys","name": "🏔️茶杯狐", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
