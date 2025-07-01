@@ -540,34 +540,34 @@ CCTV 8K,http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
 
 
 🌏｜央卫咪咕频道,#genre#
-CCTV1,http://hazhanglei.xyz:35455/mgtv/608807420.m3u8
-CCTV2,http://hazhanglei.xyz:35455/mgtv/631780532.m3u8
-CCTV3,http://hazhanglei.xyz:35455/mgtv/624878271.m3u8
-CCTV4,http://hazhanglei.xyz:35455/mgtv/631780421.m3u8
-CCTV5,http://hazhanglei.xyz:35455/mgtv/641886683.m3u8
-CCTV5+,http://hazhanglei.xyz:35455/mgtv/641886773.m3u8
-CCTV6,http://hazhanglei.xyz:35455/mgtv/624878396.m3u8
-CCTV7,http://hazhanglei.xyz:35455/mgtv/673168121.m3u8
-CCTV8,http://hazhanglei.xyz:35455/mgtv/624878356.m3u8
-CCTV9,http://hazhanglei.xyz:35455/mgtv/673168140.m3u8
-CCTV10,http://hazhanglei.xyz:35455/mgtv/624878405.m3u8
-CCTV11,http://hazhanglei.xyz:35455/mgtv/667987558.m3u8
-CCTV12,http://hazhanglei.xyz:35455/mgtv/673168185.m3u8
-CCTV13,http://hazhanglei.xyz:35455/mgtv/608807423.m3u8
-CCTV14,http://hazhanglei.xyz:35455/mgtv/624878440.m3u8
-CCTV15,http://hazhanglei.xyz:35455/mgtv/673168223.m3u8
-CCTV16,http://hazhanglei.xyz:35455/nptv/cctv16.m3u8
-CCTV17,http://hazhanglei.xyz:35455/mgtv/673168256.m3u8
-CCTV4k,http://hazhanglei.xyz:35455/nptv/cctv4k.m3u8
-CCTV8k,http://hazhanglei.xyz:35455/nptv/cctv8k.m3u8
-CETV01,http://hazhanglei.xyz:35455/mgtv/923287154.m3u8
-CETV02,http://hazhanglei.xyz:35455/mgtv/923287211.m3u8
-CETV04,http://hazhanglei.xyz:35455/mgtv/923287339.m3u8
+CCTV1,http://61.177.81.198:35455/mgtv/608807420.m3u8
+CCTV2,http://61.177.81.198:35455/mgtv/631780532.m3u8
+CCTV3,http://61.177.81.198:35455/mgtv/624878271.m3u8
+CCTV4,http://61.177.81.198:35455/mgtv/631780421.m3u8
+CCTV5,http://61.177.81.198:35455/mgtv/641886683.m3u8
+CCTV5+,http://61.177.81.198:35455/mgtv/641886773.m3u8
+CCTV6,http://61.177.81.198:35455/mgtv/624878396.m3u8
+CCTV7,http://61.177.81.198:35455/mgtv/673168121.m3u8
+CCTV8,http://61.177.81.198:35455/mgtv/624878356.m3u8
+CCTV9,http://61.177.81.198:35455/mgtv/673168140.m3u8
+CCTV10,http://61.177.81.198:35455/mgtv/624878405.m3u8
+CCTV11,http://61.177.81.198:35455/mgtv/667987558.m3u8
+CCTV12,http://61.177.81.198:35455/mgtv/673168185.m3u8
+CCTV13,http://61.177.81.198:35455/mgtv/608807423.m3u8
+CCTV14,http://61.177.81.198:35455/mgtv/624878440.m3u8
+CCTV15,http://61.177.81.198:35455/mgtv/673168223.m3u8
+CCTV16,http://61.177.81.198:35455/nptv/cctv16.m3u8
+CCTV17,http://61.177.81.198:35455/mgtv/673168256.m3u8
+CCTV4k,http://61.177.81.198:35455/nptv/cctv4k.m3u8
+CCTV8k,http://61.177.81.198:35455/nptv/cctv8k.m3u8
+CETV01,http://61.177.81.198:35455/mgtv/923287154.m3u8
+CETV02,http://61.177.81.198:35455/mgtv/923287211.m3u8
+CETV04,http://61.177.81.198:35455/mgtv/923287339.m3u8
 
-东方卫视,http://hazhanglei.xyz:35455/mgtv/651632648.m3u8
-江西卫视,http://hazhanglei.xyz:35455/mgtv/783847495.m3u8
-湖北卫视,http://hazhanglei.xyz:35455/mgtv/947472496.m3u8
-陕西卫视,http://hazhanglei.xyz:35455/mgtv/738910838.m3u8
+东方卫视,http://61.177.81.198:35455/mgtv/651632648.m3u8
+江西卫视,http://61.177.81.198:35455/mgtv/783847495.m3u8
+湖北卫视,http://61.177.81.198:35455/mgtv/947472496.m3u8
+陕西卫视,http://61.177.81.198:35455/mgtv/738910838.m3u8
 
 
 
