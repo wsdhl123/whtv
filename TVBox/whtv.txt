@@ -5,7 +5,6 @@ CCTV1,video://http://tv.haoqu99.com/1/cctv1.html
 CCTV1,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV2,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
 CCTV3,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
-CCTV3,//http://27.19.219.87:34567/bptv/10000100000000050000000003870746.m3u8
 CCTV4,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=7f4e2027-e822-49f3-88b1-2ffe00919f92
 CCTV5,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
 CCTV6,video://https://m.1905.com/m/cctv6/gzh/?home
@@ -13,18 +12,15 @@ CCTV6,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
 CCTV7,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
 CCTV7,video://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612
 CCTV7,video://https://web.junhao.mil.cn/cms/rmt9502_html/0/0rmhlm/zxrm/jhzh/4611577.shtml
-CCTV8,https://tvpull.careryun.com/live/e0b8f4049d92f6773b878d26a6e870c2.m3u8?txSecret=e64c7db3107729653475c3c1ef408b63&txTime=6829a280
 CCTV9,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=6
 CCTV10,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=7
 CCTV11,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=8
 CCTV12,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=9
 CCTV13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
 CCTV13,http://8.138.7.223/tv/gzjs.m3u8
-CCTV13,http://8.138.7.223/tv/ptbtv.php?id=28
 CCTV13,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
 CCTV13,video://http://tv.haoqu99.com/1/cctv13.html
-CCTV16,video://http://tv.haoqu99.com/1/cctv16.html
-CCTV16,http://27.19.219.87:34567/bptv/10000100000000050000000004972604.m3u8
+
 
 
 
