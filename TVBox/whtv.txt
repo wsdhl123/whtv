@@ -40,6 +40,7 @@ CCTV13,video://http://tv.haoqu99.com/1/cctv13.html
 河南民生,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=15
 河南梨园,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=16
 康巴卫视,video://https://www.kangbatv.com/zb_22587/
+广东卫视,video://https://gdtv.cn/tvChannelDetail/43
 江西卫视,video://https://www.jxntv.cn/live/#/
 东方卫视,video://https://live.kankanews.com/huikan?id=1
 山西卫视,video://https://www.sxrtv.com/tv/index.shtml
