@@ -1,9 +1,4 @@
 🌏｜网页TV,#genre#
-CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
-CCTV1,video://https://m.miguvideo.com/m/liveDetail/608807420?channelId=10010001005
-CCTV1,video://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv1
-
-
 CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
 CCTV1,video://http://www.66zhibow.com/1/cctv1.html
 CCTV1,video://http://tv.haoqu99.com/1/cctv1.html
