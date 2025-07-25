@@ -229,8 +229,8 @@
 {"key":"Aid","name":"🚑急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"jar":"https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/0620.jar"},
 
 {"key": "csp_Bili1","name": "🅱️哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
-"ext": "https://raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/Bili.json",
-"jar": "https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/bili.jar"
+"ext": "https://raw.staticdn.net/wsdhl123/whtv/refs/heads/master/TVBox/Bili.json",
+"jar": "https://raw.staticdn.net/wsdhl123/whtv/refs/heads/master/TVBox/bili.jar"
 },
 
 {"key":"儿童","name":"📚少儿教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/xuexi/少儿教育.json"},
