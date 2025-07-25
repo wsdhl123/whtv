@@ -1,5 +1,5 @@
 {
-"spider": "https:/raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/0620.jar",
+"spider": "https://raw.staticdn.net/wsdhl123/whtv/refs/heads/master/TVBox/0620.jar",
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "sites": [
 //👨‍💻👌🏰🍑🐅🧣 🌺📢🎉🌙🌟🌸✨🍓🥚🏝🍆🍅🐎🐐 🌩🏭👨‍👩‍👧‍👧🌍🙏🎃🐇🌞⛈️❄️☔🌍🍉🥇☀️👩‍🌾🏔️🔥☁️🍎🧲💃👼🎠💓‍💌⭕🐕🍄🎬💋🍁🎦📽️🚑🎯📀🌤️🥝🐧🥭🍎
@@ -271,9 +271,9 @@
 "ads": ["mozai.4gtv.tv"],
 
 "lives": [
-{"name": "live","type": 0,"playerType": 1,  "timeout": 10,"url": "https://raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/whtv.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","catchup": {"days": "7","type": "append","regex": "/PLTV/","source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"}},
+{"name": "live","type": 0,"playerType": 1,  "timeout": 10,"url": "https://raw.staticdn.net/wsdhl123/whtv/refs/heads/master/TVBox/whtv.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","catchup": {"days": "7","type": "append","regex": "/PLTV/","source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"}},
 
-{"name": "video","type": 0,"playerType": 1,  "timeout": 10,"url": "https://raw.bgithub.xyz/wsdhl123/whtv/master/TVBox/whtv1.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","catchup": {"days": "7","type": "append","regex": "/PLTV/","source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"}}
+{"name": "video","type": 0,"playerType": 1,  "timeout": 10,"url": "https://raw.staticdn.net/wsdhl123/whtv/refs/heads/master/TVBox/whtv1.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","catchup": {"days": "7","type": "append","regex": "/PLTV/","source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"}}
 
 ],
 
