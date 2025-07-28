@@ -3,9 +3,48 @@
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "sites": [
 //👨‍💻👌🏰🍑🐅🧣 🌺📢🎉🌙🌟🌸✨🍓🥚🏝🍆🍅🐎🐐 🌩🏭👨‍👩‍👧‍👧🌍🙏🎃🐇🌞⛈️❄️☔🌍🍉🥇☀️👩‍🌾🏔️🔥☁️🍎🧲💃👼🎠💓‍💌⭕🐕🍄🎬💋🍁🎦📽️🚑🎯📀🌤️🥝🐧🥭🍎
-    
-
-
+  {
+            "key": "鑫总资源",
+            "name": "☔鑫总资源(优)",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://app.mmhkj.xyz/lvdou_api.php/v1.vod"
+        },
+        {
+            "key": "QC 影视",
+            "name": "🤠QC 影视(优)",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://www.qcsvip.com/mogai_api.php/v1.vod"
+        },
+        {
+            "key": "刺猬影视",
+            "name": "🦔刺猬影视(优)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.cccvvv.top/api.php/iptv/vod/"
+        },
+        {
+            "key": "玖卿乐播",
+            "name": "🧯玖卿乐播(优)",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://vod.nqcode.cn/api.php/v1.vod"
+        },    
+{"key": "尘云影视","name": "☁尘云影视(优)","type": 3,"api": "csp_AppYs","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://v.i7yc.cn/api.php/v1.vod"},
+{"key": "万能影院","name": "💳万能影院(优)","type": 3,"api": "csp_AppYsV2","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://app.wnvod.net/lvdou_api.php/v1.vod"},
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.com/"},
 {"key": "新6V", "name": "🧲新6V磁力", "type": 3, "api": "csp_SixV", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "https://www.xb6v.com/" },
 {"key": "hipy_js_央视大全[官]","name": "📺央视大全","type": 3,"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,
