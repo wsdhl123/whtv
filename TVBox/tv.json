@@ -8,19 +8,125 @@
 {"key": "新6V", "name": "🧲新6V磁力", "type": 3, "api": "csp_SixV", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "https://www.xb6v.com/" },
 {"key": "hipy_js_央视大全[官]","name": "📺央视大全","type": 3,"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,
 "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/央视大全[官].js"},
+   {
+      "key": "榴莲",
+      "name": "📛榴莲┃4k源",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "ext": {
+        "url": "https://qjappcms.ll4k.xyz",
+        "dataKey": "1yGA85sJ5STtE7uj",
+        "dataIv": "1yGA85sJ5STtE7uj",
+        "deviceId": "",
+        "version": "50000"
+      }
+    },
+    {
+      "key": "桃子",
+      "name": "📛桃子┃4k源",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://appcms.tzys.xyz",
+        "dataKey": "KL6vlZkw6WL5x90U",
+        "dataIv": "KL6vlZkw6WL5x90U",
+        "deviceId": "4b4c36766c5a6b7736574c3578393055",
+        "version": "119"
+      }
+    },
+    {
+      "key": "橘猫",
+      "name": "📛橘猫┃4k源",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "ext": {
+        "url": "https://qjappcms.jm4k.top",
+        "dataKey": "pBVmysmGX8TsgrQN",
+        "dataIv": "pBVmysmGX8TsgrQN",
+        "deviceId": "",
+        "version": "120"
+      }
+    },
+    {
+      "key": "海豚",
+      "name": "📛海豚┃4k源",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://appcms.htsp4k.top",
+        "dataKey": "7CYQQzwchRQpHCOj",
+        "dataIv": "7CYQQzwchRQpHCOj",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
+      "key": "仓鼠",
+      "name": "📛仓鼠┃4K源",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://appcms.cs4k.top",
+        "dataKey": "Hui6595253......",
+        "dataIv": "Hui6595253......",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+        {
+      "key": "晴天",
+      "name": "📛晴天┃4K源",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://qjappcms.sun4k.top",
+        "dataKey": "sBxqXVF5pAHbGzrH",
+        "dataIv": "sBxqXVF5pAHbGzrH",
+        "deviceId": "",
+        "version": "119"
+      }
+    },
 
-{
-            "key": "尘云影视",
-            "name": "☁尘云影视(优)",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://v.i7yc.cn/api.php/v1.vod"
-        },
-
-
+    {
+      "key": "热播影视",
+      "name": "📛热播┃影视",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
+    {
+      "key": "天天影视",
+      "name": "📛天天┃影视",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://tt.ysdqjs.cn"
+      }
+    },
+    {
+      "key": "QD4K",
+      "name": "📛强大┃秒播",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://172.83.156.150:1010/api.php/app/"
+    },
 
     
     
