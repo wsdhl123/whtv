@@ -11,6 +11,10 @@
 
 {"key":"JQQ","name":"👼剧圈圈 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
+"链接是否直接播放": "否",
+"直接播放链接加前缀": "",
+"直接播放链接加后缀": "",
+"直接播放直链视频请求头": "",
 "分类url": "https://www.jqqzx.top/vodshow/id/{cateId}/page/{catePg}.html",
 "分类": "电影&电视剧&综艺&动漫&短剧",
 "分类值": "dianying&juji&zongyi&dongman&duanju"
