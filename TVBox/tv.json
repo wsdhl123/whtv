@@ -219,14 +219,6 @@
 "分类url":"https://www.tzhskz.com/vodshow/da/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
 "分类":"电视剧&电影&综艺&动漫","分类值":"2&1&4&3"}},
 
-{"key": "鑫总资源","name": "☔鑫总资源(优)","type": 3, "api": "csp_AppYs","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://app.mmhkj.xyz/lvdou_api.php/v1.vod"},
-{"key": "QC 影视","name": "🤠QC 影视(优)","type": 3,"api": "csp_AppYs","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://www.qcsvip.com/mogai_api.php/v1.vod"},
-{"key": "刺猬影视","name": "🦔刺猬影视(优)","type": 3,"api": "csp_AppYsV2","searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://www.cccvvv.top/api.php/iptv/vod/"},
-{"key": "玖卿乐播","name": "🧯玖卿乐播(优)","type": 3,"api": "csp_AppYs","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://vod.nqcode.cn/api.php/v1.vod"},    
-{"key": "尘云影视","name": "☁尘云影视(优)","type": 3,"api": "csp_AppYs","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://v.i7yc.cn/api.php/v1.vod"},
-{"key": "万能影院","name": "💳万能影院(优)","type": 3,"api": "csp_AppYsV2","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://app.wnvod.net/lvdou_api.php/v1.vod"},
-  
-
 
 {"key":"csp_SP360","name": "💘360","type": 3,"api": "csp_SP33","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/231108.jar"},
 {"key":"teng","name":"🐧腾讯","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/231108.jar"},
