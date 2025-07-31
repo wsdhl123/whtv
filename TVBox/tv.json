@@ -11,33 +11,9 @@
 
 {"key":"JQQ","name":"👼剧圈圈 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
-   
-    "分类链接": "https://www.jqqzx.me/vodshow/id/{cateId}/page/{catePg}.html",
-    "分类名称": "电影&电视剧&综艺&动漫&纪录片&爽剧",
-    "分类名称替换词": "dianying&juji&zongyi&dongman&jilupian&shuangju",
-    "分类截取模式": "1",
-    "分类列表数组规则": ".module-items&&.module-item",
-    "分类片单是否Jsoup写法": "是",
-    "分类片单标题": ".module-poster-item-title&&Text",
-    "分类片单链接": "a&&href",
-    "分类片单图片": ".lazyload&&data-original",
-    "分类片单副标题": ".module-item-note&&Text",
-    "分类片单链接加前缀": "https://www.jqqzx.me",
-    "分类片单链接加后缀": "",
-    "搜索请求头参数": "User-Agent$MOBILE_UA",
-    "搜索链接": "https://www.jqqzx.me/vodsearch{wd}/page/{SearchPg}.html",
-    "POST请求数据": "",
-    "搜索截取模式": "1",
-    "搜索列表数组规则": ".module-items&&.module-item",
-    "搜索片单是否Jsoup写法": "是",
-    "搜索片单图片": ".lazyload&&data-original",
-    "搜索片单标题": ".module-card-item-title&&Text",
-    "搜索片单链接": "a&&href",
-    "搜索片单副标题": ".module-item-note&&Text",
-    "搜索片单链接加前缀": "https://www.jqqzx.me",
-    "搜索片单链接加后缀": ""
-   
-
+"分类url": "https://www.jqqzx.top/vodshow/id/{cateId}/page/{catePg}.html",
+"分类": "电影&电视剧&综艺&动漫&短剧",
+"分类值": "dianying&juji&zongyi&dongman&duanju"
 }},
 
 
