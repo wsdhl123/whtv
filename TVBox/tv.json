@@ -8,9 +8,9 @@
 {"key": "新6V", "name": "🧲新6V磁力", "type": 3, "api": "csp_SixV", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "https://www.xb6v.com/" },
 {"key": "hipy_js_央视大全[官]","name": "📺央视大全","type": 3,"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,
 "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/央视大全[官].js"},
+    
 {"key": "BPSYS","name": "💯百思派", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
 "ext": {
-
 "分类url": "https://www.bestpipe.cn/vodshow/{cateId}-{area}--{class}-{lang}-------{year}.html",
 "分类": "电影$20#剧集$21#短剧$24#综艺$23#动漫$22"
 }},
@@ -23,9 +23,6 @@
 "简介": "简介：&&"
 }},
 
-    
-{"key": "极速资源","name": "🏔️极速资源","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/", "searchable": 1,"changeable": 1, "categories": ["日剧","马泰剧","内地剧","欧美剧","香港剧","韩剧","台湾剧","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","灾难片","悬疑片","犯罪片","中国动漫","日本动漫","欧美动漫"]},
-{"key": "索尼资源","name": "✨索尼资源","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1, "categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","动画片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 {"key": "量子资源","name": "🌍量子资源","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 
 
@@ -45,12 +42,8 @@
 "分类": "电影&连续剧&动漫&综艺&短剧",
 "分类值": "1&2&4&3&21"
 }},   
-{"key":"LGYY","name":"🌟流光影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
-"ext":{
-"分类url": "https://www.lgys.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/year/{year}.html",
-"分类":"电影&剧集&综艺&动漫&短剧","分类值":"1&2&3&4&20"}},
 
-   
+
 
 {"key": "HCTDs","name": "✨火车太堵", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
@@ -69,10 +62,6 @@
 "分类":"电视剧&电影&动漫剧","分类值":"d1&d2&d3"}},
     
 
-
-
-
-
 {"key": "MTYY","name": "🎬麦田影院", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
 "图片": "data-src=\"&&\"",
@@ -81,21 +70,6 @@
 "分类值": "1&2&3&4&26"
 }},
   
-
-{"key": "hnys","name": "🌍海纳影视", "type": 3, "api": "csp_XBPQ", "playerType": "1",
-"ext": {
-"分类url": "https://www.hainatv.net/index.php/vod/show/area/{area}/id/{cateId}/lang/{lang}/year/{year}.html",
-"分类": "电影&剧集&动漫&综艺&短剧",
-"分类值": "1&2&3&4&59"
-}},
-{"key": "qyf","name": "🏰趣映坊", "type": 3, "api": "csp_XBPQ", "playerType": "1",
-"ext": {
-"分类url": "https://www.xxjio.com/index.php/vod/show/area/{area}/id/{cateId}/lang/{lang}/letter/{letter}/year/{year}.html",
-"分类": "电影&连续剧&动漫&综艺&短剧",
-"分类值": "71&88&94&96&114"
-}},
-
-    
     
 {"key":"DQYY","name":"🎬第七影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
@@ -108,8 +82,6 @@
 "分类": "电影&电视剧&综艺&动漫",
 "分类值": "1&2&3&4"
 }},
-     
-
     
 {"key": "cbhys","name": "🏔️茶杯狐", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
@@ -117,15 +89,6 @@
 "分类": "电影&电视剧&综艺&动漫&短剧",
 "分类值": "1&2&3&4&5"
 }},
-
-    
-{"key":"JPdy","name":"❄️金牌电影 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
-"ext":{
-"播放标题":"+>&&</a>",
-"播放数组": "<div class=\"play-btn\">&&</div>",
-"分类url": "https://www.jinpaidy.com/type/{cateId}",
-"分类":"电影&电视剧&综艺&动漫","分类值":"1&2&4&3"}},
-
 
 {"key":"JPYY","name":"✨金牌影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
@@ -142,39 +105,19 @@
 "播放数组": "<div class=\"paly_list_btn\">&&</div>",  
 "播放标题":"+>&&</a>"}},
 
-{"key": "FREEok","name": "🎬FREE ok", "type": 3, "api": "csp_XBPQ", "playerType": "1",
-"ext": {
-"分类url": "https://www.freeok.live/vod-show/{cateId}-{area}--{class}-{lang}-------{year}.html;;m",
-"分类": "电影&剧集&动漫&综艺&短剧",
-"分类值": "1&2&3&4&12"
-}},
-
 {"key":"1280","name":"  🏰VIP1280","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
 "播放标题":"+>&&</a>",
 "分类url":"https://vip1280.net/frim/index{cateId}/area/{area}/lang/{lang}/year/{year}.html",
 "分类":"电影&电视剧&港台&欧美&日韩&泰剧","分类值":"1&2&3&4&5&22"}},
 
-
-{"key":"LIBVIOYS","name":"     🧣LIBVIO","type":3,"api":"csp_XBPQ",
-"ext":{
-"线路标题": "<span>&&</span>",
-"线路数组": "data-dropdown-value=&&</div>",
-"播放标题":"+>&&</a>",
-"分类url":"https://www.libvio.fun/show/{cateId}-{area}--{class}-{lang}-------{year}.html",
-"分类":"电影&剧集&动漫&日韩剧&欧美剧","分类值":"1&2&4&15&16"}},
-
-
-  {"key":"JSYS","name":"     🍅极速影视","type":3,"api":"csp_XBPQ",
+{"key":"JSYS","name":"     🍅极速影视","type":3,"api":"csp_XBPQ",
 "ext":{
 "线路标题": "<span>&&</span>",
 "线路数组": "data-dropdown-value=&&</div>",
 "播放标题":"+>&&</a>",
 "分类url":"https://www.1qik.com/jisusw/{cateId}-{area}--{class}-{lang}-------{year}.html",
 "分类":"电影&电剧集&综艺&动漫&短剧","分类值":"1&2&3&4&5"}},
-
- 
-
 
 { "key": "VS影院", "name": "👥VS影院","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
 "ext": {
@@ -200,8 +143,6 @@
 "分类":"电影片&连续剧&综艺片&动漫片","分类值":"56dyp&56lxj&56zyp&56dmp"}},
 
 
-
-
 {"key":"小小影视","name":" 🌼小小影视","type":3,"api":"csp_XBPQ",
 "ext":{
 "免嗅": "0",//1开0关，默认为0，不解析不嗅探，直接播放链接，可在字母开关用m代替
@@ -210,14 +151,6 @@
 "播放标题":"+>&&</a>",
 "分类url":"https://www.weihuafrp.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 "分类":"电视剧&电影&综艺&动漫","分类值":"2&1&3&4"}},
-
-{"key":"DDYY","name":"  🌅大地影院","type":3,"api":"csp_XBPQ",
-"ext":{
-"线路标题":"💦+>&&<small+线+<small*>&&<+路",     
-"线路数组":"data-dropdown-value=&&</div>",
-"播放标题":"+>&&</a>",
-"分类url":"https://www.tzhskz.com/vodshow/da/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-"分类":"电视剧&电影&综艺&动漫","分类值":"2&1&4&3"}},
 
 
 {"key":"csp_SP360","name": "💘360","type": 3,"api": "csp_SP33","jar":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/231108.jar"},
