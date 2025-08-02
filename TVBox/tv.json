@@ -26,7 +26,7 @@
 "分类":"电影&电视剧&综艺&动漫&短剧","分类值":"1&2&3&4&33"}},   
 
 
-{"key":"AKYY","name":"🎯爱看影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
+{"key":"AKYY","name":"☀️爱看影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
 "数组": "",
 "线路数组": "在线播放&&</div>",
@@ -35,8 +35,15 @@
 "分类url": "https://www.cymm169.com/type/{cateId}-{catePg}.html",
 "分类":"电影&电视剧&综艺&动漫&短剧","分类值":"1&2&3&4&33"}},   
 
-
-    
+{"key":"ZMYY","name":"🎯芝麻影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
+"ext":{
+"数组": "",
+"线路数组": "在线播放&&</div>",
+"线路标题": "<span>&&</span>",
+"播放标题":"+>&&</a>",
+"分类url": " https://www.zhimatv.cc/show/{cateId}/area/{area}/lang/{lang}/year/{year}/ ",
+"分类":"电影&电视剧&动漫","分类值":"2&1&3"}}, 
+  
     
     
     
@@ -300,6 +307,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
