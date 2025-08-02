@@ -16,15 +16,6 @@
 "分类url": "http://www.tvyb10.com/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/year/{year}.html",
 "分类":"电影&电视剧&综艺&动漫&短剧","分类值":"1&2&3&4&5"}},   
     
-{"key":"4KYS","name":"📽️4K影视 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
-"ext":{
-"线路数组": "在线播放&&</div>",
-"线路标题": "<span>&&</span>",
-"播放数组": "<div class=\"player-option-trailer\">&&</div>",
-"播放标题":"+>&&</a>",
-"分类url": "https://www.4kvm.tv/{cateId}/page/{catePg}",
-"分类":"电影&电视剧","分类值":"movies&tvshows"}},  
-    
     
     
 {"key": "hipy_js_央视大全[官]","name": "📺央视大全","type": 3,"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,
@@ -287,6 +278,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
