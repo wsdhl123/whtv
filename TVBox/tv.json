@@ -9,6 +9,11 @@
 
 {"key":"jzyy","name":"🎬尽在云影 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
+"数组": "",
+"线路数组": "在线播放&&</div>",
+"线路标题": "<span>&&</span>",
+"播放数组": "<div class=\"paly_list_btn\">&&</div>",
+"播放标题":"+>&&</a>",
 "分类url": "https://www.yuny.tv/videoClassify/{cateId}?subType={class}&language={lang}&years={year}",
 "分类":"电影&剧集&综艺&动漫&短剧","分类值":"1&2&5&3&4"}},   
     
@@ -276,4 +281,5 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
