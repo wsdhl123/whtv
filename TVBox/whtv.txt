@@ -71,170 +71,52 @@ CCTV13,video://http://tv.haoqu99.com/1/cctv13.html
 魔都眼,video://https://live.kankanews.com/huikan?id=11
 成都新闻综合,video://https://www.cditv.cn/show/4845-563.html
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
-🌏｜咪咕IPTV,#genre#
+🌏｜央卫咪咕,#genre#
+ CCTV1综合,https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=41eadd1da69598a64f21282d0ad75a3d5b2d397c9a9f15169cc6c897e1a8fb6d05b7d685513943581ed47e2ca184805af8350f233cb5866fa7c1d91913dedbe61980b3b7e5bd4103dded39b2e5
+ CCTV2财经,https://mursor.ottiptv.cc/migu/631780532.m3u8?migutoken=0fdee4e0f70475b0ab0134f83e80c7632e60d4615159d78c64ae815771c262e51ac2d1106f84b60563a968c007dd0aeb896b8751172865c2b633d5fcf401a2021eb8de2f1d213b75aefe2f828b
+ CCTV3综艺,https://mursor.ottiptv.cc/migu/624878271.m3u8?migutoken=57f63485743fd48cbd0e6189c6c1db4b89eedcac38c56cac55ee7897f285ce1a242180018e08ef3cc94c07678b79ac96a647ff6941d1f1df09fb9e524da96ea53b619f661acb67993e7f91fb87
+ CCTV4中文国际,https://mursor.ottiptv.cc/migu/631780421.m3u8?migutoken=c0ea479dc27d46b8725fbba4b87c539a8af905ffa3868db01ade1e7a058804c45b9824044f9c52d9d80d1bd793132359d7b62ac1be9845519c04deefa09a0f2ec09ea3faf83293e6f11ad95513
+ CCTV5体育,https://mursor.ottiptv.cc/migu/641886683.m3u8?migutoken=c2241dd7e74de7657d749a0cb175ade9e7a0c65d26dddd64c229364f678df8d4c45db4414f1d27200058c043f33846d3974610a07084ff15d4049783ef38660ec4894afbfab45e50bf3c61a984
+ CCTV5+体育赛事,https://mursor.ottiptv.cc/migu/641886773.m3u8?migutoken=f3756a7fc7fdee44cf83bfb459314a42580403139c09aeefe2b3c032659c6e30b48ca17821bacdfd68b416532075843b5b74f73240dc7320a73035bd76bffc6b40ee214d59cebfe1426f7c0fdd
+ CCTV6电影,https://mursor.ottiptv.cc/migu/624878396.m3u8?migutoken=5a7ce8413bd4f41c440f72fad3f16e6f6553e7e070dc6d42a612c6edf7588b9fc6c188a83931a9de738f22f69a166c406d8782387f7b9752f45652956c262e7ce82acdcae9e4fd288aae5c0c84
+ CCTV7国防军事,https://mursor.ottiptv.cc/migu/673168121.m3u8?migutoken=4789770ec4463723f3d683b26741a318111edad8a9ba90a72774cf646ce4b80bb2af1988530029efdbad02470b7e2ac1d29de220c7f18240328696ffe078f9049c8d22cd603cae779118549d43
+ CCTV8电视剧,https://mursor.ottiptv.cc/migu/624878356.m3u8?migutoken=ed40022e986f33a74686def8de90287ea52d20a31f2ed69593f2a50d425fae48428385bfc266e588dc8bd3a66f1613d19f1a45440427177ca036ecafa42adc8696100bed13fc96480901c077a8
+ CCTV9纪录,https://mursor.ottiptv.cc/migu/673168140.m3u8?migutoken=662aded8f0908f5fcfd871499f4376b40d6fc5bd9f642d2be4f6e80f8667d7873270f7838a842fa5fc89c29094688d2dc5d6b7a58d4e37a6eecf250a13a69e91c55c28b6645c949572abbd770a
+ CCTV10科教,https://mursor.ottiptv.cc/migu/624878405.m3u8?migutoken=fbd9b4599b14844526b684d77723e449aa37dd66eb1392de9622e1f2756055276d5cb08c25fa318e7035b941287918a523abef2c9abd53c165d264644cabe3cdadd644861db69d0f10a323a5b5
+ CCTV11戏曲,https://mursor.ottiptv.cc/migu/667987558.m3u8?migutoken=adec8ebc00aa32d9619220ea082501e67ed86ddee2f0edbe94ebec4ec49acda8c7a9ccd23ab59e7885fb5108f1383adeb7100dda024c42ab93b4469141c4b8cecd5e49875ab5ee501942c6a498
+ CCTV12社会与法,https://mursor.ottiptv.cc/migu/673168185.m3u8?migutoken=c5c264d3cff27d517aece9b06f98c9bef3d8b9f29d42fcedcb3c3252decb3dd1b34c7f2abaa6ab952497efdb233de00e62da01da458cc8f08b98718cc673c20405105a752be8149c81292829d3
+ CCTV13新闻,https://mursor.ottiptv.cc/migu/608807423.m3u8?migutoken=6aabe3736c1cf21ebf61d72d83a7d2028c5120bc194f72f1e380c576ff3eb95a5505a2f7e59fbb831e8adb53a2ce22f8f153f41ae43eea9678a01d106697bae3d0ea77bfaad9c77c250681597d
+ CCTV14少儿,https://mursor.ottiptv.cc/migu/624878440.m3u8?migutoken=33a1e01c9b870d686c58a1ffc3ae8d62955a60212aa0ce9f74d111db3986fcc32ddf1cf177fc50c4be0b335dcc66f2e4a1509ac6199b3f5813dd46e5f087eb9c9061aa880928707eeb18457dc6
+ CCTV15音乐,https://mursor.ottiptv.cc/migu/673168223.m3u8?migutoken=11b446883bcf01a833c4027339a682e5f16ae56df7aa8d2e0361322c152829c358d10a8aa34b39b14efe002a317156ae8af66bf786a3794dfeb3f2b78af20dc4e503eaa9bae5940349bc80b549
+ CCTV17农业农村,https://mursor.ottiptv.cc/migu/673168256.m3u8?migutoken=6a5134bb31ea911c1b27cce0e3c12fcbe57c1bf6cea9445df273444f1946ced3cc7dd3ddb9038b95af8d1e0d6605d675a365901af4843201de3228e395c6ef09800a898d124b68191c72d98574
+ CCTV4欧洲,https://mursor.ottiptv.cc/migu/608807419.m3u8?migutoken=d63bf23bf39f4b6fba98115a6c4115995313aaacbe10040f993723c80f6f95b711b3318304159092aebc1e0300d1aea81a8698b421123f4b0254913c020e21b807b71424de04e5be0c7a378ad1
+ CCTV4美洲,https://mursor.ottiptv.cc/migu/608807416.m3u8?migutoken=039c0735c6f670ba4ac77bd282a8eb1ac2cbeb6148864dbb9bc21f536e58a3cf9397f3b562a00fbba4a01ae5c3de463604a662604147b54b7c361fc1578ac4400526c83daee6a1829ed1898cba
+ CGTN外语纪录,https://mursor.ottiptv.cc/migu/609006487.m3u8?migutoken=57b6fa6c80fab751f34b0bab848edb1fa5f699c6c74a29d4982be371cc5485022b917b058b2602278ffe5c0afdbec8b7a0e6417bf43cc3195a65b71f0052b4015561dd8442b46c417d926b5ffe
+ CGTN阿拉伯语,https://mursor.ottiptv.cc/migu/609154345.m3u8?migutoken=3424fcc1b4c034a7ef7244954b6de964e3d62b63ae61f7d6f276d3b450099dca6aff1000184c29f1b6dac69a0561c8c7c39738b765b0a6a6d8bdb31d43a85713aa9b2afa0259ea8332d95e9d71
+ CGTN西班牙语,https://mursor.ottiptv.cc/migu/609006450.m3u8?migutoken=0f4d1e418dcbf8a19afeaf5dfa3bcfa386b0c9b44d049117b79645a0b19f2e93c7e00864e7bf0a21416fd2fd55a23a45cedbb1bfa33a293738cbc6c327d14446e44fea9b8ab3aa9662c7f68178
+ CGTN法语,https://mursor.ottiptv.cc/migu/609006476.m3u8?migutoken=2b86fb8e7c4ee89a700c5a11f4f9688acf028dd0cfb68f839e8699b0972a4ebcb418ad0263156765ca90c51ce4b448b888733e68066846e2d3fad25c95ed525f6ed394ef774929d1ce792e05ee
+ CGTN俄语,https://mursor.ottiptv.cc/migu/609006446.m3u8?migutoken=f8ffffedb3c3bc8dda0d0d0b1f20d4903bf66fb5f562d78ead207eacdad880ee03af64b08d86a235b04fefb23666d7cab791a4175374abd080e04198f88a2dd8e709ed5b2f9374e7c09ed8bac3
+ 老故事,https://mursor.ottiptv.cc/migu/884121956.m3u8?migutoken=fb9483904d7cdffc0b5711b8d1eb6294470b36b7fdafd9bf4ce88fb167d0f37487e2516cb61c5debdd1ad4faa09dd3f84ab97f928e084e53f8260d65c201ba52b0ca916e0522b60f95a99fb501
+ 发现之旅,https://mursor.ottiptv.cc/migu/624878970.m3u8?migutoken=b59f6c53e7c4c48bfc88cdbaeefc58ca021418c2fc4b348361754be315fa195b52a186c01fd7013ae5a8b62a11b40f04495d8c4701c5eff076a59acb8617a2c3ce421241d8178f99687c161ced
+ 中学生,https://mursor.ottiptv.cc/migu/708869532.m3u8?migutoken=79b4c2f42bda1b4965af79f8884b6c300e66910a5593ba2cc6f23847e8b12d8b157de50adf274c2839859edd71c0f30da49cd49d1587964df09c2e95d1b71d8c30eada67f657b0b9bb8a582329
+ CGTN,https://mursor.ottiptv.cc/migu/609017205.m3u8?migutoken=5fdf6631c7a071192bf73aec8196871698bb0d89689df26ad0313d3ffcdcb4ae7ae684d9bc071d0256175222a72f113e33e353bf78a2144c75b3901c7955d8b176d88daac3a5bf3a59085e445b
+卫视,#genre#
+ 东方卫视,https://mursor.ottiptv.cc/migu/651632648.m3u8?migutoken=0119b44ab79e30d985da4944cc66258fb9aa9c5d400ab38c9af27c948f6f17eb0e9650fe59e1ccaa937fdd73872b3f1da5c1ac9e0d429379cbf5d086c6536c3bc316ca519e59e1ff90e0a3384a
+ 江苏卫视,https://mursor.ottiptv.cc/migu/623899368.m3u8?migutoken=a16ee1413af0a01d24f62ae0f9f1bee6016500cef4acd7aaec57837ef8b857562647a3c72cc79eaef29781478938a4d5d82a1880229b0590d0aae6e77b0341cd754d9022903152c5efff9a42ac
+ 广东卫视,https://mursor.ottiptv.cc/migu/608831231.m3u8?migutoken=bb6ca644da4fbcdf39779378de059f3a17e25b77cb3d56852ee92651be6ee8ce5a54eaa5980fe29910cfad952229e74154c7e0627858dcf528f6073dd3cb39477b950c87049dff42f878e7e60b
+ 江西卫视,https://mursor.ottiptv.cc/migu/783847495.m3u8?migutoken=2931885c96db08c78e0f1cf0daeb5506aa49be13604f49931dde3e9b29e381b4ae867d876ad105d1f8a4707e614953a2ccb573584a15c99e2ccc86d63be8489f645943424ec9f6275964002784
+ 河南卫视,https://mursor.ottiptv.cc/migu/790187291.m3u8?migutoken=582cd26338059410fa772715574a93266c49a4eaa0f8486257b3bbce26a507e8f09a8969bedde3b5bbcce7a79de390a13ce5ff9ff3ba180ee7f676ad39e70862192c680ff5ebff56e4bd68f8f6
+ 陕西卫视,https://mursor.ottiptv.cc/migu/738910838.m3u8?migutoken=b18b7af5ea9c07f9b3ee4a4c318dd0ca1975e8ba491dd0e7df1b812b1c13478e830ec1d628611b0d5d737740984133d19d80e5a7dec0a2656a58507154562e48c31c60a52983df261f5bf862b6
+ 大湾区卫视,https://mursor.ottiptv.cc/migu/608917627.m3u8?migutoken=4d5aa0c74a27bda51791f9f5420f5a8317ee7ec76e76aaf94a97024513f287ad8bb1e037633124343bb42c9e6267ff44e11704c24b83b7489febaf0ffd14db65adc0b788507253b3d37291c5c9
+ 湖北卫视,https://mursor.ottiptv.cc/migu/947472496.m3u8?migutoken=691952379dbed4798dc1c434c202e3e1b357ccc2736a6654ffabaa3225892228ce2d34a49d256439307d93fa334c545efcb6e5b0b7b93fc656e9b6a10fdd825a01fdff561383073390038152a6
+ 吉林卫视,https://mursor.ottiptv.cc/migu/947472500.m3u8?migutoken=d9eb8e3bf638ad8a84a71eb87bee91f95560c7ccf0f1708b79757ccf6584400ee919ec3162e3e4e2a61f690e5b9399b69ec7f8021caa3ec0a916d4456c22dab3a25196b23f5e2324adaa7d0605
+ 青海卫视,https://mursor.ottiptv.cc/migu/947472506.m3u8?migutoken=2eda3855fce95a12b33c916c110cb033340e1da9afa83b5abf80a26a370ba93bc6d924470fa28d081d76e22db213f34ccbd93b636bfc7e2c80ad6c9a5a68ea1ea0b681b7d45cf7311c8c937dff
+ 东南卫视,https://mursor.ottiptv.cc/migu/849116810.m3u8?migutoken=929828e6dada3fb91580ca859478bb2235838e1a9ca053a1bcca7a7cebd1bc47dddcf3d8a8eba06b3ea0d92dd2c13c6b2a2a98f7e92cac8631f1881b74c6022dbce0be85da4a53456296af27d3
+ 海南卫视,https://mursor.ottiptv.cc/migu/947472502.m3u8?migutoken=03291f127fc2bd3b8f0e7fc07f351cf3cf69d0207ab176a8041f45e8b24d98d38cb8b0895c020bdac40a42a68e27837f3b4b7a3c6f098a76cbb4812ccfaa0e5d7a754393e64e20f8b2232df958
+ 海峡卫视,https://mursor.ottiptv.cc/migu/849119120.m3u8?migutoken=9d9d976f6edf6148270318b99c562b803cb2dd90bfbb3d58859c9b27ba431ae6136b59a83ab8583ea3da0431606211503638e147ea8faa29a901643b5db23ae9c6a89cc3b5456a37bf2dc97814
+ 中国农林卫视,https://mursor.ottiptv.cc/migu/956904896.m3u8?migutoken=cdeed3cf4c6478410b3dc5b156bfd147bc9befc037e88725264eb4b1067ea837cfad6fd29f1c95e2a44f261b9d2f5f16bf04936781a6194b73d748d1551290d71515885548f4291555b627d8f2
+ 兵团卫视,https://mursor.ottiptv.cc/migu/956923145.m3u8?migutoken=b64d6b232937dcc94960d4c9253920a729e7c1c75f19ec8e522c00667f744b9fc112ac7727e0bb2019dac98cebb3e07f3f1d4a8ec0d6276f9d9b507b0d25d48a377e253944d6144c80b0474c05
 
-CCTV-1,http://221.217.53.251:5050/mgtv/608807420.m3u8
-CCTV-2,http://221.217.53.251:5050/mgtv/631780532.m3u8
-CCTV-3,http://221.217.53.251:5050/mgtv/624878271.m3u8
-CCTV-4,http://221.217.53.251:5050/mgtv/631780421.m3u8
-CCTV-5,http://221.217.53.251:5050/mgtv/641886683.m3u8
-CCTV-5,http://221.217.53.251:5050/mgtv/641886773.m3u8
-CCTV-6,http://221.217.53.251:5050/mgtv/624878396.m3u8
-CCTV-7,http://221.217.53.251:5050/mgtv/673168121.m3u8
-CTV-8,http://221.217.53.251:5050/mgtv/624878356.m3u8
-CCTV-9,http://221.217.53.251:5050/mgtv/673168140.m3u8
-CCTV-10,http://221.217.53.251:5050/mgtv/624878405.m3u8
-CCTV-11,http://221.217.53.251:5050/mgtv/667987558.m3u8
-CCTV-12,http://221.217.53.251:5050/mgtv/673168185.m3u8
-CCTV-13,http://221.217.53.251:5050/mgtv/608807423.m3u8
-CCTV-14,http://221.217.53.251:5050/mgtv/624878440.m3u8
-CCTV-15,http://221.217.53.251:5050/mgtv/673168223.m3u8
-CCTV-16,http://221.217.53.251:5050/nptv/cctv16.m3u8
-CCTV-17,http://221.217.53.251:5050/mgtv/673168256.m3u8
-东方卫视,http://221.217.53.251:5050/mgtv/651632648.m3u8
-浙江卫视,http://221.217.53.251:5050/nptv/zhejiang.m3u8
-湖南卫视,http://221.217.53.251:5050/nptv/hunan.m3u8
-江苏卫视,http://221.217.53.251:5050/mgtv/623899368.m3u8
-安徽卫视,http://221.217.53.251:5050/nptv/anhui.m3u8
-东南卫视,http://221.217.53.251:5050/nptv/dongnan.m3u8
-云南卫视,http://221.217.53.251:5050/nptv/yunnan.m3u8
-兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-内蒙古卫视,http://221.217.53.251:5050/nptv/neimenggu.m3u8
-北京卫视,http://221.217.53.251:5050/nptv/beijing.m3u8
-四川卫视,http://221.217.53.251:5050/nptv/sichuan.m3u8
-天津卫视,http://221.217.53.251:5050/nptv/tianjing.m3u8
-宁夏卫视,http://221.217.53.251:5050/nptv/ningxia.m3u8
-山东卫视http://221.217.53.251:5050/nptv/shandong.m3u8
-山西卫视,http://221.217.53.251:5050/nptv/shanxi.m3u8
-广东卫视,http://221.217.53.251:5050/nptv/guangdong.m3u8
-广西卫视,http://221.217.53.251:5050/nptv/guangxi.m3u8
-新疆卫视,http://221.217.53.251:5050/nptv/xinjiang.m3u8
-江西卫视http://221.217.53.251:5050/nptv/jiangxi.m3u8
-河北卫视,http://221.217.53.251:5050/nptv/hebei.m3u8
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://221.217.53.251:5050/nptv/henan.m3u8
-海南卫视,http://221.217.53.251:5050/mgtv/947472502.m3u8
-深圳卫视,http://221.217.53.251:5050/nptv/shenzheng.m3u8
-湖北卫视,http://221.217.53.251:5050/mgtv/947472496.m3u8
-甘肃卫视,http://221.217.53.251:5050/nptv/gansu.m3u8
-西藏卫视,http://221.217.53.251:5050/nptv/xizang.m3u8
-贵州卫视,http://221.217.53.251:5050/nptv/guizhou.m3u8
-辽宁卫视,http://221.217.53.251:5050/nptv/liaoning.m3u8
-重庆卫视,http://221.217.53.251:5050/nptv/chongqing.m3u8
-陕西卫视,http://221.217.53.251:5050/mgtv/738910838.m3u8
-青海卫视,http://221.217.53.251:5050/mgtv/947472506.m3u8
-黑龙江卫视,http://221.217.53.251:5050/nptv/heilongjiang.m3u8
-
-CCTV-1,http://222.138.212.58:12345/mgtv/608807420.m3u8
-CCTV-2,http://222.138.212.58:12345/mgtv/631780532.m3u8
-CCTV-3,http://222.138.212.58:12345/mgtv/624878271.m3u8
-CCTV-4,http://222.138.212.58:12345/mgtv/631780421.m3u8
-CCTV-5,http://222.138.212.58:12345/mgtv/641886683.m3u8
-CCTV-5,http://222.138.212.58:12345/mgtv/641886773.m3u8
-CCTV-6,http://222.138.212.58:12345/mgtv/624878396.m3u8
-CCTV-7,http://222.138.212.58:12345/mgtv/673168121.m3u8
-CCTV-8,http://222.138.212.58:12345/mgtv/624878356.m3u8
-CCTV-9,http://222.138.212.58:12345/mgtv/673168140.m3u8
-CCTV-10,http://222.138.212.58:12345/mgtv/624878405.m3u8
-CCTV-11,http://222.138.212.58:12345/mgtv/667987558.m3u8
-CCTV-12,http://222.138.212.58:12345/mgtv/673168185.m3u8
-CCTV-13,http://222.138.212.58:12345/mgtv/608807423.m3u8
-CCTV-14,http://222.138.212.58:12345/mgtv/624878440.m3u8
-CCTV-15,http://222.138.212.58:12345/mgtv/673168223.m3u8
-CCTV-16,http://222.138.212.58:12345/nptv/cctv16.m3u8
-CCTV-17,http://222.138.212.58:12345/mgtv/673168256.m3u8
-
-
-
-
-东方卫视,http://222.138.212.58:12345/mgtv/651632648.m3u8
-浙江卫视,http://222.138.212.58:12345/nptv/zhejiang.m3u8
-湖南卫视,http://222.138.212.58:12345/nptv/hunan.m3u8
-江苏卫视,http://222.138.212.58:12345/mgtv/623899368.m3u8
-安徽卫视,http://222.138.212.58:12345/nptv/anhui.m3u8
-东南卫视,http://222.138.212.58:12345/nptv/dongnan.m3u8
-云南卫视,http://222.138.212.58:12345/nptv/yunnan.m3u8
-兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-内蒙古卫视,http://222.138.212.58:12345/nptv/neimenggu.m3u8
-北京卫视,http://222.138.212.58:12345/nptv/beijing.m3u8
-四川卫视,http://222.138.212.58:12345/nptv/sichuan.m3u8
-天津卫视,http://222.138.212.58:12345/nptv/tianjing.m3u8
-宁夏卫视,http://222.138.212.58:12345/nptv/ningxia.m3u8
-山东卫视http://222.138.212.58:12345/nptv/shandong.m3u8
-山西卫视,http://222.138.212.58:12345/nptv/shanxi.m3u8
-广东卫视,http://222.138.212.58:12345/nptv/guangdong.m3u8
-广西卫视,http://222.138.212.58:12345/nptv/guangxi.m3u8
-新疆卫视,http://222.138.212.58:12345/nptv/xinjiang.m3u8
-江西卫视http://222.138.212.58:12345/nptv/jiangxi.m3u8
-河北卫视,http://222.138.212.58:12345/nptv/hebei.m3u8
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-海南卫视,http://222.138.212.58:12345/mgtv/947472502.m3u8
-深圳卫视,http://222.138.212.58:12345/nptv/shenzheng.m3u8
-湖北卫视,http://222.138.212.58:12345/mgtv/947472496.m3u8
-甘肃卫视,http://222.138.212.58:12345/nptv/gansu.m3u8
-西藏卫视,http://222.138.212.58:12345/nptv/xizang.m3u8
-贵州卫视,http://222.138.212.58:12345/nptv/guizhou.m3u8
-辽宁卫视,http://222.138.212.58:12345/nptv/liaoning.m3u8
-重庆卫视,http://222.138.212.58:12345/nptv/chongqing.m3u8
-陕西卫视,http://222.138.212.58:12345/mgtv/738910838.m3u8
-青海卫视,http://222.138.212.58:12345/mgtv/947472506.m3u8
-黑龙江卫视,http://222.138.212.58:12345/nptv/heilongjiang.m3u8
-
-
-CCTV-1,http://219.139.231.165:34567/mgtv/608807420.m3u8
-CCTV-2,http://219.139.231.165:34567/mgtv/631780532.m3u8
-CCTV-3,http://219.139.231.165:34567/mgtv/624878271.m3u8
-CCTV-4,http://219.139.231.165:34567/mgtv/631780421.m3u8
-CCTV-5,http://219.139.231.165:34567/mgtv/641886683.m3u8
-CCTV-5,http://219.139.231.165:34567/mgtv/641886773.m3u8
-CCTV-6,http://219.139.231.165:34567/mgtv/624878396.m3u8
-CCTV-7,http://219.139.231.165:34567/mgtv/673168121.m3u8
-CCTV-8,http://219.139.231.165:34567/mgtv/624878356.m3u8
-CCTV-9,http://219.139.231.165:34567/mgtv/673168140.m3u8
-CCTV-10,http://219.139.231.165:34567/mgtv/624878405.m3u8
-CCTV-11,http://219.139.231.165:34567/mgtv/667987558.m3u8
-CCTV-12,http://219.139.231.165:34567/mgtv/673168185.m3u8
-CCTV-13,http://219.139.231.165:34567/mgtv/608807423.m3u8
-CCTV-14,http://219.139.231.165:34567/mgtv/624878440.m3u8
-CCTV-15,http://219.139.231.165:34567/mgtv/673168223.m3u8
-CCTV-16,http://219.139.231.165:34567/nptv/cctv16.m3u8
-CCTV-17,http://219.139.231.165:34567/mgtv/673168256.m3u8
-
-
-
-
-东方卫视,http://219.139.231.165:34567/mgtv/651632648.m3u8
-浙江卫视,http://219.139.231.165:34567/nptv/zhejiang.m3u8
-湖南卫视,http://219.139.231.165:34567/nptv/hunan.m3u8
-江苏卫视,http://219.139.231.165:34567/mgtv/623899368.m3u8
-安徽卫视,http://219.139.231.165:34567/nptv/anhui.m3u8
-东南卫视,http://219.139.231.165:34567/nptv/dongnan.m3u8
-云南卫视,http://219.139.231.165:34567/nptv/yunnan.m3u8
-兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-内蒙古卫视,http://219.139.231.165:34567/nptv/neimenggu.m3u8
-北京卫视,http://219.139.231.165:34567/nptv/beijing.m3u8
-四川卫视,http://219.139.231.165:34567/nptv/sichuan.m3u8
-天津卫视,http://219.139.231.165:34567/nptv/tianjing.m3u8
-宁夏卫视,http://219.139.231.165:34567/nptv/ningxia.m3u8
-山东卫视http://219.139.231.165:34567/nptv/shandong.m3u8
-山西卫视,http://219.139.231.165:34567/nptv/shanxi.m3u8
-广东卫视,http://219.139.231.165:34567/nptv/guangdong.m3u8
-广西卫视,http://219.139.231.165:34567/nptv/guangxi.m3u8
-新疆卫视,http://219.139.231.165:34567/nptv/xinjiang.m3u8
-江西卫视http://219.139.231.165:34567/nptv/jiangxi.m3u8
-河北卫视,http://219.139.231.165:34567/nptv/hebei.m3u8
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-海南卫视,http://219.139.231.165:34567/mgtv/947472502.m3u8
-深圳卫视,http://219.139.231.165:34567/nptv/shenzheng.m3u8
-湖北卫视,http://219.139.231.165:34567/mgtv/947472496.m3u8
-甘肃卫视,http://219.139.231.165:34567/nptv/gansu.m3u8
-西藏卫视,http://219.139.231.165:34567/nptv/xizang.m3u8
-贵州卫视,http://219.139.231.165:34567/nptv/guizhou.m3u8
-辽宁卫视,http://219.139.231.165:34567/nptv/liaoning.m3u8
-重庆卫视,http://219.139.231.165:34567/nptv/chongqing.m3u8
-陕西卫视,http://219.139.231.165:34567/mgtv/738910838.m3u8
-青海卫视,http://219.139.231.165:34567/mgtv/947472506.m3u8
-黑龙江卫视,http://219.139.231.165:34567/nptv/heilongjiang.m3u8
 
 🌏｜央卫订阅频道,#genre#
 CCTV1,http://183.185.74.14:9003/hls/1/index.m3u8
@@ -1433,3 +1315,4 @@ NewTV频道,#genre#
 
 ㊙｜加密频道_2023,#genre#
 爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?
+
