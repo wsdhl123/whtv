@@ -1,11 +1,11 @@
 🌏｜网页TV,#genre#
-CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
+CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
 CCTV1,video://http://www.66zhibow.com/1/cctv1.html
 CCTV1,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
-CCTV2,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
+CCTV2,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
 CCTV2,video://http://tv.haoqu99.com/1/347.html
 CCTV3,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
-CCTV4,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=7f4e2027-e822-49f3-88b1-2ffe00919f92
+CCTV4,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
 CCTV5,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
 CCTV6,video://https://m.1905.com/m/cctv6/gzh/?home
 CCTV6,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
@@ -19,7 +19,7 @@ CCTV10,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumb
 CCTV10,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=7
 CCTV11,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=8
 CCTV12,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=9
-CCTV13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
+CCTV13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
 CCTV13,http://8.138.7.223/tv/gzjs.m3u8
 CCTV13,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
 CCTV13,video://http://tv.haoqu99.com/1/cctv13.html
@@ -1319,6 +1319,7 @@ NewTV频道,#genre#
 
 ㊙｜加密频道_2023,#genre#
 爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?
+
 
 
 
