@@ -23,6 +23,7 @@ CCTV13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumb
 CCTV13,http://8.138.7.223/tv/gzjs.m3u8
 CCTV13,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
 CCTV13,video://http://tv.haoqu99.com/1/cctv13.html
+CCTV16,video://https://www.olympicchannelchina.cn/live/index.shtml?spm=C00974.Pd2UdAqisk1a.Eaj944nzAnRp.2&channelid=aoyuncctv16
 CCTV4K,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
 
 
@@ -1319,6 +1320,7 @@ NewTV频道,#genre#
 
 ㊙｜加密频道_2023,#genre#
 爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?
+
 
 
 
