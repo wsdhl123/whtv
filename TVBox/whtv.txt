@@ -7,7 +7,7 @@ CCTV2,video://http://tv.haoqu99.com/1/347.html
 CCTV3,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
 CCTV4,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
 CCTV5,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
-CCTV6,video://https://m.1905.com/m/cctv6/gzh/?home
+CCTV6,video://https://m.1905.com/m/cctv6/gzh/?app
 CCTV6,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
 CCTV7,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=8516529981177953694
 CCTV7,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
@@ -1319,6 +1319,7 @@ NewTV频道,#genre#
 
 ㊙｜加密频道_2023,#genre#
 爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?
+
 
 
 
