@@ -7,14 +7,14 @@
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.com/"},
 {"key": "新6V", "name": "🧲新6V磁力", "type": 3, "api": "csp_SixV", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "https://www.xb6v.com/" },
 
-{"key":"TVBYB","name":"☁️TVB云播 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
+{"key":"JZYY","name":"☁️尽在云影 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
 "数组": "",
 "线路数组": "在线播放&&</div>",
 "线路标题": "<span>&&</span>",
 "播放标题":"+>&&</a>",
-"分类url": "http://www.tvyb10.com/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/year/{year}.html",
-"分类":"电影&电视剧&综艺&动漫&短剧","分类值":"1&2&3&4&5"}},   
+"分类url": "https://www.yuny.tv/videoClassify/{cateId}?tags={class}&language={lang}&years={year}",
+"分类":"电影&剧集&动漫&短剧&综艺","分类值":"1&2&3&4&5"}},   
 
 {"key":"DDYY","name":"🎬多多影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
@@ -307,6 +307,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
