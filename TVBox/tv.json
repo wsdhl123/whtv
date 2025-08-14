@@ -30,12 +30,13 @@
 "分类":"电影&电视剧&综艺&动漫&纪录片","分类值":"1&2&3&4&5"}},   
 
 
-{"key":"WDDY","name":"🏰五.电影 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
+{"key":"WDDY","name":"⭕五点电影 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
 "数组": "",
 "线路数组": "在线播放&&</div>",
 "线路标题": "<span>&&</span>",
 "播放标题":"+>&&</a>",
+"图片": "data-original=\"&&\"",
 "分类url": "https://www.5.movie/vodshow/{cateId}-{area}--{class}-{lang}-------{year}.html ",
 "分类":"电影&剧集&综艺&动漫&短剧","分类值":"20&21&23&22&24"}},   
 
@@ -339,6 +340,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
