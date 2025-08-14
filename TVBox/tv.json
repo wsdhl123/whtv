@@ -45,11 +45,6 @@
 "分类":"电影&连续剧&综艺&动漫&短剧&B站","分类值":"20&37&45&43&57&47"}},    
 
  
-{"key":"JPYY","name":"🍁素白白 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
-"ext":{
-"播放数组": "<div class=\"paly_list_btn\">&&</div>",
-"分类url": "https://www.subaibai.com/{cateId}/page/{catePg}",
-"分类":"电影&电视剧&热门电影&高分电影&动漫电影&香港经典电影&国产剧&欧美剧&韩剧&动漫剧","分类值":"new-movie&tv-drama&hot-month&high-movie&cartoon-movie&hongkong-movie&domestic-drama&american-drama&korean-drama&anime-drama"}},
 
 {"key":"DDYY","name":"🎬多多影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
@@ -342,6 +337,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
