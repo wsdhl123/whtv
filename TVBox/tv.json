@@ -42,11 +42,6 @@
 
 {"key":"XGZXYS","name":"🍉西瓜在线影视 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
-"数组": "",
-"线路数组": "在线播放&&</div>",
-"线路标题": "<span>&&</span>",
-"播放标题":"+>&&</a>",
-"图片": "data-original=\"&&\"",
 "分类url": "https://sszzyy.com/index.php/vod/type/id/{cateId}/page/{catePg}.html",
 "分类":"电影&连续剧&综艺&动漫&短剧&B站","分类值":"20&37&45&43&57&47"}},    
 
@@ -348,6 +343,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
