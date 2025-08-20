@@ -1,6 +1,5 @@
 🌏｜网页TV,#genre#
 CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
-CCTV1,video://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv1
 CCTV1,video://http://www.66zhibow.com/1/cctv1.html
 CCTV1,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV2,video://https://vod.cctv.cn/cctv/cctvh5/cctv2/2023/05/program_share/index.html
@@ -1321,6 +1320,7 @@ NewTV频道,#genre#
 
 ㊙｜加密频道_2023,#genre#
 爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?
+
 
 
 
