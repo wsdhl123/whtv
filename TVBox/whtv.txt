@@ -3,7 +3,7 @@ CCTV1,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv1_mbd.m3u8
 CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
 CCTV1,video://http://www.66zhibow.com/1/cctv1.html
 CCTV1,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
-CCTV2,video://https://vod.cctv.cn/cctv/cctvh5/cctv2/2023/05/program_share/index.html
+CCTV2,video://https://vod-finance.cctv.cn/cctv/cctvh5/cctv2/2021/share/index.html?pageId=app://VIDE1755746427928452#/detail?link=VIDE1755746427928452
 CCTV2,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv2_mbd.m3u8?auth_key=1755814264-1-839347cd2e3b49658c9675dd567b9526-bc9b0722e5a7c7c08cafb00c43943a86&yid=839347cd2e3b49658c9675dd567b9526
 CCTV2,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
 CCTV2,video://http://tv.haoqu99.com/1/347.html
@@ -1328,6 +1328,7 @@ NewTV频道,#genre#
 
 ㊙｜加密频道_2023,#genre#
 爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?
+
 
 
 
