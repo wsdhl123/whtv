@@ -1,12 +1,12 @@
 🌏｜网页TV,#genre#
 CCTV1,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv1_mbd.m3u8?auth_key=1755814132-1-839347cd2e3b49658c9675dd567b9526-108ce82650b5d56490bc71f4a23405f7&yid=839347cd2e3b49658c9675dd567b9526
-CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
 CCTV1,video://http://www.66zhibow.com/1/cctv1.html
 CCTV1,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
+CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
 CCTV2,video://https://vod-finance.cctv.cn/cctv/cctvh5/cctv2/2021/share/index.html?pageId=app://VIDE1755746427928452#/detail?link=VIDE1755746427928452
 CCTV2,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv2_mbd.m3u8?auth_key=1755814264-1-839347cd2e3b49658c9675dd567b9526-bc9b0722e5a7c7c08cafb00c43943a86&yid=839347cd2e3b49658c9675dd567b9526
-CCTV2,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
 CCTV2,video://http://tv.haoqu99.com/1/347.html
+CCTV2,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
 CCTV3,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
 CCTV4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1755814434-1-839347cd2e3b49658c9675dd567b9526-d259ca2141b42837ded6beb29a4ecdd3&yid=839347cd2e3b49658c9675dd567b9526
 CCTV4,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
@@ -14,23 +14,23 @@ CCTV5,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
 CCTV6,video://https://m.1905.com/m/cctv6/gzh/?app
 CCTV6,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
 CCTV7,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv7_mbd.m3u8?auth_key=1755814562-1-839347cd2e3b49658c9675dd567b9526-449187eb6b89dff1d919b20564a2f61d&yid=839347cd2e3b49658c9675dd567b9526
-CCTV7,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=8516529981177953694
-CCTV7,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
 CCTV7,video://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612
 CCTV7,video://https://web.junhao.mil.cn/cms/rmt9502_html/0/0rmhlm/zxrm/jhzh/4611577.shtml
+CCTV7,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
+CCTV7,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=8516529981177953694
 CCTV9,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv9_mbd.m3u8?auth_key=1755814628-1-839347cd2e3b49658c9675dd567b9526-d65730320113ba4010648d7301d6b065&yid=839347cd2e3b49658c9675dd567b9526
-CCTV9,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=7252237247689203957
 CCTV9,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=6
+CCTV9,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=7252237247689203957
 CCTV10,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv10_mbd.m3u8?auth_key=1755814690-1-839347cd2e3b49658c9675dd567b9526-89197a12ddbe52781c3df088360b0255&yid=839347cd2e3b49658c9675dd567b9526
-CCTV10,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119
 CCTV10,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=7
+CCTV10,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119
 CCTV11,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=8
 CCTV12,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=9
 CCTV13,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv13_mbd.m3u8?auth_key=1755815300-1-839347cd2e3b49658c9675dd567b9526-8913be2d25bb380be24f1c864a329388&yid=839347cd2e3b49658c9675dd567b9526
-CCTV13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
 CCTV13,http://8.138.7.223/tv/gzjs.m3u8
 CCTV13,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
 CCTV13,video://http://tv.haoqu99.com/1/cctv13.html
+CCTV13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
 CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1755814810-1-839347cd2e3b49658c9675dd567b9526-d85e8917426ba16a33b568c418dd4361&yid=839347cd2e3b49658c9675dd567b9526
 CCTV4K,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
 
@@ -1328,6 +1328,7 @@ NewTV频道,#genre#
 
 ㊙｜加密频道_2023,#genre#
 爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?
+
 
 
 
