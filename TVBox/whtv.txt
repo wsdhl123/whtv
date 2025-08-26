@@ -17,10 +17,12 @@ CCTV9,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=6
 CCTV10,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119
 CCTV10,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=7
 CCTV11,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=8
+CCTV12,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=13180385922471124325
 CCTV12,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=9
 CCTV13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
 CCTV13,http://8.138.7.223/tv/gzjs.m3u8
 CCTV13,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
+CCTV17,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=4496917190172866934
 CCTV4K,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
 
 
@@ -1317,6 +1319,7 @@ NewTV频道,#genre#
 
 ㊙｜加密频道_2023,#genre#
 爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?
+
 
 
 
