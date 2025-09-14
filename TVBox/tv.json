@@ -295,7 +295,7 @@
 "ads": ["mozai.4gtv.tv"],
 
 "lives": [
-{"name": "live","type": 0,"playerType": 1,  "timeout": 10,"url": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/whtv.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","catchup": {"days": "7","type": "append","regex": "/PLTV/","source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"}},
+{"name": "live","type": 0,"playerType": 1,  "timeout": 10,"url": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/whtv.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","catchup": {"days": "7","type": "append","regex": "/PLTV/","source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"}}
 ],
 
 "ijk": [
@@ -353,6 +353,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
