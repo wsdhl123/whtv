@@ -232,8 +232,7 @@ CGTN,http://112.27.235.94:8000/hls/17/index.m3u8
 黑龙江卫视,http://112.27.235.94:8000/hls/48/index.m3u8
 内蒙古卫视,http://112,27.235.94:8000/hls/49/index.m3u8
 重温经典,http://112.27.235.94:8000/hls/50/index.m3u8
-🌏｜央卫电信酒店,#genre#
-上海移动-央视V4,#genre#
+🌏｜上海移动-央视V4,#genre#
 CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
 CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225770/index.m3u8
@@ -335,7 +334,7 @@ CGTN,https://zby.130519.xyz/PLTV/11/224/3221226016/index.m3u8
 睛彩竞技,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8
 睛彩篮球,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
 睛彩广场舞,https://zby.130519.xyz/PLTV/11/224/3221226139/index.m3u8
-IPV6央视,#genre#
+🌏｜IPV6央视,#genre#
 CCTV1-综合,http://[2409:8087:1a15:10d1::21]/wh7f454c46tw5193367_150047446/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8?icpid=88888888&RTS=1756444060&from=23&hms_devid=1247&online=1756444060&vqe=3
 CCTV2-财经,http://[2409:8087:1a15:10d1::13]/wh7f454c46tw51861944_244826623/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8?icpid=88888888&RTS=1756444107&from=23&hms_devid=1236&online=1756444107&vqe=3
 CCTV3-综艺,http://[2409:8087:1a15:10d1::21]/wh7f454c46tw79653458_-935249767/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8?icpid=88888888&RTS=1756444135&from=23&hms_devid=1247&online=1756444135&vqe=3
@@ -354,7 +353,6 @@ CCTV14-少儿,http://[2409:8087:1a15:10d1::1f]/wh7f454c46tw670889539_257213717/o
 CCTV15-音乐,http://[2409:8087:1a15:10d1::25]/wh7f454c46tw773044856_2070009650/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8?icpid=88888888&RTS=1756444828&from=23&hms_devid=1244&online=1756444828&vqe=3
 CCTV16-匹克,http://[2409:8087:1a15:10d1::38]/wh7f454c46tw797853935_235946959/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8?icpid=88888888&RTS=1756444853&from=23&hms_devid=1250&online=1756444853&vqe=3
 CCTV-17农业,http://[2409:8087:1a15:10d1::1e]/wh7f454c46tw834555354_-579603189/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8?icpid=88888888&RTS=1756444890&from=23&hms_devid=1233&online=1756444890&vqe=3
-IPV6卫视,#genre#
 河北卫视,http://[2409:8087:1a15:10d1::24]/wh7f454c46tw658639133_539774995/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8?icpid=88888888&RTS=1756466189&from=23&hms_devid=1244&online=1756466189&vqe=3
 北京卫视,http://[2409:8087:1a15:10d1::35]/wh7f454c46tw882903193_-781487364/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8?icpid=88888888&RTS=1756444938&from=23&hms_devid=1241&online=1756444938&vqe=3
 东方卫视,http://[2409:8087:1a15:10d1::23]/wh7f454c46tw1008149910_-1517198826/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8?icpid=88888888&RTS=1756445063&from=23&hms_devid=1251&online=1756445063&vqe=3
@@ -1117,6 +1115,7 @@ NewTV频道,#genre#
 
 ㊙｜加密频道_2023,#genre#
 爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?
+
 
 
 
