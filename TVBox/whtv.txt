@@ -24,8 +24,8 @@ CCTV13,http://8.138.7.223/tv/gzjs.m3u8
 CCTV13,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
 CCTV17,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=4496917190172866934
 CCTV4K,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
-
-
+咪咕CCTV1,video://https://webapi.miguvideo.com/m/liveDetail/608807420?channelId=10010001005
+咪咕CCTV13,video://https://webapi.miguvideo.com/m/liveDetail/608807423?channelId=10010001005
 
 
 
@@ -1145,6 +1145,7 @@ NewTV频道,#genre#
 
 ㊙｜加密频道_2023,#genre#
 爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?
+
 
 
 
