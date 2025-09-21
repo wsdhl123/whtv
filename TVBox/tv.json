@@ -17,13 +17,7 @@
   
 {"key": "JQQ","name": "⭕剧圈圈", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
 "ext": {
-    "规则名": "剧圈圈",
-    "规则作者": "香雅情",
-    "OCR_API":"https://api.nn.ci/ocr/b64/text",
-    "请求头参数": "MOBILE_UA",
-    "网页编码格式": "UTF-8",
-    "图片是否需要代理": "否",
-    "是否开启获取首页数据": "1",
+   
     "首页推荐链接": "https://www.jqqzx.me",
     "首页列表数组规则": "body&&.module-main.tab-list.active",
     "首页片单列表数组规则": ".module-item",
@@ -32,26 +26,8 @@
     "分类链接": "https://www.jqqzx.me/vodshow/id/{cateId}/page/{catePg}.html",
     "分类名称": "电影&电视剧&综艺&动漫&纪录片&爽剧",
     "分类名称替换词": "dianying&juji&zongyi&dongman&jilupian&shuangju",
-    "筛选数据": {},
-    //"筛选数据": "ext",
-    //{cateId}
-    "筛选子分类名称": "",
-    "筛选子分类替换词": "",
-    //{class}
-    "筛选类型名称": "",
-    "筛选类型替换词": "*",
-    //{area}
-    "筛选地区名称": "",
-    "筛选地区替换词": "*",
-    //{year}
-    "筛选年份名称": "",
-    "筛选年份替换词": "*",
-    //{lang}
-    "筛选语言名称": "",
-    "筛选语言替换词": "*",
-    //{by}
-    "筛选排序名称": "时间&人气&评分",
-    "筛选排序替换词": "time&hits&score",
+
+  
     "分类截取模式": "1",
     "分类列表数组规则": ".module-items&&.module-item",
     "分类片单是否Jsoup写法": "是",
@@ -64,26 +40,12 @@
     "搜索请求头参数": "User-Agent$MOBILE_UA",
     "搜索链接": "https://www.jqqzx.me/vodsearch{wd}/page/{SearchPg}.html",
     "POST请求数据": "",
-    "搜索截取模式": "1",
-    "搜索列表数组规则": ".module-items&&.module-item",
-    "搜索片单是否Jsoup写法": "是",
-    "搜索片单图片": ".lazyload&&data-original",
-    "搜索片单标题": ".module-card-item-title&&Text",
-    "搜索片单链接": "a&&href",
-    "搜索片单副标题": ".module-item-note&&Text",
-    "搜索片单链接加前缀": "https://www.jqqzx.me",
-    "搜索片单链接加后缀": "",
+    
     "链接是否直接播放": "否",
     "直接播放链接加前缀": "",
     "直接播放链接加后缀": "",
     "直接播放直链视频请求头": "",
-    "详情是否Jsoup写法": "是",
-    "类型详情": "",
-    "年代详情": ".module-info-content&&.module-info-item,3&&Text",
-    "地区详情": "",
-    "演员详情": ".module-info-content&&.module-info-item,2&&Text",
-    "简介详情": ".module-info-content&&.module-info-item&&Text",
-    "线路列表数组规则": ".module-tab-items-box&&.module-tab-item",
+    
     "线路标题": "Text",
     "播放列表数组规则": "body&&.module-play-list-content",
     "选集列表数组规则": "a",
@@ -440,6 +402,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
