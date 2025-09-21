@@ -11,10 +11,20 @@
 "ext": {
 "分类url": "https://www.libvio.vip/show/{cateId}-{area}--{class}-{lang}-------{year}.html",
 "分类":"电影&剧集&综艺&动漫","分类值":"1&2&3&4"}},  
-{"key":"剧圈圈","name":"⭕剧圈圈1","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/json/剧圈圈.json","click":"document.getElementById('playleft').children[0].contentWindow.document.getElementById('start').click()"},
+{"key":"剧圈圈","name":"⭕剧圈圈1","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/json/剧圈圈.json",
+"click":"document.getElementById('playleft').children[0].contentWindow.document.getElementById('start').click()"},
   
 {"key": "JQQ","name": "⭕剧圈圈", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
 "ext": {
+"分析MacPlayer": "否",
+"是否开启手动嗅探": "否",
+"手动嗅探视频链接关键词": ".mp4#.m3u8#.flv#video/tos",
+"手动嗅探视频链接过滤词": ".html#=http",
+"链接是否直接播放": "否",
+"直接播放链接加前缀": "",
+"直接播放链接加后缀": "",
+"直接播放直链视频请求头": "",
 "分类url": "https://www.jqqzx.top/vodshow/area/{area}/class/{class}/id/{cateId}/year/{year}.html",
 "分类":"电影&剧集&综艺&动漫&短剧","分类值":"dianying&juji&zongyi&dongman&duanju"}},  
 
@@ -358,6 +368,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
