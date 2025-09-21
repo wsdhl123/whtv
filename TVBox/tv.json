@@ -16,7 +16,7 @@
 "click":"document.getElementById('playleft').children[0].contentWindow.document.getElementById('start').click()"},
   
 {"key": "JQQ","name": "⭕剧圈圈", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
-"ext": 
+"ext": {
     "规则名": "剧圈圈",
     "规则作者": "香雅情",
     "OCR_API":"https://api.nn.ci/ocr/b64/text",
@@ -98,7 +98,7 @@
     "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv#video/tos",
     "手动嗅探视频链接过滤词": ".html#=http",
   "click":"document.getElementById('playleft').children[0].contentWindow.document.getElementById('start').click()"
-  },  
+  }},  
 
   
 {"key":"555DY","name":"🎬555电影 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
@@ -440,6 +440,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
