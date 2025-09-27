@@ -34,22 +34,22 @@
     "分类名称替换词": "dianying&juji&zongyi&dongman&jilupian&shuangju",
     "筛选数据": {},
     //"筛选数据": "ext",
-    //{cateId}
+    //{cateId},
     "筛选子分类名称": "",
     "筛选子分类替换词": "",
-    //{class}
+    //{class},
     "筛选类型名称": "",
     "筛选类型替换词": "*",
-    //{area}
+    //{area},
     "筛选地区名称": "",
     "筛选地区替换词": "*",
-    //{year}
+    //{year},
     "筛选年份名称": "",
     "筛选年份替换词": "*",
-    //{lang}
+    //{lang,
     "筛选语言名称": "",
     "筛选语言替换词": "*",
-    //{by}
+    //{by},
     "筛选排序名称": "时间&人气&评分",
     "筛选排序替换词": "time&hits&score",
     "分类截取模式": "1",
@@ -441,6 +441,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
