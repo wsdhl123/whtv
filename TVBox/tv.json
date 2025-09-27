@@ -96,7 +96,7 @@
     "是否开启手动嗅探": "否",
     "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv#video/tos",
     "手动嗅探视频链接过滤词": ".html#=http"
-},"click":"document.getElementById('playleft').children[0].contentWindow.document.getElementById('start').click()"},
+},"click":"document.getElementById('playleft').children[0].contentWindow.document.getElementById('start').click()"}
 
  }},  
 
@@ -440,6 +440,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
