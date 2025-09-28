@@ -11,18 +11,12 @@
 {"key": "cctv","name": "🏠cctv","type": 1,"api": "http://zhangqun1818.serv00.net/cctv.php", "style": { "type": "rect", "ratio": 1.33},"changeable": 1},	
 
 
-{
-        "key": "csp_mgtva",
-        "name": "木瓜影视",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
-        "ext": {
-            "分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
-            "分类": "电影&电视剧&综艺&动漫",
-            "分类值": "dianying&lianxuju&zongyi&dongman"
-        }
-    },
+{"key": "csp_mgtva","name": "🥭木瓜影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+"ext": {
+"分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
+"分类": "电影&电视剧&综艺&动漫",
+"分类值": "dianying&lianxuju&zongyi&dongman"
+}},
 
 
 {"key": "七味影院","name": "🌺七味影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -400,6 +394,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
