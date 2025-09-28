@@ -44,7 +44,7 @@
 "分类url": "https://www.libvio.vip/show/{cateId}-{area}--{class}-{lang}-------{year}.html",
 "分类":"电影&剧集&综艺&动漫","分类值":"1&2&3&4"}},  
 {"key":"剧圈圈","name":"⭕剧圈圈","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/json/剧圈圈.json",
+"ext":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/剧圈圈.json",
 "click":"document.getElementById('playleft').children[0].contentWindow.document.getElementById('start').click()"},
  
 {"key":"555DY","name":"🎬555电影 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
@@ -386,6 +386,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
