@@ -8,7 +8,21 @@
 {"key": "骚火影视.py","name": "🔥骚火影视.py","type": 3,"api": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/骚火影视.py","searchable": 1,"quickSearch": 1,"filterable": 1, "order_num": 0,"ext": ""},   
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.top/"},
 {"key": "新6V", "name": "🧲新6V磁力", "type": 3, "api": "csp_SixV", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "https://www.xb6v.com/" },
-{"key": "cctv","name": "🏠cctv","type": 1,"api": "http://zhangqun1818.serv00.net/cctv.php", "style": { "type": "rect", "ratio": 1.33},"changeable": 1},			
+{"key": "cctv","name": "🏠cctv","type": 1,"api": "http://zhangqun1818.serv00.net/cctv.php", "style": { "type": "rect", "ratio": 1.33},"changeable": 1},	
+
+
+{
+        "key": "XBPQ_JQQZX",
+        "name": "剧圈在线┃XBPQ",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
+        "ext": {
+            "分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#纪录片$jilupian#爽剧$shuangju",
+            "分类url": "https://www.jqqzx.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"
+        }
+    },
+  
 
 
 {"key": "七味影院","name": "🌺七味影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -386,6 +400,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
