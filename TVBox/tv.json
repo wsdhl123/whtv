@@ -8,7 +8,13 @@
 {"key": "骚火影视.py","name": "🔥骚火影视.py","type": 3,"api": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/骚火影视.py","searchable": 1,"quickSearch": 1,"filterable": 1, "order_num": 0,"ext": ""},   
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.top/"},
 {"key": "新6V", "name": "🧲新6V磁力", "type": 3, "api": "csp_SixV", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "https://www.xb6v.com/" },
-{"key": "cctv","name": "🏠cctv","type": 1,"api": "http://zhangqun1818.serv00.net/cctv.php", "style": { "type": "rect", "ratio": 1.33},"changeable": 1},	
+{"key": "cctv","name": "🏠央视大全","type": 1,"api": "http://zhangqun1818.serv00.net/cctv.php", "style": { "type": "rect", "ratio": 1.33},"changeable": 1},	
+{"key": "量子资源","name": "🌍量子资源","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+{"key": "闪电资源","name": "🌩闪电资源","type": 1,"api": "https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":0},
+{"key":"taopian","name":"🕹️淘片采集","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"filterable":0,"categories": ["动漫/国产动漫","动漫/日本动漫","动漫/欧美动漫","动漫/海外动漫","综艺/大陆综艺","综艺/港台综艺","综艺/日韩综艺","综艺/欧美综艺","综艺/海外综艺","电视剧/国产剧","电视剧/香港剧","电视剧/欧美剧","电视剧/海外剧","电视剧/韩国剧","电视剧/日本剧","电视剧/泰国剧","电视剧/台湾剧","电影/战争片","电影/科幻片","电影/奇幻片","电影/冒险片","电影/动画片","电影/喜剧片","电影/动作片","电影/爱情片","电影/恐怖片","电影/惊悚片","电影/剧情片","电影/悬疑片","电影/纪录片"]},
+{"key": "火狐","name": "🦊火狐采集","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": [  "内地剧",  "动作片",  "科幻片",  "战争片",  "喜剧片",  "爱情片",  "恐怖片",  "犯罪片",  "剧情片",  "冒险片",  "记录片",  "韩剧",  "香港剧",  "台湾剧",  "欧美剧",  "日剧",  "马泰剧",  "体育赛事",  "综艺",  "动画片",  "中国动漫",  "日本动漫",  "欧美动漫"]},
+{"key":"百度","name":"🎏百度采集","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":0},
+{"key":"天涯","name":"🎉天涯采集","type":1,"api":"https://tyyszyapi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":0}, 
 
 
 {"key": "csp_mgtva","name": "🥭木瓜影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -41,15 +47,12 @@
 "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$30"
 }},
 
-
 {"key": "csp_hmhd", "name": "🎠河马高清", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
 "ext": {
 "分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
 "分类": "电影&电视剧&动漫&综艺",
 "分类值": "1&2&3&4"
 }},
-
-
 
   
 {"key": "LIBVIO","name": "🎯LIBVI0", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
@@ -136,14 +139,7 @@
 "播放标题":"+>&&</a>",
 "分类url": " https://www.zhimatv.cc/show/{cateId}/area/{area}/lang/{lang}/year/{year}/ ",
 "分类":"电影&电视剧&动漫","分类值":"2&1&3"}}, 
-  
-    
-    
-    
-{"key": "hipy_js_央视大全[官]","name": "📺央视大全","type": 3,"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,
-"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/央视大全[官].js"},
 
-    
     
 {"key": "BPSYS","name": "💯百思派", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
 "ext": {
@@ -159,12 +155,7 @@
 "简介": "简介：&&"
 }},
 
-{"key": "量子资源","name": "🌍量子资源","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-{"key": "闪电资源","name": "🌩闪电资源","type": 1,"api": "https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":0},
-{"key":"taopian","name":"🕹️淘片采集","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"filterable":0,"categories": ["动漫/国产动漫","动漫/日本动漫","动漫/欧美动漫","动漫/海外动漫","综艺/大陆综艺","综艺/港台综艺","综艺/日韩综艺","综艺/欧美综艺","综艺/海外综艺","电视剧/国产剧","电视剧/香港剧","电视剧/欧美剧","电视剧/海外剧","电视剧/韩国剧","电视剧/日本剧","电视剧/泰国剧","电视剧/台湾剧","电影/战争片","电影/科幻片","电影/奇幻片","电影/冒险片","电影/动画片","电影/喜剧片","电影/动作片","电影/爱情片","电影/恐怖片","电影/惊悚片","电影/剧情片","电影/悬疑片","电影/纪录片"]},
-{"key": "火狐","name": "🦊火狐采集","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": [  "内地剧",  "动作片",  "科幻片",  "战争片",  "喜剧片",  "爱情片",  "恐怖片",  "犯罪片",  "剧情片",  "冒险片",  "记录片",  "韩剧",  "香港剧",  "台湾剧",  "欧美剧",  "日剧",  "马泰剧",  "体育赛事",  "综艺",  "动画片",  "中国动漫",  "日本动漫",  "欧美动漫"]},
-{"key":"百度","name":"🎏百度采集","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":0},
-{"key":"天涯","name":"🎉天涯采集","type":1,"api":"https://tyyszyapi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":0}, 
+  
 {"key":"2GBT","name":"   👬二个BT","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
 "ext":{
 "数组": "",
@@ -174,14 +165,6 @@
 "播放标题":"+>&&</a>",
 "分类url": "https://www.bttwo.org/{cateId}/page/{catePg}",
 "分类": "最新电影$new-movie#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv" }},
-
- {"key": "OKTV","name": "💃OKTV", "type": 3, "api": "csp_XBPQ", "playerType": "1",
-"ext": {
-"分类url": "https://www.oktv.live/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/year/{year}.html",
-"分类": "电影&连续剧&动漫&综艺&短剧",
-"分类值": "1&2&4&3&21"
-}},   
-
 
 
 {"key": "HCTDs","name": "✨火车太堵", "type": 3, "api": "csp_XBPQ", "playerType": "1",
@@ -215,12 +198,7 @@
 "分类url": "https://the7tv.com/the/{cateId}.html",
 "分类":"电影&连续剧&综艺&动漫&短剧","分类值":"1&2&3&4&27"}},
 
-{"key": "YGYY","name": "🌙夜光影院", "type": 3, "api": "csp_XBPQ", "playerType": "1",
-"ext": {
-"分类url": "https://mengdm.vip/vodshow/{cateId}-{area}----------{lang}.html;;m",
-"分类": "电影&电视剧&综艺&动漫",
-"分类值": "1&2&3&4"
-}},
+
     
 {"key": "cbhys","name": "🏔️茶杯狐", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
@@ -244,19 +222,7 @@
 "播放数组": "<div class=\"paly_list_btn\">&&</div>",  
 "播放标题":"+>&&</a>"}},
 
-{"key":"1280","name":"  🏰VIP1280","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
-"ext":{
-"播放标题":"+>&&</a>",
-"分类url":"https://vip1280.net/frim/index{cateId}/area/{area}/lang/{lang}/year/{year}.html",
-"分类":"电影&电视剧&港台&欧美&日韩&泰剧","分类值":"1&2&3&4&5&22"}},
 
-{"key":"JSYS","name":"     🍅极速影视","type":3,"api":"csp_XBPQ",
-"ext":{
-"线路标题": "<span>&&</span>",
-"线路数组": "data-dropdown-value=&&</div>",
-"播放标题":"+>&&</a>",
-"分类url":"https://www.1qik.com/jisusw/{cateId}-{area}--{class}-{lang}-------{year}.html",
-"分类":"电影&电剧集&综艺&动漫&短剧","分类值":"1&2&3&4&5"}},
 
 { "key": "VS影院", "name": "👥VS影院","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
 "ext": {
@@ -268,10 +234,7 @@
 "分类url":"https://www.nxgqmy.com/ybsitp/{cateId}-{catePg}.html",
 "分类":"短剧$5#国产剧$17#港台剧$18#日韩剧$20#电视剧$2#电影$1#动作片$6#喜剧片$7#爱情片$8#恐怖片$10#动漫$4#综艺$3"}},
 
-{"key": "YSDQW","name": "🔥影视大全网","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
-"ext": {
-"分类url": "https://www.waffleboy.com.cn/vodshow/{cateId}-{area}--{class}-{lang}-------{year}.html",
-"分类": "电影$1#电视剧$2#综艺$3#动漫$4#动画片$20#短剧$38"}},
+
 
 {"key":"567DYY","name":" 🎆567电影院","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
@@ -281,15 +244,6 @@
 "分类url":"https://www.ruchengxxw.com/vod/{cateId}/",
 "分类":"电影片&连续剧&综艺片&动漫片","分类值":"56dyp&56lxj&56zyp&56dmp"}},
 
-
-{"key":"小小影视","name":" 🌼小小影视","type":3,"api":"csp_XBPQ",
-"ext":{
-"免嗅": "0",//1开0关，默认为0，不解析不嗅探，直接播放链接，可在字母开关用m代替
-"线路标题":"💦+>&&<small+线+<small*>&&<+路",     
-"线路数组":"data-dropdown-value=&&</div>",
-"播放标题":"+>&&</a>",
-"分类url":"https://www.weihuafrp.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-"分类":"电视剧&电影&综艺&动漫","分类值":"2&1&3&4"}},
 
 
 {"key":"csp_SP360","name": "💘360","type": 3,"api": "csp_SP33","jar":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/231108.jar"},
@@ -399,6 +353,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
