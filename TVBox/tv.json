@@ -42,7 +42,12 @@
 }},
 
 
-
+{"key": "csp_hmhd", "name": "🎠河马高清", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
+"ext": {
+"分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
+"分类": "电影&电视剧&动漫&综艺",
+"分类值": "1&2&3&4"
+}},
 
 
 
@@ -394,6 +399,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
