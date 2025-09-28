@@ -23,7 +23,6 @@
 "图片": "src=\"&&\"",
 "副标题": "</i>&&</span>",
 "链接": "href=\"&&\"",
-//"播放数组": "class=\"play_box1\"&&</ul>",
 "播放链接": "href=\"&&\"",
 "播放列表": "<a&&a>",
 "播放标题": ">&&</",
@@ -387,6 +386,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
