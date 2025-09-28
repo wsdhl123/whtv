@@ -12,14 +12,16 @@
 
 
 {
-        "key": "XBPQ_JQQZX",
-        "name": "剧圈在线┃XBPQ",
+        "key": "迅雷8",
+        "name": "🧲迅雷吧",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
         "ext": {
-            "分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#纪录片$jilupian#爽剧$shuangju",
-            "分类url": "https://www.jqqzx.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"
+            "播放数组": "copylink&&</a>",
+            "播放链接": "alt=\"&&\"",
+            "简介": "b1f40f7888\"&&</p>",
+            "分类url": "https://xunlei8.cc/{cateId}-{class}-{year}-{area}-hot-{catePg}-30.html",
+            "分类": "电视剧$tv#电影$list"
         }
     },
   
@@ -400,6 +402,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
