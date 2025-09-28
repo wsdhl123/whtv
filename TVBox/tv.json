@@ -12,19 +12,17 @@
 
 
 {
-        "key": "迅雷8",
-        "name": "🧲迅雷吧",
+        "key": "csp_mgtva",
+        "name": "木瓜影视",
         "type": 3,
         "api": "csp_XBPQ",
+        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
         "ext": {
-            "播放数组": "copylink&&</a>",
-            "播放链接": "alt=\"&&\"",
-            "简介": "b1f40f7888\"&&</p>",
-            "分类url": "https://xunlei8.cc/{cateId}-{class}-{year}-{area}-hot-{catePg}-30.html",
-            "分类": "电视剧$tv#电影$list"
+            "分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
+            "分类": "电影&电视剧&综艺&动漫",
+            "分类值": "dianying&lianxuju&zongyi&dongman"
         }
     },
-  
 
 
 {"key": "七味影院","name": "🌺七味影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -402,6 +400,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
