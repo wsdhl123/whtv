@@ -3,18 +3,10 @@
 "wallpaper": "https://深色壁纸.xxooo.cf/",
 "sites": [
 //👨‍💻👌🏰🍑🐅🧣 🌺📢🎉🌙🌟🌸✨🍓🥚🏝🍆🍅🐎🐐 🌩🏭👨‍👩‍👧‍👧🌍🙏🎃🐇🌞⛈️❄️☔🌍🍉🥇☀️👩‍🌾🏔️🔥☁️🍎🧲💃👼🎠💓‍💌⭕🐕🍄🎬💋🍁🎦📽️🚑🎯📀🌤️🥝🐧🥭🍎
- {
-            "key": "云速影视.py",
-            "name": "云速影视.py",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E4%BA%91%E9%80%9F%E5%BD%B1%E8%A7%86.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": ""
-        },
-   
+{"key": "云速影视.py","name": "云速影视.py","type": 3,"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E4%BA%91%E9%80%9F%E5%BD%B1%E8%A7%86.py","searchable": 1,"quickSearch": 1,"filterable": 1, "order_num": 0,
+"ext": ""},
+{"key": "骚火影视.py","name": "骚火影视.py","type": 3,"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E4%BA%91%E9%80%9F%E5%BD%B1%E8%A7%86.py","searchable": 1,"quickSearch": 1,"filterable": 1, "order_num": 0,
+"ext": ""},   
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.top/"},
 {"key": "新6V", "name": "🧲新6V磁力", "type": 3, "api": "csp_SixV", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "https://www.xb6v.com/" },
 
@@ -367,6 +359,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
