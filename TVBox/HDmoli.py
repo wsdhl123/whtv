@@ -165,12 +165,13 @@ class Spider(Spider):
             'sign': sign,
             'sec-ch-ua': '"Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"',
             't': t,
-            'referer': 'https://www.hkybqufgh.com/',
+            'referer': 'https://www.hdmoli.pro/',
         }
         return headers
 
 if __name__ == '__main__':
     pass
+
 
 
 
