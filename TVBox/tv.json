@@ -64,14 +64,6 @@
 "分类url": "https://www.pkmp4.xyz/ms/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$30"
 }},
-
-{"key": "csp_hmhd", "name": "🎠河马高清", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
-"ext": {
-"分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
-"分类": "电影&电视剧&动漫&综艺",
-"分类值": "1&2&3&4"
-}},
-
   
 {"key": "LIBVIO","name": "🎯LIBVI0", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
 "ext": {
@@ -97,10 +89,7 @@
 "分类url": "https://www.360aikan.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/year/{year}.html",
 "分类":"电影&连续剧&综艺&动漫","分类值":"1&2&3&4"}},  
 
-{"key": "MTYSZY","name": "🧣茅台影视资源", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
-"ext": {
-"分类url": "https://maotaiziyuan.cc/index.php/vod/show/class/{class}/id/{cateId}/lang/{lang}/year/{year}.html",
-"分类":"电影&连续剧&综艺&动漫","分类值":"1&2&3&4"}},  
+
 
   
   {"key":"QKYS","name":"🌍映像星球 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
@@ -129,16 +118,6 @@
 "分类":"电影&连续剧&综艺&动漫&短剧&B站","分类值":"20&37&45&43&57&47"}},    
 
  
-
-{"key":"DDYY","name":"🎬多多影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
-"ext":{
-"数组": "",
-"线路数组": "在线播放&&</div>",
-"线路标题": "<span>&&</span>",
-"播放标题":"+>&&</a>",
-"分类url": "https://www.pzhtl.com/show/{cateId}-{area}--{class}-{lang}-------{year}.html",
-"分类":"电影&电视剧&综艺&动漫&短剧","分类值":"1&2&3&4&33"}},   
-
 
 {"key":"CZYY","name":"☀️策驰影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
@@ -371,6 +350,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
