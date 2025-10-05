@@ -13,7 +13,7 @@ from base.spider import Spider
 
 class Spider(Spider):
     def getName(self):
-        return "JieYingShi"
+        return "HDmoli"
 
     def init(self, extend):
         self.home_url = 'https://www.hdmoli.pro/'
@@ -171,5 +171,6 @@ class Spider(Spider):
 
 if __name__ == '__main__':
     pass
+
 
 
