@@ -32,7 +32,7 @@
 "分类url": "https://ddys.pro/category/{cateId}/page/{catePg}/",
 "分类": "电影&剧集&本季新番&动画",
 "分类值": "movie&airing&new-bangumi&anime"
-
+}},
   
 
 {"key": "csp_mgtva","name": "🥭木瓜影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -344,6 +344,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
