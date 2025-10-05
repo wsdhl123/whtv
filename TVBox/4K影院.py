@@ -32,7 +32,7 @@ import os
 
 sys.path.append('..')
 
-xurl = "https://www.4kvm.net"
+xurl = "https://www.4kvm.me"
 
 headerx = {
     'User-Agent': 'Mozilla/5.0 (Linux; U; Android 8.0.0; zh-cn; Mi Note 2 Build/OPR1.170623.032) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/10.1.1'
@@ -466,5 +466,6 @@ class Spider(Spider):
         elif params['type'] == "ts":
             return self.proxyTs(params)
         return None
+
 
 
