@@ -132,62 +132,7 @@ CETV1,http://218.206.221.78:90/hls/19/index.m3u8
 青海卫视,http://218.206.221.78:90/hls/49/index.m3u8
 新疆卫视,http://218.206.221.78:90/hls/50/index.m3u8
 西藏卫视,http://218.206.221.78:90/hls/51/index.m3u8
-🌏｜央视频道-山西,#genre#
-CCTV-1[1920*1080],http://lll.eatuo.com:2008/hls/7/index.m3u8
-CCTV-2[1920*1080],http://lll.eatuo.com:2008/hls/8/index.m3u8
-CCTV-3[1920*1080],http://lll.eatuo.com:2008/hls/9/index.m3u8
-CCTV-4[1920*1080],http://lll.eatuo.com:2008/hls/10/index.m3u8
-CCTV-5[1920*1080],http://lll.eatuo.com:2008/hls/11/index.m3u8
-CCTV-5+[1920*1080],http://lll.eatuo.com:2008/hls/12/index.m3u8
-CCTV-6[1920*1080],http://lll.eatuo.com:2008/hls/13/index.m3u8
-CCTV-7[1920*1080],http://lll.eatuo.com:2008/hls/14/index.m3u8
-CCTV-8[1920*1080],http://lll.eatuo.com:2008/hls/15/index.m3u8
-CCTV-9[1920*1080],http://lll.eatuo.com:2008/hls/16/index.m3u8
-CCTV-10[1920*1080],http://lll.eatuo.com:2008/hls/17/index.m3u8
-CCTV-11[1920*1080],http://lll.eatuo.com:2008/hls/18/index.m3u8
-CCTV-12[1920*1080],http://lll.eatuo.com:2008/hls/19/index.m3u8
-CCTV-13[1920*1080],http://lll.eatuo.com:2008/hls/20/index.m3u8
-CCTV-14[1920*1080],http://lll.eatuo.com:2008/hls/21/index.m3u8
-CCTV-15[1920*1080],http://lll.eatuo.com:2008/hls/22/index.m3u8
-CCTV-16[1920*1080],http://lll.eatuo.com:2008/hls/23/index.m3u8
-CCTV-17[1920*1080],http://lll.eatuo.com:2008/hls/24/index.m3u8
-卫视频道-山西,#genre#
-山西卫视[1920*1080],http://lll.eatuo.com:2008/hls/1/index.m3u8
-北京卫视[1920*1080],http://lll.eatuo.com:2008/hls/25/index.m3u8
-天津卫视[1920*1080],http://lll.eatuo.com:2008/hls/26/index.m3u8
-湖南卫视[1920*1080],http://lll.eatuo.com:2008/hls/27/index.m3u8
-湖北卫视[1920*1080],http://lll.eatuo.com:2008/hls/28/index.m3u8
-河南卫视[1920*1080],http://lll.eatuo.com:2008/hls/29/index.m3u8
-河北卫视[1920*1080],http://lll.eatuo.com:2008/hls/30/index.m3u8
-江苏卫视[1920*1080],http://lll.eatuo.com:2008/hls/31/index.m3u8
-江西卫视[1920*1080],http://lll.eatuo.com:2008/hls/32/index.m3u8
-山东卫视[1920*1080],http://lll.eatuo.com:2008/hls/33/index.m3u8
-广东卫视[1920*1080],http://lll.eatuo.com:2008/hls/34/index.m3u8
-深圳卫视[1920*1080],http://lll.eatuo.com:2008/hls/35/index.m3u8
-安徽卫视[1920*1080],http://lll.eatuo.com:2008/hls/36/index.m3u8
-四川卫视[1920*1080],http://lll.eatuo.com:2008/hls/37/index.m3u8
-重庆卫视[1920*1080],http://lll.eatuo.com:2008/hls/38/index.m3u8
-东南卫视[1920*1080],http://lll.eatuo.com:2008/hls/39/index.m3u8
-贵州卫视[1920*1080],http://lll.eatuo.com:2008/hls/40/index.m3u8
-浙江卫视[1920*1080],http://lll.eatuo.com:2008/hls/41/index.m3u8
-东方卫视[1920*1080],http://lll.eatuo.com:2008/hls/42/index.m3u8
-辽宁卫视[1920*1080],http://lll.eatuo.com:2008/hls/43/index.m3u8
-吉林卫视[1920*1080],http://lll.eatuo.com:2008/hls/44/index.m3u8
-黑龙江卫视[1920*1080],http://lll.eatuo.com:2008/hls/45/index.m3u8
-广西卫视,http://lll.eatuo.com:2008/hls/46/index.m3u8
-陕西卫视,http://lll.eatuo.com:2008/hls/47/index.m3u8
-甘肃卫视,http://lll.eatuo.com:2008/hls/48/index.m3u8
-宁夏卫视[1920*1080],http://lll.eatuo.com:2008/hls/49/index.m3u8
-云南卫视[1920*1080],http://lll.eatuo.com:2008/hls/50/index.m3u8
-海南卫视,http://lll.eatuo.com:2008/hls/51/index.m3u8
-西藏卫视[1920*1080],http://lll.eatuo.com:2008/hls/52/index.m3u8
-新疆卫视[1920*1080],http://lll.eatuo.com:2008/hls/53/index.m3u8
-内蒙古视,http://lll.eatuo.com:2008/hls/54/index.m3u8
-青海卫视,http://lll.eatuo.com:2008/hls/55/index.m3u8
-厦门卫视,http://lll.eatuo.com:2008/hls/56/index.m3u8
-三沙卫视,http://lll.eatuo.com:2008/hls/57/index.m3u8
-兵团卫视,http://lll.eatuo.com:2008/hls/59/index.m3u8
-农林卫视,http://lll.eatuo.com:2008/hls/60/index.m3u8
+
 🌏｜央卫视频道,#genre#
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 CCTV2,http://api.kkitv.itv888.cn:8080/hls/4nlkhc68gfu/index.m3u8
@@ -1483,6 +1428,7 @@ NewTV频道,#genre#
 
 ㊙｜加密频道_2023,#genre#
 爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?
+
 
 
 
