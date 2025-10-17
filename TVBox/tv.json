@@ -108,7 +108,7 @@
 {"key":"WDDY","name":"⭕五点电影 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
 "数组": "",
-//"图片": "src=\"&&\"",
+"图片": "src=\"&&\"",
 "线路数组": "在线播放&&</div>",
 "线路标题": "<span>&&</span>",
 "播放标题":"+>&&</a>",
@@ -340,6 +340,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
