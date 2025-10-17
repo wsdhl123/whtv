@@ -167,17 +167,6 @@
 "分类": "最新电影$new-movie#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv" }},
 
 
-{"key": "HCTDs","name": "✨火车太堵", "type": 3, "api": "csp_XBPQ", "playerType": "1",
-"ext": {
-"请求头": "User-Agent$MOBILE_UA",
-"编码": "UTF-8",
-//"图片": "data-original=\"&&\"",
-"分类url": "https://www.tdgo.shop/vodtype/{cateId}.html",
-//"分类url":"https://www.tdgo.shop/vodshow/{cateId}-{area}--{class}-{lang}-------{year}.html",
-"分类": "电影&剧集&综艺&动漫&纪录片",
-"分类值": "20&21&23&22&24"
-}},
-
 {"key":"DYGC","name":"     🧣电影工厂","type":3,"api":"csp_XBPQ",
 "ext":{
 "线路标题": "<span>&&</span>",
@@ -343,6 +332,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
