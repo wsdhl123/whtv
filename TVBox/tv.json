@@ -15,7 +15,7 @@
 {"key": "火狐","name": "🦊火狐采集","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": [  "内地剧",  "动作片",  "科幻片",  "战争片",  "喜剧片",  "爱情片",  "恐怖片",  "犯罪片",  "剧情片",  "冒险片",  "记录片",  "韩剧",  "香港剧",  "台湾剧",  "欧美剧",  "日剧",  "马泰剧",  "体育赛事",  "综艺",  "动画片",  "中国动漫",  "日本动漫",  "欧美动漫"]},
 {"key":"百度","name":"🎏百度采集","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":0},
 {"key":"天涯","name":"🎉天涯采集","type":1,"api":"https://tyyszyapi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":0},
-{"key":"咪咕","name":"🎉咪咕采集","type":1,"api":"https://program-sc.miguvideo.com/live/v2/tv-data/a5f78af9d160418eb679a6dd0429c920","searchable":1,"filterable":0"categories": ["央视/CCTV1""]},
+{"key":"咪咕","name":"🎉咪咕采集","type":1,"api":"https://program-sc.miguvideo.com/live/v2/tv-data/a5f78af9d160418eb679a6dd0429c920","searchable":1,"filterable":0"categories": ["央视/CCTV1"]},
 {"key": "天天美剧网","name": "🎉美剧网", "type": 3, "api": "csp_AppYsV2","ext": "https://www.ttmja.com/api.php/app/" },  
 
 {"key": "NKYS","name": "✨耐看影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -329,6 +329,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
