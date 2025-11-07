@@ -217,13 +217,7 @@
 "播放标题":"+>&&</a>"}},
 
 
-{"key":"567DYY","name":" 🎆567电影院","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "2","api": "csp_XBPQ",
-"ext":{
-    
-"播放标题":"+>&&</a>",
-"播放数组":"<div class=\"vod-play-list&&</div>",
-"分类url":"https://www.ruchengxxw.com/vod/{cateId}/",
-"分类":"电影片&连续剧&综艺片&动漫片","分类值":"56dyp&56lxj&56zyp&56dmp"}},
+
 
 
 
@@ -334,6 +328,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
