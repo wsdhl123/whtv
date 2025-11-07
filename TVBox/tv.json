@@ -203,8 +203,8 @@
 
 {"key":"JPYY","name":"✨金牌影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
-"分类url": "https://www.jinyu56.com/jpwusx/{cateId}-{area}--{class}-{lang}-------{year}.html",
-"分类":"电影&电视剧&综艺&动漫&短剧","分类值":"1&2&3&4&5"}},
+"分类url": "https://www.nmzkzk.com/vod/show/id/{cateId}/type/{catePg}/class/{class}/year/{year}area/{area}",
+"分类":"电影&电视剧&综艺&动漫","分类值":"1&2&3&4"}},
 
 {"key":"厂长资源影视","name":"  🌴厂长资源影视","type":3,"api":"csp_XBPQ",
 "ext":{
@@ -328,6 +328,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
