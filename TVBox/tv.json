@@ -60,8 +60,7 @@
 "线路数组": "<option&&option>",
 "线路标题": ">&&</",
 "跳转播放链接": "var player_*\"url\":\"&&\"",
- "播放数组": "<div class=\"play_box1\">&&</div>",
- 
+
 "分类url": "https://www.pkmp4.xyz/ms/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$30"
 }},
@@ -312,6 +311,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
