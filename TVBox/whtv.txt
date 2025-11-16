@@ -1,6 +1,6 @@
 🌏｜网页TV,#genre#
 
-CCTV1,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv1_mbd.m3u8?auth_key=1763058375-1-839347cd2e3b49658c9675dd567b9526-721326adacbffe691b22155b2c355b27&yid=839347cd2e3b49658c9675dd567b9526
+CCTV1,video://http://guangbomi.com/tv/zy/cctv1.html
 CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
 CCTV1,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV2,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
@@ -1495,6 +1495,7 @@ NewTV频道,#genre#
 
 ㊙｜加密频道_2023,#genre#
 爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?
+
 
 
 
