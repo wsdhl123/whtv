@@ -1,3 +1,91 @@
+🌏｜咪咕央视频道,#genre#
+CCTV1综合,http://tv.netlive.ggff.net/cctv1
+CCTV2财经,http://tv.netlive.ggff.net/cctv2
+CCTV3综艺,http://tv.netlive.ggff.net/cctv3
+CCTV4中文国际,http://tv.netlive.ggff.net/cctv4
+CCTV5体育,http://tv.netlive.ggff.net/cctv5
+CCTV5+体育赛事,http://tv.netlive.ggff.net/cctv5p
+CCTV6电影,http://tv.netlive.ggff.net/cctv6
+CCTV7国防军事,http://tv.netlive.ggff.net/cctv7
+CCTV8电视剧,http://tv.netlive.ggff.net/cctv8
+CCTV9纪录,http://tv.netlive.ggff.net/cctv9
+CCTV10科教,http://tv.netlive.ggff.net/cctv10
+CCTV11戏曲,http://tv.netlive.ggff.net/cctv11
+CCTV12社会与法,http://tv.netlive.ggff.net/cctv12
+CCTV13新闻,http://tv.netlive.ggff.net/cctv13
+CCTV14少儿,http://tv.netlive.ggff.net/cctv14
+CCTV15音乐,http://tv.netlive.ggff.net/cctv15
+CCTV16奥林匹克,http://tv.netlive.ggff.net/cctv16
+CCTV17农业农村,http://tv.netlive.ggff.net/cctv17
+CETV1教育,http://tv.netlive.ggff.net/cetv1
+CETV2教育,http://tv.netlive.ggff.net/cetv2
+CETV4教育,http://tv.netlive.ggff.net/cetv4
+CGTN英语,http://tv.netlive.ggff.net/cgtn英语
+CGTN纪录,http://tv.netlive.ggff.net/cgtn纪录
+CGTN俄语,http://tv.netlive.ggff.net/cgtn俄语
+CGTN法语,http://tv.netlive.ggff.net/cgtn法语
+CGTN西语,http://tv.netlive.ggff.net/cgtn西语
+CGTN阿语,http://tv.netlive.ggff.net/cgtn阿语
+🌏｜咪咕卫视频道,#genre#
+江苏卫视,http://tv.netlive.ggff.net/jsws
+广东卫视,http://tv.netlive.ggff.net/gdws
+湖北卫视,http://tv.netlive.ggff.net/hubws
+湖南卫视,http://tv.netlive.ggff.net/hunws
+浙江卫视,http://tv.netlive.ggff.net/zjws
+东方卫视,http://tv.netlive.ggff.net/dfws
+北京卫视,http://tv.netlive.ggff.net/bjws
+深圳卫视,http://tv.netlive.ggff.net/szws
+东南卫视,http://tv.netlive.ggff.net/dnws
+山东卫视,http://tv.netlive.ggff.net/sdws
+安徽卫视,http://tv.netlive.ggff.net/ahws
+天津卫视,http://tv.netlive.ggff.net/tjws
+辽宁卫视,http://tv.netlive.ggff.net/lnws
+江西卫视,http://tv.netlive.ggff.net/jxws
+河北卫视,http://tv.netlive.ggff.net/hbws
+重庆卫视,http://tv.netlive.ggff.net/cqws
+贵州卫视,http://tv.netlive.ggff.net/gzws
+吉林卫视,http://tv.netlive.ggff.net/jlws
+四川卫视,http://tv.netlive.ggff.net/scws
+海南卫视,http://tv.netlive.ggff.net/hinws
+河南卫视,http://tv.netlive.ggff.net/hnws
+广西卫视,http://tv.netlive.ggff.net/gxws
+山西卫视,http://tv.netlive.ggff.net/sxiws
+云南卫视,http://tv.netlive.ggff.net/ynws
+陕西卫视,http://tv.netlive.ggff.net/sxws
+甘肃卫视,http://tv.netlive.ggff.net/gsws
+宁夏卫视,http://tv.netlive.ggff.net/nxws
+青海卫视,http://tv.netlive.ggff.net/qhws
+新疆卫视,http://tv.netlive.ggff.net/xjws
+西藏卫视,http://tv.netlive.ggff.net/xzws
+黑龙江卫视,http://tv.netlive.ggff.net/hljws
+内蒙古卫视,http://tv.netlive.ggff.net/nmgws
+大湾区卫视,http://tv.netlive.ggff.net/dwqws
+CHC家庭影院,http://tv.netlive.ggff.net/jtyy
+CHC动作电影,http://tv.netlive.ggff.net/dzyy
+CHC影迷电影,http://tv.netlive.ggff.net/ymdy
+嘉佳卡通,http://tv.netlive.ggff.net/jjkt
+卡酷少儿,http://tv.netlive.ggff.net/kkse
+广东少儿,http://tv.netlive.ggff.net/gdse
+金鹰卡通,http://tv.netlive.ggff.net/jykt
+南方影视,http://tv.netlive.ggff.net/nfys
+财富天下,http://tv.netlive.ggff.net/cftx
+经典动画,http://tv.netlive.ggff.net/dhjh
+广东影视,http://tv.netlive.ggff.net/gdys
+
+🌏｜祖国同胞频道,#genre#
+凤凰中文,http://tv.netlive.ggff.net/fhzw
+凤凰资讯,http://tv.netlive.ggff.net/fhzx
+凤凰深圳旁边,http://tv.netlive.ggff.net/fhhk
+Now新闻台,http://tv.netlive.ggff.net/now
+TVB Plus,http://tv.netlive.ggff.net/tvb
+澳视澳门,http://tv.netlive.ggff.net/aomen
+翡翠台,http://tv.netlive.ggff.net/翡翠台
+
+
+
+
+
+
 🌏｜网页TV,#genre#
 
 CCTV1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=lg
@@ -1504,6 +1592,7 @@ NewTV频道,#genre#
 
 ㊙｜加密频道_2023,#genre#
 爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?
+
 
 
 
