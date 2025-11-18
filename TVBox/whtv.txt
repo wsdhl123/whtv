@@ -124,6 +124,7 @@ CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227175/index.m3u
 
 CCTV17,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv17&q=lg
 CCTV17,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=4496917190172866934
+CCTV4K,http://106.53.99.30/php/cctv/cctvnews.php?id=CCTV4K&q=lg
 CCTV4K,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
 
 
@@ -1594,6 +1595,7 @@ NewTV频道,#genre#
 
 ㊙｜加密频道_2023,#genre#
 爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?
+
 
 
 
