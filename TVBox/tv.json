@@ -18,7 +18,10 @@
 
 {"key": "天天美剧网","name": "🎉美剧网", "type": 3, "api": "csp_AppYsV2","ext": "https://www.ttmja.com/api.php/app/" },  
 
-
+{"key": "YZYS","name": "☀️游子影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
+"ext": {
+"分类url": "https://youzisp.tv/vodshow/{cateId}-{area}--{class}-{lang}-------.html",
+"分类":"电影&电视剧&综艺&动漫","分类值":"dianyintg&dianshiju&zongyi&dongman"}},  
 
 
  
@@ -311,6 +314,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
