@@ -94,6 +94,7 @@ CCTV2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=lg
 CCTV2,video://https://vod.cctv.cn/cctv/cctvh5/cctv2/2023/05/cctv2_share/index.html?appkey=0-caijing
 CCTV3,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
 CCTV4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=lg
+CCTV4K,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4k&q=lg
 CCTV5,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
 CCTV6,video://https://m.1905.com/m/cctv6/gzh/?jmd
 CCTV6,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
@@ -1581,6 +1582,7 @@ NewTV频道,#genre#
 
 ㊙｜加密频道_2023,#genre#
 爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?
+
 
 
 
