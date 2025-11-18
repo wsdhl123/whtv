@@ -82,7 +82,7 @@ TVB Plus,http://tv.netlive.ggff.net/tvb
 翡翠台,http://tv.netlive.ggff.net/翡翠台
 
 
-#央视高清北方广电
+🌏｜央视高清北方广电
 CCTV1,http://ygbh.site/php/bfgd.php?id=488
 CCTV2,http://ygbh.site/php/bfgd.php?id=061
 CCTV3,http://ygbh.site/php/bfgd.php?id=062
@@ -1638,6 +1638,7 @@ NewTV频道,#genre#
 
 ㊙｜加密频道_2023,#genre#
 爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?
+
 
 
 
