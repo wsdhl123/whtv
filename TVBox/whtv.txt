@@ -82,7 +82,7 @@ TVB Plus,http://tv.netlive.ggff.net/tvb
 翡翠台,http://tv.netlive.ggff.net/翡翠台
 
 
-🌏｜央视高清北方广电
+🌏｜央视高清北方广电,#genre#
 CCTV1,http://ygbh.site/php/bfgd.php?id=488
 CCTV2,http://ygbh.site/php/bfgd.php?id=061
 CCTV3,http://ygbh.site/php/bfgd.php?id=062
@@ -714,7 +714,7 @@ CGTN英语,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226976/100001
 浙江卫视,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227020/10000100000000060000000008223439_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 中华特产,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226897/10000100000000060000000008198644_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 重庆卫视,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226982/10000100000000060000000008223498_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
-🌏｜新咪咕源一
+🌏｜新咪咕源一,#genre#
 CCTV1综合,http://120.46.223.160/PHP/MG.php?id=608807420
 CCTV2财经,http://120.46.223.160/PHP/MG.php?id=631780532
 CCTV3综艺,http://120.46.223.160/PHP/MG.php?id=624878271
@@ -938,7 +938,7 @@ TVB星河,http://120.238.5.44:1698/hls/88/index.m3u8
 1A91,http://120.238.5.44:1698/hls/91/index.m3u8
 
 
-🌞 移动IPV4
+🌞 移动IPV4,#genre#
 CCTV-1综合,http://112.6.239.227:8207/hls/1/index.m3u8
 CCTV-2财经,http://112.6.239.227:8207/hls/2/index.m3u8
 CCTV-3综艺,http://112.6.239.227:8207/hls/3/index.m3u8
@@ -1703,6 +1703,7 @@ NewTV频道,#genre#
 
 ㊙｜加密频道_2023,#genre#
 爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?
+
 
 
 
