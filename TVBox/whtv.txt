@@ -82,61 +82,7 @@ TVB Plus,http://tv.netlive.ggff.net/tvb
 翡翠台,http://tv.netlive.ggff.net/翡翠台
 
 
-🌏｜央视高清北方广电,#genre#
-CCTV1,http://ygbh.site/php/bfgd.php?id=488
-CCTV2,http://ygbh.site/php/bfgd.php?id=061
-CCTV3,http://ygbh.site/php/bfgd.php?id=062
-CCTV4,http://ygbh.site/php/bfgd.php?id=063
-CCTV5,http://ygbh.site/php/bfgd.php?id=064
-CCTV5+,http://ygbh.site/php/bfgd.php?id=246
-CCTV6,http://ygbh.site/php/bfgd.php?id=065
-CCTV7,http://ygbh.site/php/bfgd.php?id=127
-CCTV8,http://ygbh.site/php/bfgd.php?id=066
-CCTV9,http://ygbh.site/php/bfgd.php?id=128
-CCTV10,http://ygbh.site/php/bfgd.php?id=129
-CCTV11,http://ygbh.site/php/bfgd.php?id=130
-CCTV12,http://ygbh.site/php/bfgd.php?id=131
-CCTV13,http://ygbh.site/php/bfgd.php?id=067
-CCTV14,http://ygbh.site/php/bfgd.php?id=132
-CCTV15,http://ygbh.site/php/bfgd.php?id=133
-CCTV16,http://p.ytelc.com/169l/0/cctv.php?id=cctv16
-CCTV17,http://ygbh.site/php/bfgd.php?id=204
-北京卫视,http://ygbh.site/php/bfgd.php?id=083
-天津卫视,http://ygbh.site/php/bfgd.php?id=084
-江苏卫视,http://ygbh.site/php/bfgd.php?id=085
-湖南卫视,http://ygbh.site/php/bfgd.php?id=086
-东方卫视,http://ygbh.site/php/bfgd.php?id=093
-浙江卫视,http://ygbh.site/php/bfgd.php?id=094
-广东卫视,http://ygbh.site/php/bfgd.php?id=092
-深圳卫视,http://ygbh.site/php/bfgd.php?id=100
-安徽卫视,http://ygbh.site/php/bfgd.php?id=096
-吉林卫视,http://ygbh.site/php/bfgd.php?id=097
-江西卫视,http://ygbh.site/php/bfgd.php?id=098
-山东卫视,http://ygbh.site/php/bfgd.php?id=099
-辽宁卫视,http://ygbh.site/php/bfgd.php?id=058
-湖北卫视,http://ygbh.site/php/bfgd.php?id=102
-东南卫视,http://ygbh.site/php/bfgd.php?id=483
-海南卫视,http://ygbh.site/php/bfgd.php?id=473
-河南卫视,http://ygbh.site/php/bfgd.php?id=104
-河北卫视,http://ygbh.site/php/bfgd.php?id=108
-四川卫视,http://ygbh.site/php/bfgd.php?id=103
-重庆卫视,http://ygbh.site/php/bfgd.php?id=107
-广西卫视,http://ygbh.site/php/bfgd.php?id=116
-云南卫视,http://ygbh.site/php/bfgd.php?id=115
-贵州卫视,http://ygbh.site/php/bfgd.php?id=101
-陕西卫视,http://ygbh.site/php/bfgd.php?id=114
-山西卫视,http://ygbh.site/php/bfgd.php?id=109
-青海卫视,http://ygbh.site/php/bfgd.php?id=111
-延边卫视,http://ygbh.site/php/bfgd.php?id=117
-宁夏卫视,http://ygbh.site/php/bfgd.php?id=118
-甘肃卫视,http://ygbh.site/php/bfgd.php?id=119
-农林卫视,http://ygbh.site/php/bfgd.php?id=122
-兵团卫视,http://ygbh.site/php/bfgd.php?id=124
-新疆卫视,http://ygbh.site/php/bfgd.php?id=150
-西藏卫视,http://ygbh.site/php/bfgd.php?id=121
-黑龙江卫视,http://ygbh.site/php/bfgd.php?id=095
-内蒙古卫视,http://ygbh.site/php/bfgd.php?id=110
-山东教育卫视,http://ygbh.site/php/bfgd.php?id=112
+
 
 
 
@@ -715,51 +661,7 @@ CGTN英语,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226976/100001
 中华特产,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226897/10000100000000060000000008198644_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 重庆卫视,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226982/10000100000000060000000008223498_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 🌏｜新咪咕源一,#genre#
-CCTV1综合,http://120.46.223.160/PHP/MG.php?id=608807420
-CCTV2财经,http://120.46.223.160/PHP/MG.php?id=631780532
-CCTV3综艺,http://120.46.223.160/PHP/MG.php?id=624878271
-CCTV4中文国际,http://120.46.223.160/PHP/MG.php?id=631780421
-CCTV5体育,http://120.46.223.160/PHP/MG.php?id=641886683
-CCTV5+体育赛事,http://120.46.223.160/PHP/MG.php?id=641886773
-CCTV6电影,http://120.46.223.160/PHP/MG.php?id=624878396
-CCTV7国防军事,http://120.46.223.160/PHP/MG.php?id=673168121
-CCTV8电视剧,http://120.46.223.160/PHP/MG.php?id=624878356
-CCTV9纪录,http://120.46.223.160/PHP/MG.php?id=673168140
-CCTV10科教,http://120.46.223.160/PHP/MG.php?id=624878405
-CCTV11戏曲,http://120.46.223.160/PHP/MG.php?id=667987558
-CCTV12社会与法,http://120.46.223.160/PHP/MG.php?id=673168185
-CCTV13新闻,http://120.46.223.160/PHP/MG.php?id=608807423
-CCTV14少儿,http://120.46.223.160/PHP/MG.php?id=624878440
-CCTV15音乐,http://120.46.223.160/PHP/MG.php?id=673168223
-CCTV17农业农村,http://120.46.223.160/PHP/MG.php?id=673168256
-CCTV4欧洲,http://120.46.223.160/PHP/MG.php?id=608807419
-CCTV4美洲,http://120.46.223.160/PHP/MG.php?id=608807416
-CGTN外语纪录,http://120.46.223.160/PHP/MG.php?id=609006487
-CGTN阿拉伯语,http://120.46.223.160/PHP/MG.php?id=609154345
-CGTN西班牙语,http://120.46.223.160/PHP/MG.php?id=609006450
-CGTN法语,http://120.46.223.160/PHP/MG.php?id=609006476
-CGTN俄语,http://120.46.223.160/PHP/MG.php?id=609006446
-老故事,http://120.46.223.160/PHP/MG.php?id=884121956
-中学生,http://120.46.223.160/PHP/MG.php?id=708869532
-CGTN,http://120.46.223.160/PHP/MG.php?id=609017205
-东方卫视,http://120.46.223.160/PHP/MG.php?id=651632648
-江苏卫视,http://120.46.223.160/PHP/MG.php?id=623899368
-广东卫视,http://120.46.223.160/PHP/MG.php?id=608831231
-江西卫视,http://120.46.223.160/PHP/MG.php?id=783847495
-河南卫视,http://120.46.223.160/PHP/MG.php?id=790187291
-陕西卫视,http://120.46.223.160/PHP/MG.php?id=738910838
-大湾区卫视,http://120.46.223.160/PHP/MG.php?id=608917627
-湖北卫视,http://120.46.223.160/PHP/MG.php?id=947472496
-吉林卫视,http://120.46.223.160/PHP/MG.php?id=947472500
-青海卫视,http://120.46.223.160/PHP/MG.php?id=947472506
-东南卫视,http://120.46.223.160/PHP/MG.php?id=849116810
-海南卫视,http://120.46.223.160/PHP/MG.php?id=947472502
-海峡卫视,http://120.46.223.160/PHP/MG.php?id=849119120
-中国农林卫视,http://120.46.223.160/PHP/MG.php?id=956904896
-兵团卫视,http://120.46.223.160/PHP/MG.php?id=956923145
-辽宁卫视,http://120.46.223.160/PHP/MG.php?id=630291707
-上海新闻综合,http://120.46.223.160/PHP/MG.php?id=651632657
-上视东方影视,http://120.46.223.160/PHP/MG.php?id=617290047
+
 
 CCTV1综合,https://live.chinacert.cftest5.cn/mg/?id=608807420
 CCTV2财经,https://live.chinacert.cftest5.cn/mg/?id=631780532
@@ -808,64 +710,6 @@ CGTN,https://live.chinacert.cftest5.cn/mg/?id=609017205
 上视东方影视,https://live.chinacert.cftest5.cn/mg/?id=617290047
 
 
-🌏｜江苏电信组播-央视,#genre#
-CCTV1HD,http://ss.btc8080.top:8188/rtp/239.49.8.19:9614
-CCTV2HD,http://ss.btc8080.top:8188/rtp/239.49.8.50:9802
-CCTV3HD,http://ss.btc8080.top:8188/rtp/239.49.8.74:8000
-CCTV4HD,http://ss.btc8080.top:8188/rtp/239.49.8.51:9806
-CCTV5HD,http://ss.btc8080.top:8188/rtp/239.49.8.75:8000
-CCTV5+HD,http://ss.btc8080.top:8188/rtp/239.49.8.18:9610
-CCTV6HD,http://ss.btc8080.top:8188/rtp/239.49.8.76:8000
-CCTV7HD,http://ss.btc8080.top:8188/rtp/239.49.0.126:8000
-CCTV8HD,http://ss.btc8080.top:8188/rtp/239.49.8.77:8000
-CCTV9HD,http://ss.btc8080.top:8188/rtp/239.49.8.53:9814
-CCTV10HD,http://ss.btc8080.top:8188/rtp/239.49.8.54:9818
-CCTV11HD,http://ss.btc8080.top:8188/rtp/239.49.0.127:8000
-CCTV12HD,http://ss.btc8080.top:8188/rtp/239.49.8.55:9822
-CCTV13HD,http://ss.btc8080.top:8188/rtp/239.49.8.109:8000
-CCTV14HD,http://ss.btc8080.top:8188/rtp/239.49.8.56:9826
-CCTV音乐HD,http://ss.btc8080.top:8188/rtp/239.49.0.128:8000
-CCTV164K(SDR),http://ss.btc8080.top:8188/rtp/239.49.0.109:8000
-CCTV16HD,http://ss.btc8080.top:8188/rtp/239.49.8.31:8000
-CCTV17HD,http://ss.btc8080.top:8188/rtp/239.49.8.52:9810
-CCTV4K,http://ss.btc8080.top:8188/rtp/239.49.0.82:8000
-江苏卫视HD,http://ss.btc8080.top:8188/rtp/239.49.8.16:9602
-江苏城市HD,http://ss.btc8080.top:8188/rtp/239.49.8.107:8000
-江苏综艺HD,http://ss.btc8080.top:8188/rtp/239.49.8.108:8000
-江苏体育休闲HD,http://ss.btc8080.top:8188/rtp/239.49.8.117:8000
-江苏影视HD,http://ss.btc8080.top:8188/rtp/239.49.8.118:8000
-优漫卡通HD,http://ss.btc8080.top:8188/rtp/239.49.8.119:8000
-江苏新闻HD,http://ss.btc8080.top:8188/rtp/239.49.8.120:8000
-江苏教育HD,http://ss.btc8080.top:8188/rtp/239.49.8.122:8000
-北京卫视4K,http://ss.btc8080.top:8188/rtp/239.49.0.42:8000
-广西卫视HD,http://ss.btc8080.top:8188/rtp/239.49.8.10:8000
-天津卫视HD,http://ss.btc8080.top:8188/rtp/239.49.8.35:8620
-浙江卫视HD,http://ss.btc8080.top:8188/rtp/239.49.8.20:9618
-重庆卫视HD,http://ss.btc8080.top:8188/rtp/239.49.8.57:9830
-辽宁卫视HD,http://ss.btc8080.top:8188/rtp/239.49.8.48:8000
-海南卫视HD,http://ss.btc8080.top:8188/rtp/239.49.8.83:8000
-四川卫视HD,http://ss.btc8080.top:8188/rtp/239.49.8.110:8000
-江西卫视HD,http://ss.btc8080.top:8188/rtp/239.49.8.111:8000
-东南卫视HD,http://ss.btc8080.top:8188/rtp/239.49.8.112:8000
-吉林卫视HD,http://ss.btc8080.top:8188/rtp/239.49.8.113:8000
-河北卫视HD,http://ss.btc8080.top:8188/rtp/239.49.8.114:8000
-东方卫视HD,http://ss.btc8080.top:8188/rtp/239.49.8.17:9606
-北京卫视HD,http://ss.btc8080.top:8188/rtp/239.49.8.11:9414
-湖南卫视HD,http://ss.btc8080.top:8188/rtp/239.49.8.12:9418
-广东卫视HD,http://ss.btc8080.top:8188/rtp/239.49.8.13:9422
-黑龙江卫视HD,http://ss.btc8080.top:8188/rtp/239.49.8.14:9426
-深圳卫视HD,http://ss.btc8080.top:8188/rtp/239.49.8.15:9430
-云南卫视HD,http://ss.btc8080.top:8188/rtp/239.49.0.177:8000
-山东卫视HD,http://ss.btc8080.top:8188/rtp/239.49.8.7:9306
-CETV1HD,http://ss.btc8080.top:8188/rtp/239.49.8.115:8000
-贵州卫视HD,http://ss.btc8080.top:8188/rtp/239.49.8.49:8000
-安徽卫视HD,http://ss.btc8080.top:8188/rtp/239.49.8.80:8000
-湖北卫视HD,http://ss.btc8080.top:8188/rtp/239.49.8.8:9632
-CETV4HD,http://ss.btc8080.top:8188/rtp/239.49.0.125:8000
-河南卫视HD,http://ss.btc8080.top:8188/rtp/239.49.8.29:8000
-三沙卫视HD,http://ss.btc8080.top:8188/rtp/239.49.0.167:8000
-甘肃卫视HD,http://ss.btc8080.top:8188/rtp/239.49.0.250:8000
-青海卫视HD,http://ss.btc8080.top:8188/rtp/239.49.0.81:8000
 
 🌏｜测试央卫频道,#genre#
 CCTV1,http://120.238.5.44:1698/hls/17/index.m3u8
@@ -1703,6 +1547,7 @@ NewTV频道,#genre#
 
 ㊙｜加密频道_2023,#genre#
 爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?
+
 
 
 
