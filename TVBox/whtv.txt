@@ -17,6 +17,27 @@ CCTV14,https://iptv.catvod.com/live.php?id=CCTV14
 CCTV15,https://iptv.catvod.com/live.php?id=CCTV15
 CCTV16,https://iptv.catvod.com/live.php?id=CCTV16
 CCTV17,https://iptv.catvod.com/live.php?id=CCTV17
+
+CCTV1,http://bxtv.3a.ink/migu.php?id=cctv1
+CCTV2,http://bxtv.3a.ink/migu.php?id=cctv2
+CCTV3,http://bxtv.3a.ink/migu.php?id=cctv3
+CCTV4,http://bxtv.3a.ink/migu.php?id=cctv4
+CCTV5,http://bxtv.3a.ink/migu.php?id=cctv5
+CCTV5+,http://bxtv.3a.ink/migu.php?id=cctv5p
+CCTV6,http://bxtv.3a.ink/migu.php?id=cctv6
+CCTV7,http://bxtv.3a.ink/migu.php?id=cctv7
+CCTV8,http://bxtv.3a.ink/migu.php?id=cctv8
+CCTV9,http://bxtv.3a.ink/migu.php?id=cctv9
+CCTV10,http://bxtv.3a.ink/migu.php?id=cctv10
+CCTV11,http://bxtv.3a.ink/migu.php?id=cctv11
+CCTV12,http://bxtv.3a.ink/migu.php?id=cctv12
+CCTV13,http://bxtv.3a.ink/migu.php?id=cctv13
+CCTV14,http://bxtv.3a.ink/migu.php?id=cctv14
+CCTV15,http://bxtv.3a.ink/migu.php?id=cctv15
+CCTV16,http://bxtv.3a.ink/migu.php?id=cctv16
+CCTV17,http://bxtv.3a.ink/migu.php?id=cctv17
+
+
 CCTV1,http://tv.netlive.ggff.net/cctv1
 CCTV2,http://tv.netlive.ggff.net/cctv2
 CCTV3,http://tv.netlive.ggff.net/cctv3
@@ -1556,6 +1577,7 @@ NewTV频道,#genre#
 
 ㊙｜加密频道_2023,#genre#
 爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?
+
 
 
 
