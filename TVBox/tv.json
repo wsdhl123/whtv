@@ -17,15 +17,19 @@
 {"key":"天涯","name":"🎉天涯采集","type":1,"api":"https://tyyszyapi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":0},
 
 {"key": "天天美剧网","name": "🎉美剧网", "type": 3, "api": "csp_AppYsV2","ext": "https://www.ttmja.com/api.php/app/" },  
-{"key": "XEYS","name": "🌸秀儿影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
+
+ 
+ {"key": "XEYS","name": "🌸秀儿影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
 "ext": {
 "简介": "tt\" style=*>&&</div>",
 "数组": "<a&&module-item-pic",
 "副标题": "module-item-text\">&&</div>",
 "搜索url": "https://xiuer.pro/vod/search/?wd={wd}",
-"分类url": "https://xiuer.pro/show/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}/",
+"分类url": "https://www.xiuer.pro/show/{cateId}/class/{class}/year/{year}/",
 "分类": "短剧$duanju#电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi"
 }},  
+
+ 
 {"key": "XCYS","name": "✨星辰影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
 "ext": {
 "分类url": "https://www.xcys.me/vodshow/{cateId}-{area}--{class}-{lang}---{year}.html",
@@ -333,6 +337,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
