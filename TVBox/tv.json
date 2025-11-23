@@ -20,22 +20,27 @@
 
 
 
-{"key": "XHYS","name": "🎉小红影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
+{"key": "WWYS","name": "🎉旺旺影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
 "ext": {
-"分类url":"https://xiaohys.com/show/{cateId}-----------/",
-"分类": "电影$movie#电视剧$tv#综艺$variety#动漫$anime",
-"数组":"public-list-div public-list-bj&&</div>",
-"标题":"class=\"public-list-button\">*>&&</a>",
-"副标题":"public-list-prb hide ft2\">&&</span>",
-"图片":"data-src=\"&&\"",
-"链接":"href=\"&&\"",
-"跳转播放链接":"src=\"&&\"",
-"播放数组":"anthology-list-play size&&</ul>",
-"播放列表":"<a&&</a>",
-"播放标题":">&&</a>",
-"线路数组":"swiper-slide&&</a>",
-"线路标题":"</i>&&<span",
-"搜索url":"https://xiaohys.com/search/-------------/?wd={wd}"
+
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://www.wwgz.cn/",
+                "二次截取": "resize_list\"&&</ul>",
+                "数组": "<li&&/li>",
+                "标题": "title=\"&&\"",
+                "图片": "src=\"&&\"",
+                "副标题": "<span>&&</em>",
+                "链接": "href=\"&&\"",
+                "播放数组": "class=\"numList\"&&</ul>",
+                "播放列表": "<a&&a>",
+                "播放链接": "href=\"&&\"",
+                "播放标题": ">&&</",
+                "线路数组": "<li><a href=\"javascript:;&&</li>",
+                "线路标题": "\">&&</a>",
+                "分类url": "https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-{class}-year-{year}-letter-{letter}-area-{area}-lang-{lang}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$26",
+                "类型": "动作片$5#喜剧片$6#爱情片$7#科幻片$8#恐怖片$9#剧情片$10#战争片$11#惊悚片$16#奇幻片$17||国产剧#12港台泰#13日韩剧#14欧美剧#15||空||动漫剧#18动漫片#19||空"
 }},
 
  
@@ -337,6 +342,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
