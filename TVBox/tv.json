@@ -36,7 +36,7 @@
 "线路数组":"swiper-slide&&</a>",
 "线路标题":"</i>&&<span",
 "搜索url":"https://xiaohys.com/search/-------------/?wd={wd}"
-}
+}},
 
  
 
@@ -337,6 +337,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
