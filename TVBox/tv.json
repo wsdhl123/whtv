@@ -21,7 +21,7 @@
  
  {"key": "XEYS","name": "🌸秀儿影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
 "ext": {
-"分类url": "https://www.xiuer.pro/show/{cateId}/class/{class}/year/{year}/",
+"分类url": "https://www.xiuer.pro/show/{cateId}/page/{catePg}/",
 "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju"
 }},  
 
@@ -333,6 +333,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
