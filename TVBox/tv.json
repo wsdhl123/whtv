@@ -19,6 +19,28 @@
 {"key": "天天美剧网","name": "🎉美剧网", "type": 3, "api": "csp_AppYsV2","ext": "https://www.ttmja.com/api.php/app/" },  
 
 
+
+{"key": "XHYS","name": "🎉小红影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
+"ext": {
+"分类url":"https://xiaohys.com/show/{cateId}/{{catePg}/",
+"分类": "电影$movie#电视剧$tv#综艺$variety#动漫$anime",
+"数组":"public-list-div public-list-bj&&</div>",
+"标题":"class=\"public-list-button\">*>&&</a>",
+"副标题":"public-list-prb hide ft2\">&&</span>",
+"图片":"data-src=\"&&\"",
+"链接":"href=\"&&\"",
+"跳转播放链接":"src=\"&&\"",
+"播放数组":"anthology-list-play size&&</ul>",
+"播放列表":"<a&&</a>",
+"播放标题":">&&</a>",
+"线路数组":"swiper-slide&&</a>",
+"线路标题":"</i>&&<span",
+"搜索url":"https://xiaohys.com/search/-------------/?wd={wd}"
+}
+
+ 
+
+
 {"key": "YZYS","name": "☀️游子影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
 "ext": {
 "分类url": "https://youzisp.tv/vodshow/{cateId}-{area}--{class}-{lang}-------.html",
@@ -315,6 +337,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
