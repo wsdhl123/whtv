@@ -272,16 +272,16 @@
 "parses": [
 {"name": "聚合1","type": 3,"url": "Demo"},
 {"name": "聚合0","type": 3,"url": "Web" },
-{"name": "hls","type": 0,"url": "https://jx.hls.one/?url="},
-{"name": "77", "type": 0,"url": "https://jx.77flv.cc/?url="},
-{"name": "A6","type": 0, "url": "https://pl.a6club.com/player/analysis.php?v=" },
-{"name": "8090","type": 0,"url": "https://www.8090g.cn/?url="},
-{"name": "M3u8TV","type": 0,"url": "https://jx.m3u8.tv/jiexi/?url="},
-{"name": "CK", "type": 0,"url": "https://www.ckplayer.vip/jiexi/?url="},
-{"name": "qiyi[官源]","type": 1,"url": "http://39.104.230.177:1122/lxjx/myyk.php?url="},
-{"name":"PPFLV","type":0,"url":"https://jx.ppflv.com/?url="},
-{"name": "虾姨","type": 0,"url": "https://jx.xyflv.cc/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺", "奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV", "sohu", "bilibili", "哔哩哔哩","哔哩" ]}},
-{"name": "虾米","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"header": {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
+{"name": "虾米","type": 0,"url": "https://jx.xmflv.com/?url="},
+{"name": "虾米2", "type": 0,"url": "https://jx.xmflv.cc/?url="},
+{"name": "HLS","type": 0, "url": "https://jx.hls.one/?url=" },
+{"name": "DM","type": 0,"url": "https://jx.dmflv.cc/?url="},
+{"name": "77","type": 0,"url": "https://jx.77flv.cc/?url="},
+{"name": "NNXV", "type": 0,"url": "https://jx.nnxv.cn/tv.php?url="},
+{"name": "IK9","type": 0,"url": "https://yparse.ik9.cc/index.php?url="},
+{"name":"NNSV","type":0,"url":"https://jx.nnsvip.cn/?url="},
+{"name": "789","type": 0,"url": "https://jiexi.789jiexi.com/?url="},
+{"name": "2S","type": 0,"url": "https://jx.2s0.cn/player/?url="},
 {"name": "-云解析-","type": 0,"url": "https://jx.yparse.com/index.php?url=","ext": {"header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}}
 ],
 
@@ -354,6 +354,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
