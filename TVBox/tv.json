@@ -25,6 +25,12 @@
 "分类值": "dianying&lianxuju&zongyi&dongman"
 }},
 
+{"key": "87YS","name": "⭕87影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+"ext": {
+"分类url": "http://www.jdks100.com/show/{cateId}-{area}----------{year}.html",
+"分类": "电影&电视剧&综艺&动漫",
+"分类值": "dianying&lianxuju&zongyi&dongman"
+}},
 
 
 
@@ -359,6 +365,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
