@@ -28,7 +28,7 @@
 
 {"key": "111TV","name": "📽️111TV", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
-"分类url": "https://www.111tv.one/vodshow/{cateId}---{class}-{lang}-------{year}.html",
+"分类url":https://www.111tv.one/vodshow/{cateId}--------{catePg}---.html
 "分类": "电影&电视剧&综艺&动漫&短剧&4K电影",
 "分类值": "29&20&38&43&52$51"
 }},
@@ -373,6 +373,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
