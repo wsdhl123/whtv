@@ -37,9 +37,9 @@
 
 {"key": "DBKys","name": "❄️独播库", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
-"分类url": "https://www.dbku.tv/vodshow/{cateId}-{area}--{class}-{lang}-------{year}.html",
+"分类url": "https://www.dbku.tv/vodshow/{cateId}--------{catePg}---.html",
 "分类": "电影&连续剧&综艺&动漫&港剧",
-"分类值": "1&2&3&420"
+"分类值": "1&2&3&4&20"
 }},
 
 
@@ -376,6 +376,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
