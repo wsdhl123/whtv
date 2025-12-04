@@ -25,7 +25,11 @@
 "分类值": "dianying&lianxuju&zongyi&dongman"
 }},
 
-
+{"key": "DSYS","name": "✨毒蛇影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
+"ext": {
+"分类url": "https://www.dushe02.com/show/{cateId}-{class}-{area}-{lang}-{year}-3-1.html",
+"分类":"电影&连续剧&动漫&综艺&短剧","分类值":"1&2&3&4&6"
+}},  
 
 
 {"key": "WGYY","name": "🎬无广影院", "type": 3, "api": "csp_XBPQ", "playerType": "1",
@@ -365,6 +369,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
