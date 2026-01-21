@@ -19,7 +19,7 @@
 
 {"key": "HHKYS","name": "🎬好好看", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
 "ext": {
-"分类url": "https://www.hhkan0.com/show/{cateId}-{class}-{area}-{lang}-{year}-3-1.html",
+"分类url": "https://www.hhkan0.com/channel/{cateId}.html",
 "分类": "电影&连续剧&综艺记录&动漫&短剧",
 "分类值": "1&2&4&3&6"
 }},
@@ -395,6 +395,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
