@@ -25,7 +25,6 @@
 "副标题": "class=\"typeset\"&&</i>",
 "起始页": 2,
 "倒序": 1,
-"播放数组": "下载地址</h2>&&</ul>[不包含:网盘]",
 "播放列表":"<ul>&&</div>[包含:magnet]"
 }},
 
@@ -399,6 +398,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
