@@ -115,14 +115,6 @@
 }},
  
 
-{"key": "csp_mgtva","name": "🥭木瓜影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
-"ext": {
-"分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
-"分类": "电影&电视剧&综艺&动漫",
-"分类值": "dianying&lianxuju&zongyi&dongman"
-}},
-
-
 
 
 {"key": "七味影院","name": "🌺七味影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -172,19 +164,6 @@
 "分类url": "https://www.360aikan.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/year/{year}.html",
 "分类":"电影&连续剧&综艺&动漫","分类值":"1&2&3&4"}},  
 
- 
-
-
-
-{"key":"WDDY","name":"⭕五点电影 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
-"ext":{
-"数组": "",
-"图片": "data-original=\"&&\"",
-"线路数组": "在线播放&&</div>",
-"线路标题": "<span>&&</span>",
-"播放标题":"+>&&</a>",
-"分类url": "https://www.5.movie/vodshow/{cateId}-{area}--{class}-{lang}-------{year}.html ",
-"分类":"电影&剧集&综艺&动漫&短剧","分类值":"20&21&23&22&24"}},   
 
 {"key":"XGZXYS","name":"🍉西瓜在线影视 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
@@ -386,6 +365,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
