@@ -16,7 +16,7 @@
 {"key":"天涯","name":"🎉天涯采集","type":1,"api":"https://tyyszyapi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":0},
 {"key": "小苹果","name": "🍎小苹果","type": 3,"api": "csp_XpgGuard","searchable": 1, "quickSearch": 1, "changeable": 1,"filterable": 1,"timeout": 10,"jar":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/xpg.jar"},
 
-{"key": "drpy_js_优酷","name": "🌈优酷[js]","type": 3,"api": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/lib/drpy2.min.js","ext": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBoxJS/优酷.js"},
+//{"key": "drpy_js_优酷","name": "🌈优酷[js]","type": 3,"api": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/lib/drpy2.min.js","ext": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBoxJS/优酷.js"},
 {"key": "天天美剧网","name": "🎉美剧网", "type": 3, "api": "csp_AppYsV2","ext": "https://www.ttmja.com/api.php/app/" },  
 
 {"key": "csp_mgtva","name": "🐅真狼影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -365,6 +365,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
