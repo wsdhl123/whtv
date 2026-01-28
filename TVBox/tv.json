@@ -16,13 +16,23 @@
 {"key":"天涯","name":"🎉天涯采集","type":1,"api":"https://tyyszyapi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":0},
 {"key": "小苹果","name": "🍎小苹果","type": 3,"api": "csp_XpgGuard","searchable": 1, "quickSearch": 1, "changeable": 1,"filterable": 1,"timeout": 10,"jar":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/xpg.jar"},
 
+
+{"key": "HNYS","name": "🎬海纳影视", "type": 3, "api": "csp_XBPQ", "playerType": "1",
+"ext": {
+"简介": "简介：</em>&&",
+"数组": "row\">&&</div></div>",
+"分类url": "https://www.hainatv.net/index.php/vod/show/area/{area}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+"分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$59"
+}},
+ 
 {"key": "MXYS","name": "📽️茉小影视", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
 "首页": "https://www.moxy.top",
 "分类url": "https://www.moxy.top/show/id/{cateId}/page/{catePg}.html",
-"分类": "电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju",
+"分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$46",
 "图片": "data-src=\"&&\""
 }},
+ 
 {"key": "天天美剧网","name": "🎉美剧网", "type": 3, "api": "csp_AppYsV2","ext": "https://www.ttmja.com/api.php/app/" },  
 
 {"key": "csp_mgtva","name": "🐅真狼影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -371,6 +381,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
