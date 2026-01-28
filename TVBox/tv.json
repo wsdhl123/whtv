@@ -18,7 +18,7 @@
  {
         "key":"爱奇艺弹幕",
         "name":"🦄爱奇艺视频｜追剧",
-        "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
+        //"jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
         "type":3,
         "api":"https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
          "searchable":1,
@@ -29,7 +29,7 @@
          {
          "key":"优酷弹幕",
          "name":"🦄优酷视频｜追剧",
-         "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
+         //"jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
          "type":3,
          "api":"https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
          "searchable":1,
@@ -39,7 +39,7 @@
          },
          {"key":"腾讯弹幕",
          "name":"🦄腾讯视频｜追剧",
-         "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
+        // "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
          "type":3,
          "api":"https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
          "searchable":1,
@@ -50,7 +50,7 @@
          {
          "key":"芒果弹幕",
          "name":"🦄芒果视频｜追剧",
-         "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
+         //"jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
           "type":3,
           "api":"https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
           "searchable":1,
@@ -428,6 +428,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
