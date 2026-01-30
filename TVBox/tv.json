@@ -2,7 +2,7 @@
 "spider": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/pg.jar",
 "wallpaper": "https://深色壁纸.xxooo.cf/",
 "sites": [
-//👨‍💻👌🏰🍑🐅🧣 🌺📢🎉🌙🌟🌸✨🍓🥚🏝🍆🍅🐎🐐 🌩🏭👨‍👩‍👧‍👧🌍🙏🎃🐇🌞⛈️❄️☔🌍🍉🥇☀️👩‍🌾🏔️🔥☁️🍎🧲💃👼🎠💓‍💌⭕🐕🍄🎬💋🍁🎦📽️🚑🎯📀🌤️🥝🐧🥭🍎🕹️🌈
+//👨‍💻👌🏰🍑🐅🧣 🌺📢🎉🌙🌟🌸✨🍓🥚🏝🍆🍅🐎🐐 🌩🏭👨‍👩‍👧‍👧🌍🙏🎃🐇🌞⛈️❄️☔🌍🍉🥇☀️👩‍🌾🏔️🔥☁️🍎🧲💃👼🎠💓‍💌⭕🐕🍄🎬💋🍁🎦📽️🚑🎯📀🌤️🥝🐧🥭🍎🕹️🌈🦄
 {"key": "界影视.py","name": "🎬界影视.py","type": 3,"api": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/界影视.py","searchable": 1,"quickSearch": 1,"filterable": 1, "order_num": 0,"ext": ""},
 {"key": "4K影院.py","name": "🍁4K影院.py","type": 3,"api": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/4K影院.py","searchable": 1,"quickSearch": 1,"filterable": 1, "order_num": 0,"ext": ""},
 {"key": "骚火影视.py","name": "🔥骚火影视.py","type": 3,"api": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/骚火影视.py","searchable": 1,"quickSearch": 1,"filterable": 1, "order_num": 0,"ext": ""},   
@@ -20,8 +20,7 @@
 {"key":"腾讯弹幕","name":"🦄腾讯视频","type":3, "searchable":1,"quickSearch":0,"changeable":1,"api":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/js/drpy2.min.js","ext":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/js/腾讯弹幕.js"},
 {"key":"芒果弹幕","name":"🦄芒果视频", "type":3, "searchable":1,"quickSearch":0,"changeable":1,"api":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/js/drpy2.min.js","ext":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/js/芒果弹幕.js"},    
 {"key": "sgys","name": "🦄搜狗视频", "type": 3, "api": "MJS_sgys", "searchable": 1,"quickSearch": 1,"filterable": 1,"api": "http://www.meowtv.cn/js/drpy2.min.js", "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp"}, 
-       
- 
+
 {"key": "MXYS","name": "📽️茉小影视", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
 "分类url": "https://www.moxy.top/vodshow/{cateId}-{area}----------{year}/",
@@ -380,6 +379,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
