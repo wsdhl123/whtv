@@ -19,7 +19,8 @@
  {"key": "LKYS","name": "🏔️来看影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
 "ext": {
 "分类url": "https://lkvod.com/show/{cateId}-{class}--{area}--------{year}.html",
-"分类": "电影&连续剧&综艺&动漫&短剧",
+"分类": "电影&连续剧&综艺&动漫",
+"图片": "data-src=\"&&\""
 "分类值": "1&2&3&4"
 }},
 
@@ -383,6 +384,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
