@@ -15,7 +15,13 @@
 {"key":"百度","name":"🎏百度采集","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":0},
 {"key":"天涯","name":"🎉天涯采集","type":1,"api":"https://tyyszyapi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":0},
 
+{"key":"csp_SaoHuo","name":"🔥骚火","type":3,"api":"csp_SaoHuo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://saohuody.com"},
+{"key":"csp_FourK","name":"🌋绝对","type":3,"api":"csp_FourK","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.4kvm.me/"},
+{"key":"csp_Qiyou","name":"🦌奇优","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Lkdy","name":"🏔️来看","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lkvod.com"},
 
+
+ 
 {"key": "MXYS","name": "📽️茉小影视", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
 "分类url": "https://www.moxy.top/vodshow/{cateId}-{area}----------{year}/",
@@ -375,6 +381,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
