@@ -170,6 +170,7 @@ CGTN,http://120.24.195.228:3000/609017205
 
 🌏｜网页TV,#genre#
 CCTV1,video://https://v.lib.tju.edu.cn/tv-show-detail/3
+CCTV1,video://https://m.miguvideo.com/m/liveDetail/608807420?channelId=10010001005
 CCTV1,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV2,video://https://vod.cctv.cn/cctv/cctvh5/cctv2/2023/05/cctv2_share/index.html?appkey=0-caijing
 CCTV3,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
@@ -1164,6 +1165,7 @@ NewTV频道,#genre#
 
 ㊙｜加密频道_2023,#genre#
 爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?
+
 
 
 
