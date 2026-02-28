@@ -42,12 +42,7 @@
 }},
 
 
-{"key": "YHYS","name": "📽️一盒影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
-"ext": {
-"分类url": "http://yihn.cc/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/year/{year}.html",
-"分类": "电影&剧集&综艺&动漫&短剧",
-"分类值": "1&2&3&4&20"
-}},
+
  
 
 
@@ -173,10 +168,7 @@
 "分类":"电影&连续剧&综艺记录&动漫","分类值":"1&2&3&4"}},   
 
 
-{"key": "360YS","name": "☀️360影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
-"ext": {
-"分类url": "https://www.360aikan.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/year/{year}.html",
-"分类":"电影&连续剧&综艺&动漫","分类值":"1&2&3&4"}},  
+
 
 
 {"key":"XGZXYS","name":"🍉西瓜在线影视 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
@@ -277,7 +269,7 @@
 {"key":"teng","name":"🐧腾讯","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/231108.jar"},
 {"key":"MGT","name":"🍋芒果","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/231108.jar"},
 {"key":"csp_IQIYI","name": "🥝爱奇艺","type":3,"api":"csp_Itv","quickSearch": 1,"searchable": 1,"filterable": 1,"changeable": 0,"jar":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/231108.jar"},
-{"key":"Aid","name":"🚑急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"jar":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/0620.jar"},
+{"key":"Aid","name":"🚑急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
 
 {"key": "csp_Bili1","name": "🅱️哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
 "ext": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/Bili.json",
@@ -384,6 +376,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
