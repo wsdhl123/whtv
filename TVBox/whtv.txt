@@ -229,7 +229,50 @@ CCTV14,video://http://shuangyashan.coccc.online:65000/tsfile/live/1024_1.m3u8?ke
 魔都眼,video://https://live.kankanews.com/huikan?id=11
 成都新闻综合,video://https://www.cditv.cn/show/4845-563.html
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
-
+🌏｜CADVOD央卫频道,#genre#
+CCTV1,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=cctv1
+CCTV2,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=cctv2
+CCTV3,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=cctv3
+CCTV4,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=Cctv4
+CCTV4,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=cctv4
+CCTV5,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=cctv5
+CCTV5+,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=cctv5plus
+CCTV6,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=cctv6
+CCTV7,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=cctv7
+CCTV8,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=cctv8hd
+CCTV9,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=cctv9hd
+CCTV10,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=cctv10hd
+CCTV11,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=cctv11
+CCTV12,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=cctv12
+CCTV13,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=cctv13
+CCTV14,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=cctv14
+CCTV15,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=cctv15
+湖南卫视,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=hunan_twn
+浙江卫视,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=zhejiang_twn
+江苏卫视,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=jiangsu_twn
+深圳卫视,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=shenzhen
+福建东南卫视,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=fujian
+广东南方卫视,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=nanfang_twn
+广东卫视,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=guangdongweishi_twn
+北京卫视,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=beijing
+珠江台,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=zhujiang
+广西卫视,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=guangxi
+CGTN,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=CGTN
+湖北卫视,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=hubei
+四川卫视,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=sichuan_twn
+东方卫视,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=dongfangweishi_twn
+凤凰卫视,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=phoenixtv_hd
+鳳凰資訊,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=phoenixinfo_hd
+翡翠台,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=jade_twn
+翡翠台,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=jade_xue
+互動新聞台,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=inews_twn
+珍珠台,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=pearl_twn
+凤凰香港,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=hkphoenix_twn
+无线财经资讯台,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=hoycaijing_twn
+TVB Asia,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=Tvbasia
+凤凰卫视,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=phoenixtv_hd
+鳳凰資訊,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=phoenixinfo_hd
+香港TVB,https://live.catvod.com/live.php?token=2701a43e7795b1388be8594f6a04d0e89dfd6cb38f504cc9c0227720f6c42654&id=Tvbentertainment
 
 
 🌏｜河南移动专区,#genre#
@@ -1153,6 +1196,7 @@ NewTV频道,#genre#
 
 ㊙｜加密频道_2023,#genre#
 爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?
+
 
 
 
