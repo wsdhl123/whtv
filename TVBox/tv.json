@@ -24,7 +24,13 @@
 "分类值": "1&2&3&4&36"
 }},
 
-
+{"key": "GPYS","name": "🍉瓜皮影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+"ext": {
+"分类url": "https://www.gpvod.me/vodshow/area/{area}/class/{class}/id/{cateId}/year/{year}.html",
+"分类": "电影&剧集&综艺&动漫&短剧",
+"图片": "data-src=\"&&\"",
+"分类值": "dianying&juji&zongyi&dongman&duanju"
+}},
 
 
  
@@ -374,6 +380,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
