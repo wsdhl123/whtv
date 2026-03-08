@@ -14,14 +14,7 @@
 {"key":"百度","name":"🎏百度采集","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":0},
 {"key":"天涯","name":"🎉天涯采集","type":1,"api":"https://tyyszyapi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":0},
 
- 
- {"key": "6vdyw","name": "🍉6V电影网","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
-"ext": {
-"分类url": "https://www.6vgood.net/{cateId}/",
-"分类":"喜剧片&动作片&爱情片&恐怖片&科幻片&战争片&纪录片&故事片&动画片&国剧&日韩剧&欧美剧&3D电影&综艺",
-"图片": "img src=\"&&\"",
-"分类值":  "dy1&dy2&dy3&dy5&dy6&zzp&jlp&jddy&dy4&dlz&rj5&mj&3d&zy"
-}},
+
 
 {"key": "NGYS","name": "🌈暖光影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
 "ext": {
@@ -377,6 +370,7 @@
 {"name": "bdys","hosts": ["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex": ["/tos-cn"],"exclude": [".m3u8"]},
 {"name": "bdys10","hosts": ["bdys10.com"],"regex": ["/obj/"],"exclude": [".m3u8"]}
 ]}
+
 
 
 
