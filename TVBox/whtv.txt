@@ -26,6 +26,7 @@ CETV1,http://120.238.5.44:1698/hls/47/index.m3u8
 
 
 CCTV5,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/aoyuncctv5_2pd
+CCTV5+,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/aoyuncctv5plus_2pd
 CCTV16,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
 
 
