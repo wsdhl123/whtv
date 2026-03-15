@@ -23,6 +23,13 @@ CHC家庭影院,http://120.238.5.44:1698/hls/69/index.m3u8
 CHC动作电影,http://120.238.5.44:1698/hls/70/index.m3u8
 CETV1,http://120.238.5.44:1698/hls/47/index.m3u8
 
+
+
+CCTV5,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/aoyuncctv5_2pd
+CCTV16,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
+
+
+
 山东卫视,http://120.238.5.44:1698/hls/31/index.m3u8
 湖北卫视,http://120.238.5.44:1698/hls/32/index.m3u8
 辽宁卫视,http://120.238.5.44:1698/hls/33/index.m3u8
