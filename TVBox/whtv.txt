@@ -397,6 +397,8 @@ CGTN英语,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226976/100001
 
 
 🌞 港澳台频道,#genre#
+凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
+凤凰资讯,	https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 美亚电视C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
