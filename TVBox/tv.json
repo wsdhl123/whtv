@@ -25,13 +25,7 @@
 }},
  
  
-{"key": "LKYS","name": "🏔️来看影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
-"ext": {
-"分类url": "https://lkvod.com/show/{cateId}-{class}--{area}--------{year}.html",
-"分类": "电影&连续剧&综艺&动漫",
-"图片": "data-src=\"&&\"",
-"分类值": "1&2&3&4"
-}},
+
 
  
 {"key": "MXYS","name": "📽️茉小影视", "type": 3, "api": "csp_XBPQ", "playerType": "1",
@@ -107,22 +101,6 @@
  
 
 
-{"key": "YZYS","name": "☀️游子影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
-"ext": {
-"分类url": "https://youzisp.tv/vodshow/{cateId}-{area}--{class}-{lang}-------.html",
-"分类":"电影&电视剧&综艺&动漫","分类值":"dianying&dianshiju&zongyi&dongman"}},  
- 
-
-{"key": "NKYS","name": "✨耐看影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
-"ext": {
-"图片": "data-src=\"&&\"",
-"分类url": "https://nkvod.org/show/{cateId}-{area}--{class}--------{year}.html",
-"分类": "电影&连续剧&综艺&动漫",
-"分类值": "1&2&3&4"
-}},
- 
-
-
 
 {"key": "七味影院","name": "🌺七味影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
 "ext": {
@@ -195,17 +173,7 @@
 "分类url": " https://www.zhimatv.cc/show/{cateId}/area/{area}/lang/{lang}/year/{year}/ ",
 "分类":"电影&电视剧&动漫","分类值":"2&1&3"}}, 
 
-    
-
-{"key": "面包","name": "🎁面包", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,
-"ext": {
-"请求头": "User-Agent$MOBILE_UA",
-"编码": "UTF-8",
-"分类url": "https://v.aiwule.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-"分类": "电影$20#电视剧$21#动漫$23#综艺$22#短剧$47",
-"简介": "简介：&&"
-}},
-
+ 
   
 {"key":"2GBT","name":"   👬二个BT","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2",	"api": "csp_XBPQ",
 "ext":{
@@ -251,7 +219,7 @@
 
 {"key":"厂长资源影视","name":"  🌴厂长资源影视","type":3,"api":"csp_XBPQ",
 "ext":{
-"分类url": "https://www.czzymovie.com/{cateId}/page/{catePg};;aks2",
+"分类url": "https://www.czzy89.com/{cateId}/page/{catePg};;aks2",
 "分类": "豆瓣Top250&最新电影&剧场版&国产剧&美剧&韩剧&番剧",
 "分类值": "dbtop250&zuixindianying&dongmanjuchangban&gcj&meijutt&hanjutv&fanju",
 "线路数组": "data-dropdown-value=&&</div>",
