@@ -13,7 +13,24 @@
 {"key":"百度","name":"🎏百度采集","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":0},
 {"key":"天涯","name":"🎉天涯采集","type":1,"api":"https://tyyszyapi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":0},
 
+{"key": "cbhys","name": "🏔️茶杯狐", "type": 3, "api": "csp_XBPQ", "playerType": "1",
+"ext": {
+"分类url": "https://www.cupfox2025.com/movie/fenlei{cateId}.html;;m",
+"分类": "电影&电视剧&综艺&动漫&短剧",
+"分类值": "1&2&3&4&5"
+}},
 
+
+
+{"key":"厂长资源影视","name":"  🌴厂长资源影视","type":3,"api":"csp_XBPQ",
+"ext":{
+"分类url": "https://www.czzy89.com/{cateId}/page/{catePg};;aks2",
+"分类": "豆瓣Top250&最新电影&剧场版&国产剧&美剧&韩剧&番剧",
+"分类值": "dbtop250&zuixindianying&dongmanjuchangban&gcj&meijutt&hanjutv&fanju",
+"线路数组": "data-dropdown-value=&&</div>",
+"线路标题":"💦+>&&<small+线+<small*>&&<+路",
+"播放数组": "<div class=\"paly_list_btn\">&&</div>",  
+"播放标题":"+>&&</a>"}},
 
 {"key": "NGYS","name": "🌈暖光影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
 "ext": {
@@ -207,24 +224,7 @@
 
 
     
-{"key": "cbhys","name": "🏔️茶杯狐", "type": 3, "api": "csp_XBPQ", "playerType": "1",
-"ext": {
-"分类url": "https://www.cupfox2025.com/movie/fenlei{cateId}.html;;m",
-"分类": "电影&电视剧&综艺&动漫&短剧",
-"分类值": "1&2&3&4&5"
-}},
 
-
-
-{"key":"厂长资源影视","name":"  🌴厂长资源影视","type":3,"api":"csp_XBPQ",
-"ext":{
-"分类url": "https://www.czzy89.com/{cateId}/page/{catePg};;aks2",
-"分类": "豆瓣Top250&最新电影&剧场版&国产剧&美剧&韩剧&番剧",
-"分类值": "dbtop250&zuixindianying&dongmanjuchangban&gcj&meijutt&hanjutv&fanju",
-"线路数组": "data-dropdown-value=&&</div>",
-"线路标题":"💦+>&&<small+线+<small*>&&<+路",
-"播放数组": "<div class=\"paly_list_btn\">&&</div>",  
-"播放标题":"+>&&</a>"}},
 
 
 
