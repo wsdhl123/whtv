@@ -20,7 +20,12 @@
 "分类值": "1&2&3&4&5"
 }},
 
-
+{"key": "PPTV","name": "🎬PPTV", "type": 3, "api": "csp_XBPQ", "playerType": "1",
+"ext": {
+"分类url": "https://{cateId}.pptv.com/",
+"分类": "电影&电视剧&综艺&动漫&少儿",
+"分类值": "movie&tv&zongyi&zongyi&kid"
+}},
 
 {"key":"厂长资源影视","name":"  🌴厂长资源影视","type":3,"api":"csp_XBPQ",
 "ext":{
