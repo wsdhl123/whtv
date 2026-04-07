@@ -20,12 +20,7 @@
 "分类值": "1&2&3&4&5"
 }},
 
-{"key": "PPTV","name": "🎬PPTV", "type": 3, "api": "csp_XBPQ", "playerType": "1",
-"ext": {
-"分类url": "https://{cateId}.pptv.com/",
-"分类": "电影&电视剧&综艺&动漫&少儿",
-"分类值": "movie&tv&zongyi&zongyi&kid"
-}},
+
 
 {"key":"厂长资源影视","name":"  🌴厂长资源影视","type":3,"api":"csp_XBPQ",
 "ext":{
@@ -234,7 +229,7 @@
 
 
 
-
+{"key":"csp_SPpptv","name": "🎬pptv","type": 3,"api": "csp_pptv","jar":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/231108.jar"},
 
 {"key":"csp_SP360","name": "💘360","type": 3,"api": "csp_SP33","jar":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/231108.jar"},
 {"key":"teng","name":"🐧腾讯","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/231108.jar"},
