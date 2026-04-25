@@ -24,6 +24,13 @@
 }},
 
 
+{"key": "zbnhfl","name": "⚡zbnhfl影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+"ext": {
+"分类url": "https://zbnhfl.com/zbn-tvcat/{cateId}-c{class}-a{area}-y{year}-p{catePg}-o1.html",
+"分类": "电影&电视剧&综艺&动漫&短剧",
+"图片": "data-original=\"&&\"",
+"分类值": "1&2&4&3&42"
+}},
  
 {"key": "cbhys","name": "🏔️茶杯狐", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
