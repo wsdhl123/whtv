@@ -65,8 +65,8 @@
  
 {"key": "LTYS","name": "🐇乐兔影视", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
- "分类url": "https://www.letu.me/vodtype/{cateId}.html",
-"分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5",
+ "分类url": "https://www.letu.me/vodshow/{cateId}-----------.html",
+"分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$5",
 "图片": "data-original==\"&&\""
 }},
  
