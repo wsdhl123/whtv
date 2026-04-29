@@ -192,14 +192,7 @@
 "分类url": "https://www.wicechi.com/ccshow/{cateId}-{area}----------{year}.html",
 "分类":"电影&电视剧&综艺&动漫&短剧","分类值":"1&2&3&4&5"}},   
 
-{"key":"ZMYY","name":"🎯芝麻影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
-"ext":{
-"数组": "",
-"线路数组": "在线播放&&</div>",
-"线路标题": "<span>&&</span>",
-"播放标题":"+>&&</a>",
-"分类url": " https://www.zhimatv.cc/show/{cateId}/area/{area}/lang/{lang}/year/{year}/ ",
-"分类":"电影&电视剧&动漫","分类值":"2&1&3"}}, 
+
 
  
   
@@ -211,7 +204,7 @@
 "播放数组": "<div class=\"paly_list_btn\">&&</div>",
 "播放标题":"+>&&</a>",
 "分类url": "https://www.bttwo.me/{cateId}/page/{catePg}",
-"分类": "最新电影$new-movie#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv" }},
+"分类": "电影$movie#电视剧$tv" }},
 
 
 {"key":"DYGC","name":"     🧣电影工厂","type":3,"api":"csp_XBPQ",
