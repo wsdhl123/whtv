@@ -63,11 +63,11 @@
 
 
  
-{"key": "MXYS","name": "📽️茉小影视", "type": 3, "api": "csp_XBPQ", "playerType": "1",
+{"key": "LTYS","name": "🐇乐兔影视", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
-"分类url": "https://www.moxy.top/vodshow/{cateId}-{area}----------{year}/",
-"分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$46",
-"图片": "data-src=\"&&\""
+ "分类url": "https://www.letu.me/vodshow/{cateId}-{area}--{class}-{lang}-------{year}.html",
+"分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5",
+"图片": "data-original==\"&&\""
 }},
  
 {"key": "天天美剧网","name": "🎉美剧网", "type": 3, "api": "csp_AppYsV2","ext": "https://www.ttmja.com/api.php/app/" },  
