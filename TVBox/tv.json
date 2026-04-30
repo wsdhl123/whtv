@@ -38,7 +38,7 @@
 "ext": {
 "分类url": "https://ffcin.cc/list/{cateId}-{class}-{area}-{year}--.html",
 "分类": "电影&剧集",
-"播放数组": "<div class=\"a-con-inner\">&&</div>",  
+"播放数组": "<div class=\"menu-ul animate__animated animate__fadeIn\">&&</div>",  
 "图片": "data-src=\"&&\"",
 "分类值": "21&20"
 }}, 
