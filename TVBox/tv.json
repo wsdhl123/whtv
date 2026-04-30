@@ -34,7 +34,13 @@
 }},
 
 
- 
+{"key": "PHYS","name": "🎬飘花影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+"ext": {
+"分类url": "https://ffcin.cc/list/{cateId}-{class}-{area}-{year}--.html",
+"分类": "电影&剧集",
+"图片": "data-src=\"&&\"",
+"分类值": "21&20"
+}}, 
  
 {"key": "cbhys","name": "🏔️茶杯狐", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
