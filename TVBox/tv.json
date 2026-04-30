@@ -38,6 +38,7 @@
 "ext": {
 "分类url": "https://ffcin.cc/list/{cateId}-{class}-{area}-{year}--.html",
 "分类": "电影&剧集",
+"播放数组": "<div class=\"jisu\">&&</div>",  
 "图片": "data-src=\"&&\"",
 "分类值": "21&20"
 }}, 
