@@ -24,6 +24,17 @@
 }},
 
 
+
+{"key": "PBYS","name": "🎬片吧影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+"ext": {
+"分类url": "https://www.pianbax.com/class/{cateId}-{area}---{lang}-------{year}.html",
+"分类": "电影&电视剧&综艺&动漫",
+"图片": "data-original=\"&&\"",
+"分类值": "1&2&4&3"
+}},
+
+
+ 
  
 {"key": "cbhys","name": "🏔️茶杯狐", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
