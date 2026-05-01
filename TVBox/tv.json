@@ -24,7 +24,7 @@
 }},
 {"key": "JPYY","name": "🥇金牌影院", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
-"分类url": "https://mnnyy.com/vod/show/id/{cateId}/class/{class}/area/{area}/year/{year}",
+"分类url": "https://mnnyy.com/type/{cateId}",
 "分类": "电影&电视剧&综艺&动漫",
 "分类值": "1&2&3&4"
 }},
