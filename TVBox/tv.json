@@ -24,8 +24,13 @@
 }},
 
 
-{"key": "1NTYY","name": "🎉新影院", "type": 3, "api": "csp_AppYsV2","ext": "https://www.lattespirit.com/" },  
-
+{"key": "MKYS","name": "🍁秒看影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+"ext": {
+"分类url": "https://miaokan8.cc/mk-kan/{cateId}-{area}--{class}-{lang}-------{year}/",
+"分类": "电影&连续剧&综艺&动漫&短剧",
+"图片": "data-original=\"&&\"",
+"分类值": "dianying&lianxuju&zongyi&dongman&duanju"
+}},
  
 
 {"key": "PBYS","name": "🎬片吧影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
