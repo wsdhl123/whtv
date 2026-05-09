@@ -217,7 +217,7 @@
 {"key": "MTYY","name": "🎬麦田影院", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
 "图片": "data-src=\"&&\"",
-"分类url": "https://mtyy2.com/vodshow/{cateId}-{area}--{class}-{lang}-------{year}.html",
+"分类url": "https://mtyy1.com/vodshow/{cateId}-{area}--{class}-{lang}-------{year}.html",
 "分类": "电影&电视剧&综艺&动漫&短剧",
 "分类值": "1&2&3&4&26"
 }},
