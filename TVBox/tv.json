@@ -60,7 +60,7 @@
 
 {"key":"厂长资源影视","name":"  🌴厂长资源影视","type":3,"api":"csp_XBPQ",
 "ext":{
-"分类url": "https://www.czzy89.com/{cateId}/page/{catePg};;aks2",
+"分类url": "https://czzyv.com/{cateId}/page/{catePg};;aks2",
 "分类": "豆瓣Top250&最新电影&剧场版&国产剧&美剧&韩剧&番剧",
 "分类值": "dbtop250&zuixindianying&dongmanjuchangban&gcj&meijutt&hanjutv&fanju",
 "线路数组": "data-dropdown-value=&&</div>",
