@@ -23,6 +23,15 @@
 "分类值": "1&2&3&4&5"
 }},
 
+{"key": "ZMYY","name": "🎉芝麻影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+"ext": {
+"分类url": "http://www.zhimatv.com/zmt/{cateId}.html",
+"分类": "电影&电视剧&综艺&动漫&短剧",
+"图片": "data-original=\"&&\"",
+"分类值": "1&2&3&4&27"
+}},
+
+ 
 
 {"key": "PBYS","name": "🎬片吧影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
 "ext": {
