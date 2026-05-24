@@ -24,6 +24,17 @@
 }},
 
 
+{"key": "AUETEYS","name": "⚡AUETE影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+"ext": {
+"分类url": "https://auete.com/{cateId}/index{catePg}.html",
+"分类": "电影&电视剧&综艺&动漫&其他",
+"图片": "img src=\"&&\"",
+"分类值": "Movie&Tv&Zy&Dm&qita"
+}},
+
+
+
+ 
 {"key": "MKYS","name": "🍁秒看影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
 "ext": {
 "分类url": "https://miaokan8.cc/mk-kan/{cateId}-{area}--{class}-{lang}-------{year}/",
