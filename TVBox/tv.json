@@ -15,7 +15,7 @@
 {"key":"天涯","name":"🎉天涯采集","type":1,"api":"https://tyyszyapi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":0},
 
 
-{"key": "SDYS","name": "⚡闪电影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+{"key": "SDYS","name": "🦋闪电影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
 "ext": {
 "分类url": "https://www.zsbodi.com/sdshow/{cateId}-{area}--{class}-{lang}-------{year}.html",
 "分类": "电影&电视剧&综艺&动漫&短剧",
