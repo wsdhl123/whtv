@@ -28,6 +28,8 @@
 "ext": {
 "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/type/{catePg}/class/{class}/area/{area}/year/{year}/lang/{lang}",
 "分类": "电影&电视剧&综艺&动漫&短剧",
+"图片": "content=\"&&\"",
+"播放数组": "<div class=\"paly_list_btn\">&&</div>", 
 "分类值": "1&2&3&4&88"
 }},
  
