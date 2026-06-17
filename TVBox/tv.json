@@ -4,7 +4,7 @@
 "sites": [
 //👨‍💻👌🏰🍑🐅🧣 🌺📢🎉🌙🌟🌸✨🍓🥚🏝🍆🍅🐎🐐 🌩🏭👨‍👩‍👧‍👧🌍🙏🎃🐇🌞⛈️❄️☔🌍🍉🥇☀️👩‍🌾🏔️🔥☁️🍎🧲💃👼🎠💓‍💌⭕🐕🍄🎬💋🍁🎦📽️🚑🎯📀🌤️🥝🐧🥭🍎🕹️🌈🦄🦋😹🐟📚🐮🌋⚡
 
-{"key": "界影视.py","name": "🎬界影视.py","type": 3,"api": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/界影视.py","searchable": 1,"quickSearch": 1,"filterable": 1, "order_num": 0,"ext": ""},
+
 {"key": "骚火影视.py","name": "🔥骚火影视.py","type": 3,"api": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/骚火影视.py","searchable": 1,"quickSearch": 1,"filterable": 1, "order_num": 0,"ext": ""},   
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.auete.com/"},
 {"key": "cctv","name": "🏠央视大全","type": 1,"api": "http://zhangqun1818.serv00.net/cctv.php", "style": { "type": "rect", "ratio": 1.33},"changeable": 1},	
@@ -23,6 +23,14 @@
 "分类值": "1&2&3&4&5"
 }},
 
+
+{"key": "JYS","name": "🎬界影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+"ext": {
+"分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/type/{catePg}/class/{class}/area/{area}/year/{year}/lang/{lang}",
+"分类": "电影&电视剧&综艺&动漫&短剧",
+"分类值": "1&2&3&4&88"
+}},
+ 
 
 {"key": "AUETEYS","name": "⚡AUETE影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
 "ext": {
