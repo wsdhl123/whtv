@@ -97,13 +97,7 @@
 "播放数组": "<div class=\"paly_list_btn\">&&</div>",  
 "播放标题":"+>&&</a>"}},
 
-{"key": "NGYS","name": "🌈暖光影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
-"ext": {
-"分类url": "https://www.tvme.xyz/search.php?searchtype=5&tid={cateId}&jq={class}&area={area}&year={year}&yuyan={lang}",
-"分类": "电影&剧集&综艺&动漫&短剧",
-"图片": "data-original=\"&&\"",
-"分类值": "1&2&3&4&36"
-}},
+
  
  
 
