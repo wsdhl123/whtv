@@ -24,7 +24,12 @@
 }},
 
 
-{"key": "裤佬央视PY","name": "👖央视丨PY", "type": 3,"api": "https://mpimg.cn/down.php/2dfd46b7b542f1f4ac34e0af4ec5549b.py", "searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": ""},
+ {
+      "name": "央卫视直播",
+      "type": 0,
+      "url": "http://43.251.226.110:9991/1dek6c",
+      "playerType": 2
+    },
  
 
 {"key": "AUETEYS","name": "⚡AUETE影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
