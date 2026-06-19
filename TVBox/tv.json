@@ -44,12 +44,11 @@
 
 
  
-{"key": "MKYS","name": "🍁秒看影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+{"key": "jzYS","name": "🍁橘子影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
 "ext": {
-"分类url": "https://miaokan8.cc/mk-kan/{cateId}-{area}--{class}-{lang}-------{year}/",
-"分类": "电影&连续剧&综艺&动漫&短剧",
-"图片": "data-original=\"&&\"",
-"分类值": "dianying&lianxuju&zongyi&dongman&duanju"
+ "分类url": "https://www.cqxushuo.com/mbyisw/{cateId}-{area}---{class}--------{year}.html",
+"分类": "电影&电视剧&综艺&动漫&短剧",
+"分类值": "1&2&3&4&5"
 }},
  
 
