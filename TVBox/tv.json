@@ -140,6 +140,7 @@
 
 {"key": "YBTVB","name": "☁️TVB云播",	"type": 3,	"api": "csp_XBPQ",
 "ext": {
+ "图片": "scr=\"&&\"",
 "分类url": "https://www.tvb33.com/vodshow/{cateId}-{area}--{class}-{lang}-------{year}.html",
 "分类": "电影$1#剧集$2#综艺$3#动漫$4短剧$6"
 }},
