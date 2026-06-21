@@ -98,21 +98,7 @@
 "播放标题":"+>&&</a>"}},
 
 
- 
- 
-
-
- 
 {"key": "天天美剧网","name": "🎉美剧网", "type": 3, "api": "csp_AppYsV2","ext": "https://www.ttmja.com/api.php/app/" },  
-
-{"key": "csp_mgtva","name": "🐅真狼影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
-"ext": {
-"分类url": "https://www.zhenlang.cc/vodshow/{cateId}-{area}--{class}-{lang}-------{year}.html",
-"分类": "电影&连续剧&综艺&动漫",
-"分类值": "dianying&lianxuju&zongyi&dongman"
-}},
-
-
 
 
 {"key": "DBKys","name": "❄️独播库", "type": 3, "api": "csp_XBPQ", "playerType": "1",
@@ -123,13 +109,6 @@
 "图片": "data-original=\"&&\"",
 "分类值": "1&2&3&4&20"
 }},
-
-
- 
-
-
-
- 
 
  
 {"key": "XCYS","name": "✨星辰影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
@@ -146,9 +125,6 @@
 }},
 
  
-
-
-
 {"key": "七味影院","name": "🌺七味影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
 "ext": {
 "请求头": "User-Agent$MOBILE_UA",
