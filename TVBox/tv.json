@@ -110,8 +110,8 @@
  
 {"key": "XCYS","name": "✨星辰影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
 "ext": {
-"分类url": "https://www.ykyingtai.com/vodshow/{cateId}-{area}--{class}-{lang}---{year}.html",
-"分类":"电影&电视剧&短剧&综艺&动漫","分类值":"1&2&3&4&5"
+"分类url": "https://www.ykyingtai.com/vodtype/{cateId}.html",
+"分类":"电影&电视剧&短剧&综艺&动漫","分类值":"1&2&5&3&4"
 }},  
 
 {"key": "YBTVB","name": "☁️TVB云播",	"type": 3,	"api": "csp_XBPQ",
