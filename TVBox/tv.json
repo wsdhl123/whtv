@@ -91,7 +91,11 @@
 "播放标题":"+>&&</a>"}},
 
 
-{"key": "天天美剧网","name": "🎉美剧网", "type": 3, "api": "csp_AppYsV2","ext": "https://www.minhsj.com/" },  
+{"key": "MJYS","name": "🎉美剧网", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
+"ext": {
+"分类url": "https://www.minhsj.com/I/{cateId}.html",
+"分类":"最新美剧&美剧电影&美剧综艺&美剧动漫","分类值":"1&2&3&4"
+}},  
 
 
 {"key": "DBKys","name": "❄️独播库", "type": 3, "api": "csp_XBPQ", "playerType": "1",
