@@ -61,13 +61,6 @@
 }},
 
 
-{"key": "68YY","name": "❄️68影院", "type": 3, "api": "csp_XBPQ", "playerType": "1",
-"ext": {
-"分类url": "https://www.0668tv.com/vod-type-id-{cateId}-{catePg}.html;;m",
-"图片": "data-original=\"&&\"",
-"分类": "电影&剧集&综艺&动漫",
-"分类值": "1&2&3&4"
-}},
 
  
  
@@ -98,7 +91,7 @@
 "播放标题":"+>&&</a>"}},
 
 
-{"key": "天天美剧网","name": "🎉美剧网", "type": 3, "api": "csp_AppYsV2","ext": "https://www.ttmja.com/api.php/app/" },  
+{"key": "天天美剧网","name": "🎉美剧网", "type": 3, "api": "csp_AppYsV2","ext": "https://www.minhsj.com/" },  
 
 
 {"key": "DBKys","name": "❄️独播库", "type": 3, "api": "csp_XBPQ", "playerType": "1",
