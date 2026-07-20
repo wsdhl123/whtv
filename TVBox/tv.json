@@ -14,8 +14,6 @@
 {"key":"百度","name":"🎏百度采集","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":0},
 {"key":"天涯","name":"🎉天涯采集","type":1,"api":"https://tyyszyapi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":0},
 
-
-}},
  
 
 {"key": "SDYS","name": "🦋闪电影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
