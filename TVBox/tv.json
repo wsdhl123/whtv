@@ -24,7 +24,7 @@
             "api": "csp_XBPQ",
             "playFrom": ["csp"],
             "ext": "https://www.hkybqufgh.com/"
-   }},
+   },
 {"key": "JYS","name": "📽️界影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
 "ext": {
 "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/area{area}/lang/{lang}/year/{year}/class/{class}",
