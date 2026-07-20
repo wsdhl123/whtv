@@ -18,11 +18,7 @@
 "ext": {
 "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/area{area}/lang/{lang}/year/{year}/class/{class}",
 "分类": "电影&电视剧&综艺&动漫&短剧",
-"播放列表": "<a&&/a>",
-"列表二次截取": "",
-"播放列表": "<a&&/a>",
-"播放标题": ">&&<",
-"播放链接": "href=\"&&\"",
+"图片": "data-original=\"&&\"",
 "分类值": "1&2&3&4&88"
 }},
  
