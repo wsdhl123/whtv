@@ -10,8 +10,8 @@
 
 {"key":"VS影视","name":"🍩VS影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":{
- "分类url":"https://t.xy-zg.com/type/{cateId}-{catePg}.html;;mrc",
-"分类":"电影&剧集&综艺&动漫&短剧",
+ "分类url":"https://tv.xy-zg.com/type/{cateId}-{catePg}.html",
+"分类":"电影&电视剧&综艺&动漫&短剧",
 "分类值":"1&2&3&4&25", 
 "播放数组":"<ul class=\"playlistlink&&</ul>"
 }},
