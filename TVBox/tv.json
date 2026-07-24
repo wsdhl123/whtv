@@ -7,7 +7,14 @@
 
 {"key": "骚火影视.py","name": "🔥骚火影视.py","type": 3,"api": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/骚火影视.py","searchable": 1,"quickSearch": 1,"filterable": 1, "order_num": 0,"ext": ""},   
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.auete.com/"},
-
+ 
+{"key": "SDYS","name": "🦋猪猪影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+"ext": {
+"分类url": "https://www.xiyilou.com/zhuzhu/{cateId}.html",
+"分类": "电影&电视剧&综艺&动漫",
+"图片": "data-src=\"&&\"",
+"分类值": "1&2&3&4"
+}},
  
 {"key": "2345TV","name": "🎉2345TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
 "ext": {
