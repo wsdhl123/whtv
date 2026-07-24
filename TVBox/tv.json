@@ -48,6 +48,14 @@
 "分类值": "1&2&3&4&5"
 }}, 
 
+{"key":"JSYS","name":"     🍅极速影视","type":3,"api":"csp_XBPQ",
+"ext":{
+"线路标题": "<span>&&</span>",
+"线路数组": "data-dropdown-value=&&</div>",
+"播放标题":"+>&&</a>",
+"分类url":"https://www.1qik.com/jisusw/{cateId}-{area}--{class}-{lang}-------{year}.html",
+"分类":"电影&电剧集&综艺&动漫&短剧","分类值":"1&2&3&4&5"}}, 
+
 {"key": "SDYS","name": "🦋闪电影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
 "ext": {
 "分类url": "https://www.zsbodi.com/sdshow/{cateId}-{area}--{class}-{lang}-------{year}.html",
