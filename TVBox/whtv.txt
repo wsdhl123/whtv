@@ -149,7 +149,7 @@ CCTV8K,http://43.156.8.127:5050/ysp?id=2026774101&pid=600156816&q=fhd
 
 🌏｜网页TV,#genre#
 CCTV1,video://https://yangshipin.cn/tv/home?pid=600001859
-CCTV1,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
+CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
 CCTV2,video://https://vod.cctv.cn/cctv/cctvh5/cctv2/2023/05/cctv2_share/index.html?appkey=0-caijing
 CCTV3,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
 CCTV5,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
