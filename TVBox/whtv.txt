@@ -148,7 +148,7 @@ CCTV8K,http://43.156.8.127:5050/ysp?id=2026774101&pid=600156816&q=fhd
 
 
 🌏｜网页TV,#genre#
-CCTV1,video://https://v.lib.tju.edu.cn/tv-show-detail/3
+CCTV1,video://https://yangshipin.cn/tv/home?pid=600001859
 CCTV1,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV2,video://https://vod.cctv.cn/cctv/cctvh5/cctv2/2023/05/cctv2_share/index.html?appkey=0-caijing
 CCTV3,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
