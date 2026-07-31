@@ -3,25 +3,17 @@
 "wallpaper": "https://qist.cc/api/api.php",
 "sites": [
 //👨‍💻👌🏰🍑🐅🧣 🌺📢🎉🌙🌟🌸✨🍓🥚🏝🍆🍅🐎🐐 🌩🏭👨‍👩‍👧‍👧🌍🙏🎃🐇🌞⛈️❄️☔🌍🍉🥇☀️👩‍🌾🏔️🔥☁️🍎🧲💃👼🎠💓‍💌⭕🐕🍄🎬💋🍁🎦📽️🚑🎯📀🌤️🥝🐧🥭🍎🕹️🌈🦄🦋😹🐟📚🐮🌋⚡
-{
-      "key": "苹果",
-      "name": "🍎小苹果",
-      "type": 3,
-      "api": "csp_AppDrama",
+ {
+      "key": "爱瓜TV",
+      "name": "爱瓜TV",
+      "type": 4,
+      "api": "https://zhangqun1818.serv00.net/aigua1.php",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "小苹果",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-        "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.juechufsh.android.xpg1",
-        "host": "",
-        "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
-        "version": "1.0.0.3",
-        "decrypt": "0"
-      }
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
     },
 
 {"key": "骚火影视.py","name": "🔥骚火影视.py","type": 3,"api": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/骚火影视.py","searchable": 1,"quickSearch": 1,"filterable": 1, "order_num": 0,"ext": ""},   
