@@ -3,17 +3,54 @@
 "wallpaper": "https://qist.cc/api/api.php",
 "sites": [
 //👨‍💻👌🏰🍑🐅🧣 🌺📢🎉🌙🌟🌸✨🍓🥚🏝🍆🍅🐎🐐 🌩🏭👨‍👩‍👧‍👧🌍🙏🎃🐇🌞⛈️❄️☔🌍🍉🥇☀️👩‍🌾🏔️🔥☁️🍎🧲💃👼🎠💓‍💌⭕🐕🍄🎬💋🍁🎦📽️🚑🎯📀🌤️🥝🐧🥭🍎🕹️🌈🦄🦋😹🐟📚🐮🌋⚡
- {
-      "key": "爱瓜TV",
-      "name": "爱瓜TV",
-      "type": 4,
-      "api": "https://zhangqun1818.serv00.net/aigua1.php",
+{
+      "key": "农民影视",
+      "name": "💡农民｜影视",
+      "type": 3,
+      "api": "csp_Wwys",
+      "ext": "https://vip.wwgz.cn:5200"
+    },
+    {
+      "key": "大鹅",
+      "name": "💡大鹅┃影视",
+      "type": 3,
+      "api": "csp_App3Q",
+      "ext": "https://asd123sx23xdacsx.top"
+    },
+    {
+      "key": "三六零",
+      "name": "💡三六｜视频",
+      "type": 3,
+      "api": "csp_SP360"
+    },
+   
+    {
+      "key": "爱看机器人",
+      "name": "💡爱看｜影视",
+      "type": 3,
+      "api": "csp_Ikanbot",
       "searchable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "changeable": 1
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "1905",
+      "name": "💡1905｜影视",
+      "type": 3,
+      "api": "csp_Web1905",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "移动",
+      "name": "💡移动｜影视",
+      "type": 3,
+      "api": "csp_Yidong4K",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 60
     },
 
 {"key": "骚火影视.py","name": "🔥骚火影视.py","type": 3,"api": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/骚火影视.py","searchable": 1,"quickSearch": 1,"filterable": 1, "order_num": 0,"ext": ""},   
