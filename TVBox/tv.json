@@ -5,9 +5,9 @@
 //👨‍💻👌🏰🍑🐅🧣 🌺📢🎉🌙🌟🌸✨🍓🥚🏝🍆🍅🐎🐐 🌩🏭👨‍👩‍👧‍👧🌍🙏🎃🐇🌞⛈️❄️☔🌍🍉🥇☀️👩‍🌾🏔️🔥☁️🍎🧲💃👼🎠💓‍💌⭕🐕🍄🎬💋🍁🎦📽️🚑🎯📀🌤️🥝🐧🥭🍎🕹️🌈🦄🦋😹🐟📚🐮🌋⚡
 {"key": "wwYS","name": "😹旺旺影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
 "ext": {
-"分类url": "https://vip.wwgz.cn:5200/vod-list-id-{cateId}-pg-{catePg}-order--by--class-{class}-year-{year}-letter--area-{area}-lang-.html",
+"分类url": "https://vip.wwgz.cn:5200/vod-type-id-{cateId}-pg-{catePg}.html",
 "分类": "电影&连续剧&综艺&动漫",
-//"图片": "data-src=\"&&\"",
+"图片": "src=\"&&\"",
 "分类值": "1&2&3&4"
 }},
    
