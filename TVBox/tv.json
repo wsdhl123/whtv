@@ -107,7 +107,10 @@
 "分类值": "1&2&4&3"
 }},
 
-
+{ "key": "CZZY","name": "🌈厂长资源",
+"type": 3,"api": "csp_DouDouGuard","indexs": 1, "searchable": 0,"quickSearch": 0,"changeable": 0,
+"jar":"https://zl.wpscdn.cn/2026/08/01/space_img/6fe91409-8419-4c89-8745-f221ba12ed1d.jpg;md5;35002041650f308fab31cdda04a60637""
+},
 
  
  
