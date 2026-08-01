@@ -136,7 +136,7 @@
 "分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
 }},
 
-{"key":"厂长资源影视","name":"  🌴厂长资源影视","type":3,"api":"csp_XBPQ",
+{"key":"厂长资源影视","name":"  🌴厂长资源影视","type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
 "ext":{
 "分类url": "https://czzy.top/{cateId}/page/{catePg}",
 "分类": "豆瓣Top250&最新电影&剧场版&国产剧&美剧&韩剧&番剧",
