@@ -3,16 +3,7 @@
 "wallpaper": "https://qist.cc/api/api.php",
 "sites": [
 //👨‍💻👌🏰🍑🐅🧣 🌺📢🎉🌙🌟🌸✨🍓🥚🏝🍆🍅🐎🐐 🌩🏭👨‍👩‍👧‍👧🌍🙏🎃🐇🌞⛈️❄️☔🌍🍉🥇☀️👩‍🌾🏔️🔥☁️🍎🧲💃👼🎠💓‍💌⭕🐕🍄🎬💋🍁🎦📽️🚑🎯📀🌤️🥝🐧🥭🍎🕹️🌈🦄🦋😹🐟📚🐮🌋⚡
-{"key": "wwYS","name": "😹旺旺影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
-"ext": {
-"分类url": "http://www.0719w.com/so-show/{cateId}-{area}--{class}-{lang}-------{year}.html",
-"分类": "电影&电视剧&综艺&动漫",
-"播放数组":"<ul class=\"V7bQ1t stui-content__playlist clearfix&&</ul>",
-   
-"图片": "data-original=\"&&\"",
-"分类值": "1&2&3&4"
-}},
-   
+
 {"key": "三六零","name": "💡三六｜视频","type": 3,"api": "csp_SP360"},
    
   
