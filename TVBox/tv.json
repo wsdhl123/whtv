@@ -7,6 +7,8 @@
 "ext": {
 "分类url": "http://www.0719w.com/so-show/{cateId}-{area}--{class}-{lang}-------{year}.html",
 "分类": "电影&电视剧&综艺&动漫",
+"播放数组":"<ul class=\"V7bQ1t stui-content__playlist clearfix&&</ul>",
+   
 "图片": "data-original=\"&&\"",
 "分类值": "1&2&3&4"
 }},
