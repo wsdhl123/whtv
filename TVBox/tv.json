@@ -26,6 +26,20 @@
 "分类值":"1&2&3&4&25" 
 }},
 
+
+
+
+{"key": "shysvip","name": "🌈骚火VIP影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+"ext": {
+"分类url": "https://shdy5.us/list/{cateId}-{catePg}.html",
+"分类": "电影&电视剧",
+"图片": "data-original=\"&&\"",
+"分类值": "1&2"
+}},
+
+
+   
+
  
 {"key":"追剧吧","name":"🏃‍♀️追剧吧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext" :{
