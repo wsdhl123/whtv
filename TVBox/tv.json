@@ -26,7 +26,66 @@
 "分类值":"1&2&3&4&25" 
 }},
 
-
+ {
+      "key": "傻样",
+      "name": "🤭傻样[4K]",
+      "type": 3,
+      "api": "csp_FishCloud",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "http://xsayang.fun",
+          "http://38.76.197.172:12521"
+        ]
+      },
+      "timeout": 60
+    },
+    {
+      "key": "闪电",
+      "name": "🤑闪电[4K]",
+      "type": 3,
+      "api": "csp_FishCloud",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "http://sduc.cloud",
+          "https://sduc.cloud",
+          "https://sd.sduc.site",
+          "https://shandian.blog",
+          "http://shandian.blog"
+        ],
+        "cate": "type",
+        "classes": [
+          {
+            "id": "1",
+            "name": "电影"
+          },
+          {
+            "id": "2",
+            "name": "剧集"
+          },
+          {
+            "id": "3",
+            "name": "综艺"
+          },
+          {
+            "id": "4",
+            "name": "动漫"
+          },
+          {
+            "id": "30",
+            "name": "短剧"
+          }
+        ]
+      },
+      "timeout": 60
+    },
  
 {"key":"追剧吧","name":"🏃‍♀️追剧吧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext" :{
