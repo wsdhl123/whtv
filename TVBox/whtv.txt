@@ -228,7 +228,6 @@ CGTN俄语,http://mg.cttv.vip/609006446
 
 🌏｜网页TV,#genre#
 
-CCTV2,video://https://vod.cctv.cn/cctv/cctvh5/cctv2/2023/05/cctv2_share/index.html?appkey=0-caijing
 
 CCTV6,video://https://m.1905.com/m/cctv6/gzh/?jmd
 CCTV6,video://https://www.1905.com/cctv6/live/?index3
