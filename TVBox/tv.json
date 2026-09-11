@@ -32,21 +32,7 @@
 "分类": "短剧$duanjudaquan#电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#电影解说$dianyingjieshuo#体育$tiyu"
 }},
 
-{"key":"VS影视","name":"🍩VS影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":{
- 
- "二次截取":"","数组":"videopic lazy\"&&</a>",
- "标题":"title=\"&&\"","图片":"data-original=\"&&\"",
- "线路二次截取":"","线路数组":"\\#playlist\"&&</a>",
- "线路标题":"title=\"&&\"","播放二次截取":"",
- "播放数组":"<ul class=\"playlistlink&&</ul>",
- "播放列表":"<a&&/a>","播放标题":"title=\"&&\"",
- "播放链接":"href=\"&&\"","解析":"","直接播放":"0","播放请求头":"","嗅探词":".mp4#.m3u8",
- "过滤词":"","跳转播放链接":"var now=\"&&\"","跳转解析":"",
- "分类url":"https://tv.xy-zg.com/type/{cateId}-{catePg}.html",
-"分类":"电影&电视剧&综艺&动漫&短剧",
-"分类值":"1&2&3&4&25" 
-}},
+
 {"key":"追剧吧","name":"🏃‍♀️追剧吧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext" :{
 "分类url":"https://zjuba2.vip/index.php/vod/type/id/{cateId}/page/{catePg}.html",
