@@ -10,6 +10,14 @@
 {"key": "骚火影视.py","name": "🔥骚火影视.py","type": 3,"api": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/骚火影视.py","searchable": 1,"quickSearch": 1,"filterable": 1, "order_num": 0,"ext": ""},   
 {"key": "央视网.py","name": "🧣央视网.py","type": 3,"api": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/央视网.py","searchable": 1,"quickSearch": 1,"filterable": 1, "order_num": 0,"ext": ""},   
 
+{"key": "DYXS","name": "🎬电影先生", "type": 3, "api": "csp_XBPQ", "playerType": "1",
+"ext": {
+"图片": "data-src=\"&&\"",
+"分类url": "https://silidm.com/show/{cateId}--------{catePg}---.html",
+"分类": "电影&剧集&综艺&动漫",
+"分类值": "dy&juji&zongyi&dongman"
+
+   
 {"key": "JPYS","name": "🥇金牌影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
 "ext": {
 "分类url": "https://www.bolyship.com/bspvt/{cateId}.html",
