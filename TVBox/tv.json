@@ -1,5 +1,5 @@
 {
-"spider": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/0620.jar",
+"spider": "https://gh-proxy.com/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/0620.jar",
 "wallpaper": "https://qist.cc/api/api.php",
 "sites": [
 //👨‍💻👌🏰🍑🐅🧣 🌺📢🎉🌙🌟🌸✨🍓🥚🏝🍆🍅🐎🐐 🌩🏭👨‍👩‍👧‍👧🌍🙏🎃🐇🌞⛈️❄️☔🌍🍉🥇☀️👩‍🌾🏔️🔥☁️🍎🧲💃👼🎠💓‍💌⭕🐕🍄🎬💋🍁🎦📽️🚑🎯📀🌤️🥝🐧🥭🍎🕹️🌈🦄🦋😹🐟📚🐮🌋⚡💫
@@ -7,8 +7,8 @@
 
    
   
-{"key": "骚火影视.py","name": "🔥骚火影视.py","type": 3,"api": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/骚火影视.py","searchable": 1,"quickSearch": 1,"filterable": 1, "order_num": 0,"ext": ""},   
-{"key": "央视网.py","name": "🧣央视网.py","type": 3,"api": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/央视网.py","searchable": 1,"quickSearch": 1,"filterable": 1, "order_num": 0,"ext": ""},   
+{"key": "骚火影视.py","name": "🔥骚火影视.py","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/骚火影视.py","searchable": 1,"quickSearch": 1,"filterable": 1, "order_num": 0,"ext": ""},   
+{"key": "央视网.py","name": "🧣央视网.py","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/央视网.py","searchable": 1,"quickSearch": 1,"filterable": 1, "order_num": 0,"ext": ""},   
 
 {"key": "DYXS","name": "🎬电影先生", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
@@ -251,20 +251,20 @@
 
 
 {"key": "三六零","name": "💡三六｜视频","type": 3,"api": "csp_SP360"},
-{"key":"csp_SP360","name": "💘360","type": 3,"api": "csp_SP33","jar":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/231108.jar"},
-{"key":"teng","name":"🐧腾讯","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/231108.jar"},
-{"key":"MGT","name":"🍋芒果","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/231108.jar"},
-{"key":"csp_IQIYI","name": "🥝爱奇艺","type":3,"api":"csp_Itv","quickSearch": 1,"searchable": 1,"filterable": 1,"changeable": 0,"jar":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/231108.jar"},
+{"key":"csp_SP360","name": "💘360","type": 3,"api": "csp_SP33","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/231108.jar"},
+{"key":"teng","name":"🐧腾讯","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/231108.jar"},
+{"key":"MGT","name":"🍋芒果","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/231108.jar"},
+{"key":"csp_IQIYI","name": "🥝爱奇艺","type":3,"api":"csp_Itv","quickSearch": 1,"searchable": 1,"filterable": 1,"changeable": 0,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/231108.jar"},
 {"key":"Aid","name":"🚑急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
 
 {"key": "csp_Bili1","name": "🅱️哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
-"ext": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/Bili.json",
-"jar": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/bili.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/Bili.json",
+"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/bili.jar"
 },
 
-{"key":"儿童","name":"📚少儿教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/xuexi/少儿教育.json"},
-{"key":"小学","name":"📚小学课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/xuexi/小学课堂.json"},
-{"key":"初中","name":"📚初中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/xuexi/初中课堂.json"},
+{"key":"儿童","name":"📚少儿教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/xuexi/少儿教育.json"},
+{"key":"小学","name":"📚小学课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/xuexi/小学课堂.json"},
+{"key":"初中","name":"📚初中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/xuexi/初中课堂.json"},
 {"key":"高中","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/xuexi/高中课堂.json"}
 
 
@@ -293,7 +293,7 @@
 
 //{"name":"冰茶","type":0,"url":"https://bc.188766.xyz/?url=https://live.188766.xyz","playerType":2,"timeout":10},
 {"name":"咪咕","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/wsdhl123/whtv/refs/heads/master/TVBox/whtv.txt","playerType":2,"timeout":10}, 
-{"name": "live","type": 0,"playerType": 1,  "timeout": 10,"url": "https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/whtv.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","catchup": {"days": "7","type": "append","regex": "/PLTV/","source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"}}
+{"name": "live","type": 0,"playerType": 1,  "timeout": 10,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/whtv.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","catchup": {"days": "7","type": "append","regex": "/PLTV/","source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"}}
 ],
 
 "ijk": [
