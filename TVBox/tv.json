@@ -185,7 +185,7 @@
 
  
 {"key":"剧圈圈","name":"⭕剧圈圈","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://gh.xmly.dev/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/剧圈圈.json",
+"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/剧圈圈.json",
 "click":"document.getElementById('playleft').children[0].contentWindow.document.getElementById('start').click()"},
 
  
