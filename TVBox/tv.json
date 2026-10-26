@@ -81,15 +81,6 @@
 "分类值": "1&2&3&4&5"
 }},
 
-{"key":"YLYS","name":"  📽️永乐影视","type":3,"api":"csp_XBPQ",
-"ext":{
- "请求头": "User-Agent$MOBILE_UA",
-"编码": "UTF-8",
-"分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-"类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43",
-"分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
-}},
-
 
 
 
@@ -110,11 +101,7 @@
 }},
 
  
-{"key": "XCYS","name": "✨星辰影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
-"ext": {
-"分类url": "https://www.ykyingtai.com/vodtype/{cateId}.html",
-"分类":"电影&电视剧&短剧&综艺&动漫","分类值":"1&2&5&3&4"
-}},  
+
 
 {"key": "YBTVB","name": "☁️TVB云播",	"type": 3,	"api": "csp_XBPQ",
 "ext": {
@@ -179,12 +166,7 @@
 
 {"key":"CZYY","name":"☀️策驰影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
-"数组": "",
-"线路数组": "在线播放&&</div>",
-"线路标题": "<span>&&</span>",
-"播放标题":"+>&&</a>",
- "播放数组": "<div class=\"vod-detail-bnt\">&&</div>", 
-"分类url": "https://www.ccyy11.cc/vod/list/1/{cateId}/{class}/{year}/0/0/0/0",
+"分类url": "https://chicey.com/s/area/{area}/id/{cateId}/lang/{lang}/year/{year}.html",
 "分类":"电影&电视剧&综艺&动漫","分类值":"1&2&3&4"}},   
 
 
