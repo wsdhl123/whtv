@@ -17,49 +17,14 @@
 "分类": "电影&剧集&综艺&动漫",
 "分类值": "dy&juji&zongyi&dongman"
 }},
-{"key": "狂人追剧","name": "🌋狂人追剧", "type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1, "api": "csp_XBPQ",
-"ext": {
-"跳转播放链接": "data-url=\"&&\"#(拼接:https://www.kpkuang.fun{playUrl})",
-"图片": "data-original=\"&&\"",
-"播放链接": "href=\"&&\"",
-"线路数组": "fed-drop-btns fed-padding fed-col-xs4 fed-col-md2&&/a>[不包含:线路1]",
-"分类url": "https://www.kpkuang.fun/vodtype/{cateId}/",
-"搜索图片": "data-original=\"&&\"",         
-"搜索url": "https://www.kpkuang.fun/vodsearch/-------------.html?wd={wd}",
-"分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$37"
-}},
-   
-   
-   
-{"key": "JPYS","name": "🥇金牌影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
-"ext": {
-"分类url": "https://www.bolyship.com/bspvt/{cateId}.html",
-"分类": "电影&电视剧&综艺&动漫&短剧",
-"分类值": "dianying&dianshiju&zongyi&dongman&duanju"
-}},
-{"key": "csp_青牛影院","name": "🌸青牛影院☪", "type": 3, "api": "csp_XBPQ",
- "ext": {
-"请求头": "User-Agent@Mozilla/5.0 (Linux; Android 12; Mobile) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36",
-"数组": "<a&&</p>",
-"标题": "title=\"&&\"",
-"副标题": "item-status text-overflow\">&&</p>",
-"图片": "data-original=\"&&\"",
-"简介": "简介：&&</p>",
-"线路数组": "#ewave-playlist&&</li>",
-"线路标题": ">&&</em>",
-"播放数组": "ewave-playlist&&</ul>",
-"播放标题": ">&&/a>",
-"播放链接": "href=\"&&\"",
-"跳转播放链接": "var player_*\"url\":\"&&\"",
-"分类url": "https://m.artxyzy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-"分类": "短剧$duanjudaquan#电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#电影解说$dianyingjieshuo#体育$tiyu"
-}},
 
+   
+ 
 
-{"key":"追剧吧","name":"🏃‍♀️追剧吧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"来看剧","name":"🏃‍♀️来看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext" :{
-"分类url":"https://zjuba2.vip/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-"分类":"追剧全部$0#电影$1#电视剧$2#综艺$3#动漫$4#更新$new"
+"分类url":"https://www.zjuba4.com/vod/type/id/{cateId}.html",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4"
 }},
 
  
