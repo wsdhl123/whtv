@@ -4,11 +4,9 @@
 "sites": [
 //👨‍💻👌🏰🍑🐅🧣 🌺📢🎉🌙🌟🌸✨🍓🥚🏝🍆🍅🐎🐐 🌩🏭👨‍👩‍👧‍👧🌍🙏🎃🐇🌞⛈️❄️☔🌍🍉🥇☀️👩‍🌾🏔️🔥☁️🍎🧲💃👼🎠💓‍💌⭕🐕🍄🎬💋🍁🎦📽️🚑🎯📀🌤️🥝🐧🥭🍎🕹️🌈🦄🦋😹🐟📚🐮🌋⚡💫
 
-
-   
+  
   
 {"key": "骚火影视.py","name": "🔥骚火影视.py","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/骚火影视.py","searchable": 1,"quickSearch": 1,"filterable": 1, "order_num": 0,"ext": ""},   
-{"key": "央视网.py","name": "🧣央视网.py","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/央视网.py","searchable": 1,"quickSearch": 1,"filterable": 1, "order_num": 0,"ext": ""},   
 
 {"key": "DYXS","name": "🎬电影先生", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
@@ -18,7 +16,37 @@
 "分类值": "dy&juji&zongyi&dongman"
 }},
 
-   
+ 
+{"key":"XGZXYS","name":"🍉西瓜在线影视 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
+"ext":{
+
+"分类url": "https://www.xiguazx.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+"分类":"电影&连续剧&综艺&动漫&短剧&B站&人人","分类值":"20&37&45&43&57&47&60"}},    
+
+ 
+
+{"key":"CZYY","name":"☀️策驰影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
+"ext":{
+"分类url": "https://chicey.com/s/area/{area}/id/{cateId}/lang/{lang}/year/{year}.html",
+"分类":"电影&电视剧&综艺&动漫","分类值":"1&2&3&4"}},   
+
+
+{"key":"DYGC","name":"     🧣电影工厂","type":3,"api":"csp_XBPQ",
+"ext":{
+"线路标题": "<span>&&</span>",
+"线路数组": "data-dropdown-value=&&</div>",
+"播放标题":"+>&&</a>",
+"分类url":"https://www.ysgc02.cc/show/{cateId}/area/{area}/class/{class}/year/{year}.html",
+"分类":"电视剧&电影&动漫剧","分类值":"d1&d2&d3"}},
+    
+
+{"key": "MTYY","name": "🎬麦田影院", "type": 3, "api": "csp_XBPQ", "playerType": "1",
+"ext": {
+"图片": "data-src=\"&&\"",
+"分类url": "https://www.mtyy4.cc/vodtype/{cateId}.html",
+"分类": "电影&电视剧&综艺&动漫&短剧",
+"分类值": "1&2&3&4&26"
+}},  
  
 
 {"key":"来看剧","name":"🏃‍♀️来看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
@@ -156,39 +184,6 @@
 
 
 
-{"key":"XGZXYS","name":"🍉西瓜在线影视 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
-"ext":{
-
-"分类url": "https://www.xiguazx.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-"分类":"电影&连续剧&综艺&动漫&短剧&B站&人人","分类值":"20&37&45&43&57&47&60"}},    
-
- 
-
-{"key":"CZYY","name":"☀️策驰影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
-"ext":{
-"分类url": "https://chicey.com/s/area/{area}/id/{cateId}/lang/{lang}/year/{year}.html",
-"分类":"电影&电视剧&综艺&动漫","分类值":"1&2&3&4"}},   
-
-
-
-
-
-{"key":"DYGC","name":"     🧣电影工厂","type":3,"api":"csp_XBPQ",
-"ext":{
-"线路标题": "<span>&&</span>",
-"线路数组": "data-dropdown-value=&&</div>",
-"播放标题":"+>&&</a>",
-"分类url":"https://www.ysgc02.cc/show/{cateId}/area/{area}/class/{class}/year/{year}.html",
-"分类":"电视剧&电影&动漫剧","分类值":"d1&d2&d3"}},
-    
-
-{"key": "MTYY","name": "🎬麦田影院", "type": 3, "api": "csp_XBPQ", "playerType": "1",
-"ext": {
-"图片": "data-src=\"&&\"",
-"分类url": "https://www.mtyy4.cc/vodtype/{cateId}.html",
-"分类": "电影&电视剧&综艺&动漫&短剧",
-"分类值": "1&2&3&4&26"
-}},
 {"key": "cctv","name": "🏠央视大全","type": 1,"api": "http://zhangqun1818.serv00.net/cctv.php", "style": { "type": "rect", "ratio": 1.33},"changeable": 1},	
 {"key": "量子资源","name": "🌍量子资源","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key": "闪电资源","name": "🌩闪电资源","type": 1,"api": "https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":0},
