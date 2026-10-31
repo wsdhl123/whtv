@@ -23,7 +23,28 @@
 "分类url": "https://www.xiguazx.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html",
 "分类":"电影&连续剧&综艺&动漫&短剧&B站&人人","分类值":"20&37&45&43&57&47&60"}},    
 
- 
+ {
+      "key": "CZ",
+      "name": "🏭┆厂长┆影视",
+      "type": 3,
+      "api": "csp_CZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "cookie": "",
+        "username": "",
+        "password": "",
+        "site": [
+          "https://www.4kcz.com",
+          "https://www.cz4k.com",
+          "https://cz01.tv",
+          "https://cz01.vip",
+          "https://www.czzy.site",
+          "https://czzy.top"
+        ]
+      }
+    },
 
 {"key":"CZYY","name":"☀️策驰影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
