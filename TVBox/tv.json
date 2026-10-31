@@ -15,7 +15,7 @@
 "分类": "电影&剧集&综艺&动漫",
 "分类值": "dy&juji&zongyi&dongman"
 }},
-
+{"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.6vgood.net/"},
  
 {"key":"XGZXYS","name":"🍉西瓜在线影视 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
