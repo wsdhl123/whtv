@@ -26,7 +26,6 @@
 {"key":"XSJYY","name":"📺新视觉影院 ","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ",
 "ext":{
 "图片": "data-original=\"&&\"",
-"播放数组": "<div class=\"stui-content__playlist\">&&</div>",
 "分类url": "https://www.suzhitong.com/sortlist/{cateId}.html",
 "分类":"电影&电视&综艺&动漫&短剧","分类值":"5566&5567&5568&5569&5570"}},   
 
