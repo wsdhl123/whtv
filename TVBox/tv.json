@@ -18,7 +18,7 @@
 "播放标题": ">&&</a>",
 "播放链接": "href=\"&&\"",
 "播放链接前缀": "https://www.suzhitong.com",
-"图片": "data-original=\"&&\"+https://www.suzhitong.com/"
+"图片": "data-original=https://www.suzhitong.com+\"&&\""
 }},
   
 {"key": "DYXS","name": "🎬电影先生", "type": 3, "api": "csp_XBPQ", "playerType": "1",
