@@ -7,7 +7,34 @@
   
   
 {"key": "骚火影视.py","name": "🔥骚火影视.py","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/骚火影视.py","searchable": 1,"quickSearch": 1,"filterable": 1, "order_num": 0,"ext": ""},   
-
+{"key": "YY6080","name": "🎬YY6080新视觉", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 0, "playerType": "2", "api": "csp_XBPQ",
+"ext": {
+"分类": "电影$5566#电视$5567#综艺$5568#动漫$5569#短剧$5570",
+"分类url": "https://www.suzhitong.com/sortlist/{cateId}/page/{catePg}.html",
+"搜索url": "https://www.suzhitong.com/sousuo.html?keyword={wd}",
+"搜索模式": "1",
+"搜索列表": "class=\"stui-vodlist__box&&</li>",
+"搜索列表标题": "title=\"&&\"",
+"搜索列表图片": "data-original=\"&&\"",
+"搜索列表链接": "href=\"&&\"",
+"列表": "class=\"stui-vodlist__box&&</li>",
+"列表标题": "title=\"&&\"",
+"列表图片": "data-original=\"&&\"",
+"列表链接": "href=\"&&\"",
+"链接前缀": "https://www.suzhitong.com",
+"图片": "data-original=\"&&\"",
+"标题": "title=\"&&\"",
+"副标题": "pic-text text-right\">&&</span>",
+"线路数组": "class=\"stui-pannel__head clearfix&&</h3>",
+"线路标题": ">&&</a>",
+"播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
+"播放列表": "<a&&</a>",
+"播放标题": ">&&</a>",
+"播放链接": "href=\"&&\"",
+"播放链接前缀": "https://www.suzhitong.com",
+"剧情": "class=\"detail-content&&</div>",
+"请求头": "User-Agent$MOBILE_UA"
+}},
 {"key": "DYXS","name": "🎬电影先生", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
 "图片": "data-src=\"&&\"",
