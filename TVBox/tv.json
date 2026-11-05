@@ -13,9 +13,11 @@
 "ext": {
 "分类": "电影$5566#电视$5567#综艺$5568#动漫$5569#短剧$5570",
 "分类url": "https://www.suzhitong.com/sortlist/{cateId}/last-{catePg}.html",
-"播放数组": "<ul class=\"stui-content__playlist&&</ul>",
+"播放数组": "stui-content__playlist clearfix&&</ul>",
 "播放列表": "<li&&</li>",
 "播放标题": ">&&</a>",
+"播放链接": "href=\"&&\"",
+"播放链接前缀": "https://www.suzhitong.com",
 "图片": "data-original=\"&&\"+https://www.suzhitong.com/"
 }},
   
