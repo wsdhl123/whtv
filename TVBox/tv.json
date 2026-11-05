@@ -10,7 +10,7 @@
 {"key": "YY6080","name": "🎬YY6080新视觉", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 0, "playerType": "2", "api": "csp_XBPQ",
 "ext": {
 "分类": "电影$5566#电视$5567#综艺$5568#动漫$5569#短剧$5570",
-"分类url":  https://www.suzhitong.com/sortlist/{cateId}/last-{catePg}.html,
+"分类url": "https://www.suzhitong.com/sortlist/{cateId}/last-{catePg}.html",
 "搜索url": "https://www.suzhitong.com/sousuo.html?keyword={wd}",
 "搜索模式": "1",
 "搜索列表": "class=\"stui-vodlist__box&&</li>",
