@@ -6,12 +6,7 @@
 
   
   
-{"key": "SHUOHUO","name": "🔥骚火电影","type": 3,"searchable": 1, "quickSearch": 1, "api": "csp_XBPQ",
-"ext": {
-"请求头": "User-Agent$MOBILE_UA",
-"分类": "电影$1#电视剧$2",
-"分类url": "https://shdy3.com/list/{cateId}.html"
-}},
+
 
   
 {"key": "YY6080","name": "🎬YY6080新视觉", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 0, "playerType": "2", "api": "csp_XBPQ",
