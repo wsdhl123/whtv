@@ -14,7 +14,7 @@
 "分类": "电影$5566#电视$5567#综艺$5568#动漫$5569#短剧$5570",
 "分类url": "https://www.suzhitong.com/sortlist/{cateId}/last-{catePg}.html",
 "播放数组": "<ul class=\"stui-content__playlist&&</ul>",
-"图片": "https://www.suzhitong.com+data-original=\"&&\""
+"图片": "data-original=\"&&\"+https://www.suzhitong.com/"
 }},
   
 {"key": "DYXS","name": "🎬电影先生", "type": 3, "api": "csp_XBPQ", "playerType": "1",
