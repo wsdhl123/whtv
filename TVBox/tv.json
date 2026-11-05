@@ -9,30 +9,7 @@
 {"key": "SHUOHUO","name": "🔥骚火电影","type": 3,"searchable": 1, "quickSearch": 1, "playerType": "2", "api": "csp_XBPQ",
 "ext": {
 "分类": "电影$1#电视剧$2",
-"分类url": "https://shdy2.com/list/{cateId}-{catePg}.html",
-"搜索url": "https://shdy2.com/s----------.html?wd={wd}",
-"搜索模式": "1",
-"搜索列表": "class=\"v_img&&</li>",
-"搜索列表标题": "title=\"&&\"",
-"搜索列表图片": "data-original=\"&&\"",
-"搜索列表链接": "href=\"&&\"",
-"列表": "class=\"v_img&&</li>",
-"列表标题": "title=\"&&\"",
-"列表图片": "data-original=\"&&\"",
-"列表链接": "href=\"&&\"",
-"链接前缀": "https://shdy2.com",
-"图片": "data-original=\"&&\"",
-"标题": "title=\"&&\"",
-"副标题": "class=\"v_note\">&&</div>",
-"线路数组": "class=\"play_list\" id=\"play_link\">&&</ul>",
-"线路标题": "<li>&&</li>",
-"播放数组": "class=\"play_list\" id=\"play_link\">&&</ul>",
-"播放列表": "<a&&</a>",
-"播放标题": ">&&</a>",
-"播放链接": "href=\"&&\"",
-"播放链接前缀": "https://shdy2.com",
-"剧情": "class=\"p_txt show_part\">&&</p>",
-"请求头": "User-Agent$MOBILE_UA"
+"分类url": "https://shdy2.com/list/{cateId}-{catePg}.html"
 }},
 
   
