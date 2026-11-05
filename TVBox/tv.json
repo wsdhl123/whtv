@@ -9,7 +9,7 @@
 {"key": "SHUOHUO","name": "🔥骚火电影","type": 3,"searchable": 1, "quickSearch": 1, "api": "csp_XBPQ",
 "ext": {
 "分类": "电影$1#电视剧$2",
-"分类url": "https://shdy2.com/list/{cateId}-{catePg}.html"
+"分类url": "https://shdy2.com/list/{cateId}.html"
 }},
 
   
