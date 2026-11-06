@@ -4,7 +4,12 @@
 "sites": [
 //👨‍💻👌🏰🍑🐅🧣 🌺📢🎉🌙🌟🌸✨🍓🥚🏝🍆🍅🐎🐐 🌩🏭👨‍👩‍👧‍👧🌍🙏🎃🐇🌞⛈️❄️☔🌍🍉🥇☀️👩‍🌾🏔️🔥☁️🍎🧲💃👼🎠💓‍💌⭕🐕🍄🎬💋🍁🎦📽️🚑🎯📀🌤️🥝🐧🥭🍎🕹️🌈🦄🦋😹🐟📚🐮🌋⚡💫📺🐠🚵🦐
 
-  
+{"key": "SHUOHUO","name": "🔥骚火电影","type": 3,"searchable": 1, "quickSearch": 1, "api": "csp_XBPQ",
+"ext": {
+"请求头": "User-Agent$MOBILE_UA",
+"分类": "电影$1#电视剧$2",
+"分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;P"
+}},  
   
 
 
@@ -17,8 +22,8 @@
 "播放列表": "<li&&</li>",
 "播放标题": ">&&</a>",
 "播放链接": "href=\"&&\"",
-"播放链接前缀": "https://www.suzhitong.com",
-"图片": "data-original=https://www.suzhitong.com\"&&\""
+"图片": "data-original=\"&&\"",
+"链接前缀": "https://www.suzhitong.com"
 }},
   
 {"key": "DYXS","name": "🎬电影先生", "type": 3, "api": "csp_XBPQ", "playerType": "1",
