@@ -5,7 +5,44 @@
 "sites": [
 //👨‍💻👌🏰🍑🐅🧣 🌺📢🎉🌙🌟🌸✨🍓🥚🏝🍆🍅🐎🐐 🌩🏭👨‍👩‍👧‍👧🌍🙏🎃🐇🌞⛈️❄️☔🌍🍉🥇☀️👩‍🌾🏔️🔥☁️🍎🧲💃👼🎠💓‍💌⭕🐕🍄🎬💋🍁🎦📽️🚑🎯📀🌤️🥝🐧🥭🍎🕹️🌈🦄🦋😹🐟📚🐮🌋⚡💫📺🐠🚵🦐
 
-
+{
+  "key": "HESUWANG",
+  "name": "🌸樱花影视",
+  "type": 3,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "playerType": "2",
+  "api": "csp_XBPQ",
+  "ext": {
+    "分类": "电影$1894#电视剧$1895#综艺$1896#动漫$1897#短剧$1898",
+    "分类url": "https://www.hesuwang.com/sortlist/{cateId}/time-{catePg}.html;;P",
+    "搜索url": "https://www.hesuwang.com/search.php?keyword={wd}",
+    "搜索模式": "1",
+    "搜索列表": "class=\"myui-vodlist__box&&</li>",
+    "搜索列表标题": "title=\"&&\"",
+    "搜索列表图片": "data-original=\"&&\"",
+    "搜索列表链接": "href=\"&&\"",
+    "列表": "class=\"myui-vodlist__box&&</li>",
+    "列表标题": "title=\"&&\"",
+    "列表图片": "data-original=\"&&\"",
+    "列表链接": "href=\"&&\"",
+    "链接前缀": "https://www.hesuwang.com",
+    "图片": "data-original=\"&&\"",
+    "图片前缀": "https://www.hesuwang.com",
+    "标题": "title=\"&&\"",
+    "副标题": "pic-text text-right\">&&</span>",
+    "线路数组": "class=\"nav-tabs&&</ul>",
+    "线路标题": ">&&</a>",
+    "播放数组": "class=\"myui-content__list&&</ul>",
+    "播放列表": "<a&&</a>",
+    "播放标题": ">&&</a>",
+    "播放链接": "href=\"&&\"",
+    "播放链接前缀": "https://www.hesuwang.com",
+    "剧情": "class=\"desc&&</p>",
+    "请求头": "User-Agent$MOBILE_UA"
+  }
+},
   
 {"key": "YY6080","name": "🎬YY6080新视觉", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 0, "playerType": "2", "api": "csp_XBPQ",
 "ext": {
