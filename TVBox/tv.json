@@ -16,7 +16,7 @@
   "api": "csp_XBPQ",
   "ext": {
     "分类": "电影$1894#电视剧$1895#综艺$1896#动漫$1897#短剧$1898",
-    "分类url": "https://www.hesuwang.com/sortlist/{cateId}/time-{catePg}.html;;P",
+    "分类url": "https://www.hesuwang.com/sortlist/{cateId}/time-{catePg}.html;;P"
    
   }
 },
