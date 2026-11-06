@@ -5,21 +5,7 @@
 "sites": [
 //👨‍💻👌🏰🍑🐅🧣 🌺📢🎉🌙🌟🌸✨🍓🥚🏝🍆🍅🐎🐐 🌩🏭👨‍👩‍👧‍👧🌍🙏🎃🐇🌞⛈️❄️☔🌍🍉🥇☀️👩‍🌾🏔️🔥☁️🍎🧲💃👼🎠💓‍💌⭕🐕🍄🎬💋🍁🎦📽️🚑🎯📀🌤️🥝🐧🥭🍎🕹️🌈🦄🦋😹🐟📚🐮🌋⚡💫📺🐠🚵🦐
 
-{
-  "key": "HESUWANG",
-  "name": "🌸樱花影视",
-  "type": 3,
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "playerType": "2",
-  "api": "csp_XBPQ",
-  "ext": {
-    "分类": "电影$1894#电视剧$1895#综艺$1896#动漫$1897#短剧$1898",
-    "分类url": "https://www.hesuwang.com/sortlist/{cateId}/time-{catePg}.html;;P"
-   
-  }
-},
+
   
 {"key": "YY6080","name": "🎬YY6080新视觉", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 0, "playerType": "2", "api": "csp_XBPQ",
 "ext": {
