@@ -47,6 +47,47 @@
 "图片": "https://www.suzhitong.com+data-original=\"&&\"",
 "链接前缀": "https://www.suzhitong.com"
 }},
+
+
+{
+  "key": "MAHUABOX",
+  "name": "🌺麻花影视",
+  "type": 3,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "playerType": "2",
+  "api": "csp_XBPQ",
+  "ext": {
+    "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm#纪录片$jilupian#体育赛事$tiyusaishi#短剧$duanju",
+    "分类url": "https://www.mahuabox.com/vodtype/{cateId}.html",
+    "搜索url": "https://www.mahuabox.com/vodsearch/-------------.html?wd={wd}",
+    "搜索模式": "1",
+    "搜索列表": "class=\"videopic lazy&&</a>",
+    "搜索列表标题": "title=\"&&\"",
+    "搜索列表图片": "data-original=\"&&\"",
+    "搜索列表链接": "href=\"&&\"",
+    "列表": "class=\"videopic lazy&&</a>",
+    "列表标题": "title=\"&&\"",
+    "列表图片": "data-original=\"&&\"",
+    "列表链接": "href=\"&&\"",
+    "链接前缀": "https://www.mahuabox.com",
+    "图片": "data-original=\"&&\"",
+    "图片前缀": "https://www.mahuabox.com",
+    "标题": "title=\"&&\"",
+    "副标题": "class=\"score\">&&</span>",
+    "线路数组": "class=\"playlistlink-&&</ul>",
+    "线路标题": "class=\"option collapsed\"&&</a>",
+    "播放数组": "class=\"playlistlink-&&</ul>",
+    "播放列表": "<a&&</a>",
+    "播放标题": "title='&&'",
+    "播放链接": "href='&&'",
+    "播放链接前缀": "https://www.mahuabox.com",
+    "剧情": "class=\"plot\">&&</div>",
+    "请求头": "User-Agent$MOBILE_UA"
+  }
+}
+ 
   
 {"key": "DYXS","name": "🎬电影先生", "type": 3, "api": "csp_XBPQ", "playerType": "1",
 "ext": {
