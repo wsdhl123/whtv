@@ -61,30 +61,9 @@
   "ext": {
     "分类": "电影$9840#电视$9841#综艺$9842#动漫$9843#短剧$9844",
     "分类url": "https://www.xiongdaxia.com/sortlist/{cateId}.html",
-    "搜索url": "https://www.xiongdaxia.com/search.php?keyword={wd}",
-    "搜索模式": "1",
-    "搜索列表": "class=\"myui-vodlist__box&&</li>",
-    "搜索列表标题": "title=\"&&\"",
-    "搜索列表图片": "data-original=\"&&\"",
-    "搜索列表链接": "href=\"&&\"",
-    "列表": "class=\"myui-vodlist__box&&</li>",
-    "列表标题": "title=\"&&\"",
-    "列表图片": "data-original=\"&&\"",
-    "列表链接": "href=\"&&\"",
-    "链接前缀": "https://www.xiongdaxia.com",
-    "图片": "data-original=\"&&\"",
-    "图片前缀": "https://www.xiongdaxia.com",
-    "标题": "title=\"&&\"",
-    "副标题": "pic-text text-right\">&&</span>",
-    "线路数组": "myui-content__list playlist&&</ul>",
-    "线路标题": "线路$1#线路$2#线路$3",
-    "播放数组": "myui-content__list playlist&&</ul>",
-    "播放列表": "<a&&</a>",
-    "播放标题": "title=\"&&\"",
-    "播放链接": "href=\"&&\"",
-    "播放链接前缀": "https://www.xiongdaxia.com",
-    "剧情": "class=\"desc&&</p>",
-    "请求头": "User-Agent$MOBILE_UA"
+   "链接前缀": "https://www.xiongdaxia.com",
+    "图片": "data-original=\"&&\""
+   
   }
 },
  
