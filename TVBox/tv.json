@@ -49,23 +49,6 @@
 }},
 
 
-{
-  "key": "XIONGDAXIA",
-  "name": "🌟星空影视",
-  "type": 3,
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "playerType": "2",
-  "api": "csp_XBPQ",
-  "ext": {
-"分类": "电影$9840#电视$9841#综艺$9842#动漫$9843#短剧$9844",
- "分类url": "https://www.xiongdaxia.com/sortlist/{cateId}.html;;P",
-"链接前缀": "https://www.xiongdaxia.com",
- "图片": "data-original=\"&&\""
-   
-  }
-},
  
 
 {"key": "MAHUABOX", "name": "🌺麻花影视", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 0, "playerType": "2", "api": "csp_XBPQ",
