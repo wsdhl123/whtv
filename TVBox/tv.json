@@ -10,14 +10,10 @@
 "分类": "电影$5415#电视$5416#综艺$5417#动漫$5418#短剧$5419",
 "分类url": "https://www.ichuangjia.com/sortlist/{cateId}.html",
 "主页url":"https://www.ichuangjia.com/",
-    "列表":".stui-vodlist__bd li",
-    "标题":"h4.title a@title",
-    "图片":"a.stui-vodlist__thumb@data-original[替换:^/>>https://www.ichuangjia.com/]",
-    "链接":"a.stui-vodlist__thumb@href",
-    "Referer":"https://www.ichuangjia.com/",
-    "图片代理":"1",
+"图片":"a.stui-vodlist__thumb@data-original[替换:^/>>https://www.ichuangjia.com/]",
+"Referer":"https://www.ichuangjia.com/",
+"图片代理":"1",
 "Referer":"https://www.ichuangjia.com/"
-
  }},
 
 
