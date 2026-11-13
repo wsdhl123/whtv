@@ -11,7 +11,7 @@
 "分类url": "https://www.ichuangjia.com/sortlist/{cateId}.html",
 "图片":"https://www.ichuangjia.com"+a.stui-vodlist__thumb@data-original,
 "Referer":"https://www.ichuangjia.com/"
- //"播放数组": "<div class=\"stui-content__playlist\">&&</div>"
+
  }},
 
 
