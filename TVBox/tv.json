@@ -10,7 +10,7 @@
 "分类": "电影$5415#电视$5416#综艺$5417#动漫$5418#短剧$5419",
 "分类url": "https://www.ichuangjia.com/sortlist/{cateId}.html"
 //"图片":"a.lazyload@data-original[替换:^(?!http)(/)>>https://www.ichuangjia.com/]",
-//"播放数组": "<ul class=\"stui-content__playlist&&</ul>"
+ "播放数组": "<div class=\"stui-content__playlist\">&&</div>",
  }},
 
 
