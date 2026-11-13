@@ -4,7 +4,37 @@
 "wallpaper": "https://qist.cc/api/api.php",
 "sites": [
 //👨‍💻👌🏰🍑🐅🧣 🌺📢🎉🌙🌟🌸✨🍓🥚🏝🍆🍅🐎🐐 🌩🏭👨‍👩‍👧‍👧🌍🙏🎃🐇🌞⛈️❄️☔🌍🍉🥇☀️👩‍🌾🏔️🔥☁️🍎🧲💃👼🎠💓‍💌⭕🐕🍄🎬💋🍁🎦📽️🚑🎯📀🌤️🥝🐧🥭🍎🕹️🌈🦄🦋😹🐟📚🐮🌋⚡💫📺🐠🚵🦐
+{"key": "ZZYY","name": "🐅猪猪影院","type": 3,"searchable": 1, "quickSearch": 1, "changeable": 0, "playerType": "1",  "api": "csp_XBPQ",
+"ext": {
+"主页url":"https://www.ichuangjia.com/",
+    "列表":".stui-vodlist__bd li",
+    "标题":"a.title@title",
+    "图片":"a.lazyload@data-original[替换:^(?!http)(/)>>https://www.ichuangjia.com/]",
+    "链接":"a.lazyload@href",
+    "简介":".detail p:contains(类型)",
+    "详情":{
+    "标题":".detail h1.title",
+    "简介":"#desc p",
+    "播放列表":".stui-content__playlist li",
+    "播放标题":"a@title",
+    "播放链接":"script:var reg=/thisUrl = \"(.*?)\"/;var m=html.match(reg);return m?m[1]:''"
+    },
+    "分类":{
+    "电影":"https://www.ichuangjia.com/sortlist/5415.html",
+    "电视":"https://www.ichuangjia.com/sortlist/5416.html",
+    "综艺":"https://www.ichuangjia.com/sortlist/5417.html",
+    "动漫":"https://www.ichuangjia.com/sortlist/5418.html",
+    "短剧":"https://www.ichuangjia.com/sortlist/5419.html"
+    },
+    "搜索url":"https://www.ichuangjia.com/search.html?keyword=@key",
+    "翻页":{
+        "下一页":"a:contains(下一页)@href"
+    },
+    "Referer":"@主页url"
+}},
 
+
+ 
 {"key": "FREEOK","name": "🆗FreeOK","type": 3,"searchable": 1, "quickSearch": 1, "changeable": 0, "playerType": "1",  "api": "csp_XBPQ",
 "ext": {
 "分类": "电影&剧集&综艺&动漫",
