@@ -8,8 +8,8 @@
   "key": "ZHUIZHU",  "name": "🐷猪猪影院",  "type": 3,  "searchable": 1,  "quickSearch": 1,  "changeable": 0,  "playerType": "1",  "api": "csp_XBPQ",
   "ext": {
 "分类": "电影$5415#电视$5416#综艺$5417#动漫$5418#短剧$5419",
-"分类url": "https://www.ichuangjia.com/sortlist/{cateId}.html"
-//"图片":"a.lazyload@data-original[替换:^(?!http)(/)>>https://www.ichuangjia.com/]",
+"分类url": "https://www.ichuangjia.com/sortlist/{cateId}.html",
+"图片":"a.lazyload@data-original[替换:^(?!http)(/)>>https://www.ichuangjia.com/]"
  //"播放数组": "<div class=\"stui-content__playlist\">&&</div>"
  }},
 
