@@ -161,7 +161,7 @@
 "ext": {
 "分类url": "https://www.ichuangjia.com/sortlist/{cateId}.html",
 "分类": "电影&电视&综艺&动漫&短剧",
-"图片": "data-src=\"&&\"",
+"图片": "data-original=\"&&\"",
 "分类值": "5415&5416&5417&5418&5419"
 }},
 
