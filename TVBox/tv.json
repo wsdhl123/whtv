@@ -17,8 +17,13 @@
 "Referer":"https://www.ichuangjia.com/",
 "图片代理":"1"
  }},
-
-
+{"key": "ZJAI","name": "🎬找剧AI", "type": 3, "api": "csp_XBPQ", "playerType": "1",
+"ext": {
+"分类url": "https://zhaoju4.com/?channel={cateId}",
+"分类": "电影&电视剧&综艺&动漫&短剧",
+"分类值": "movie&series&variety&anime&short_drama"
+}},
+https://zhaoju4.com/?channel=movie
  
 {"key": "FREEOK","name": "🆗FreeOK","type": 3,"searchable": 1, "quickSearch": 1, "changeable": 0, "playerType": "1",  "api": "csp_XBPQ",
 "ext": {
