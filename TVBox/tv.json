@@ -12,7 +12,7 @@
 "主页url":"https://www.ichuangjia.com/",
 "列表":"<li&&</li>",
 "标题":"title=\"&&\"",
-"图片": "data-original=\"&&\"[替换:^/>>https://www.ichuangjia.com/]",
+"图片":"data-original=\"&&\"[替换:^/>>https://www.ichuangjia.com/]",
 "链接":"href=\"&&\"",
 "Referer":"https://www.ichuangjia.com/",
 "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/wsdhl123/whtv/master/TVBox/xbpq26.jar",
