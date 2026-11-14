@@ -51,20 +51,6 @@
 "请求头": "User-Agent$MOBILE_UA" 
 }},
   
-{"key": "YY6080","name": "🎬YY6080新视觉", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 0, "playerType": "2", "api": "csp_XBPQ",
-"ext": {
-"分类": "电影$5566#电视$5567#综艺$5568#动漫$5569#短剧$5570",
-"分类url": "https://www.suzhitong.com/sortlist/{cateId}.html",
-"播放数组": "stui-content__playlist clearfix&&</ul>",
-"播放列表": "<li&&</li>",
-"播放标题": ">&&</a>",
-"播放链接": "href=\"&&\"",
-"图片": "https://www.suzhitong.com""+""data-original=\"&&\"",
-"链接前缀": "https://www.suzhitong.com"
-}},
-
-
- 
 
 {"key": "MAHUABOX", "name": "🌺麻花影视", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 0, "playerType": "2", "api": "csp_XBPQ",
 "ext": {
