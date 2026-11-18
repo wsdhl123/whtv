@@ -10,7 +10,7 @@
 "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju",
 "分类url": "https://www.hashvr.com/vodtype/{cateId}.html"
  }},
-{"key": "qxyy", "name": "🎦七七影院", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 0,  "playerType": "1",  "api": "csp_XBPQ",
+{"key": "qqyy", "name": "🎦七七影院", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 0,  "playerType": "1",  "api": "csp_XBPQ",
 "ext": {
 "分类": "电影&电视剧&综艺&动漫&短剧",
 "分类值": "1&2&3&4&24",
