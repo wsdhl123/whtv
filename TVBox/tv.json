@@ -15,7 +15,7 @@
 {"key": "TLANG2", "name": "🐺天狼影院", "type": 3, "searchable": 1, "quickSearch": 1,  "playerType": "1",  "api": "csp_XBPQ",
 "ext": {
 "分类": "电影$1#电视剧$2#动漫$3#综艺$4#短剧$5#即将上映$42",
-"分类url": "https://www.tlang2.cc/fl/{cateId}/page/{catePg}"
+"分类url": "https://www.tlang2.cc/fl/{cateId}/page/{catePg};;P"
 }},
   
  
