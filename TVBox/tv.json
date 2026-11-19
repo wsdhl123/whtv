@@ -17,6 +17,35 @@
 "分类url": "https://www.lxrxw.com/genre/{cateId}.html"
 }},
 
+{"key": "TLANG2", "name": "🐺天狼影院", "type": 3, "searchable": 1, "quickSearch": 1,  "playerType": "1",  "api": "csp_XBPQ",
+"ext": {
+"分类": "电影$1#电视剧$2#动漫$3#综艺$4#短剧$5#即将上映$42",
+"分类url": "https://www.tlang2.cc/fl/{cateId}/page/{catePg}",
+"搜索url": "https://www.tlang2.cc/index.php/search/index?wd={wd}",
+"搜索模式": "1",
+"搜索列表": "class=\"vod-card&&</a>",
+"搜索列表标题": "title=\"&&\"",
+"搜索列表图片": "data-original=\"&&\"",
+"搜索列表链接": "href=\"&&\"",
+"列表": "class=\"vod-card&&</a>",
+"列表标题": "title=\"&&\"",
+"列表图片": "data-original=\"&&\"",
+"列表链接": "href=\"&&\"",
+"链接前缀": "https://www.tlang2.cc",
+"图片": "data-original=\"&&\"",
+"标题": "title=\"&&\"",
+"副标题": "<em>&&</em>",
+"线路数组": "class=\"play-source-tab active&&</button>",
+"线路标题": "高清云",
+"播放数组": "class=\"episode-grid\">&&</div>",
+"播放列表": "<a&&</a>",
+"播放标题": ">&&</a>",
+"播放链接": "href=\"&&\"",
+"播放链接前缀": "https://www.tlang2.cc",
+"剧情": "class=\"content detail-content\">&&</article>",
+"请求头": "User-Agent$MOBILE_UA"
+}},
+  
  
 {"key": "FREEOK","name": "🆗FreeOK","type": 3,"searchable": 1, "quickSearch": 1, "changeable": 0, "playerType": "1",  "api": "csp_XBPQ",
 "ext": {
