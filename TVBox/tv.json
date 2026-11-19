@@ -10,43 +10,7 @@
 "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju",
 "分类url": "https://www.hashvr.com/vodtype/{cateId}.html"
  }},
-{
-  "key": "DADATU",
-  "name": "🐰达达兔影视",
-  "type": 3,
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "playerType": "1",
-  "api": "csp_XBPQ",
-  "ext": {
-    "分类": "电影$7975#电视$7976#综艺$7977#动漫$7978#短剧$7979",
-    "分类url": "https://www.shenhuayun.com/sortlist/{cateId}/page/{catePg}.html;;P",
-    "搜索url": "https://www.shenhuayun.com/search.html?keyword={wd}",
-    "搜索模式": "1",
-    "搜索列表": "class=\"stui-vodlist__box&&</li>",
-    "搜索列表标题": "title=\"&&\"",
-    "搜索列表图片": "data-original=\"&&\"",
-    "搜索列表链接": "href=\"&&\"",
-    "列表": "class=\"stui-vodlist__box&&</li>",
-    "列表标题": "title=\"&&\"",
-    "列表图片": "data-original=\"&&\"",
-    "列表链接": "href=\"&&\"",
-    "链接前缀": "https://www.shenhuayun.com",
-    "图片": "https://www.shenhuayun.com+data-original=\"&&\"",
-    "标题": "title=\"&&\"",
-    "副标题": "pic-text text-right\">&&</span>",
-    "线路数组": "stui-content__playlist clearfix&&</ul>",
-    "线路标题": "线路$1",
-    "播放数组": "stui-content__playlist clearfix&&</ul>",
-    "播放列表": "<a&&</a>",
-    "播放标题": "title=\"&&\"",
-    "播放链接": "href=\"&&\"",
-    "播放链接前缀": "https://www.shenhuayun.com",
-    "剧情": "class=\"col-pd\">&&</p>",
-    "请求头": "User-Agent$MOBILE_UA"
-  }
-},
+
 
 {"key": "TLANG2", "name": "🐺天狼影院", "type": 3, "searchable": 1, "quickSearch": 1,  "playerType": "1",  "api": "csp_XBPQ",
 "ext": {
