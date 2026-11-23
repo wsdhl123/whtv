@@ -17,6 +17,14 @@
 "分类": "电影$1#电视剧$2#动漫$3#综艺$4#短剧$5#即将上映$42",
 "分类url": "https://www.tlang2.cc/vodshow/{cateId}-----------"
 }},
+
+{ "key": "DadaTu", "name": "🐰达达兔(Java)", "type": 3, "api": "csp_DadaTu", "searchable": 1, "quickSearch": 1,
+"ext": ""
+},
+
+
+
+  
   
  
 {"key": "FREEOK","name": "🆗FreeOK","type": 3,"searchable": 1, "quickSearch": 1, "changeable": 0, "playerType": "1",  "api": "csp_XBPQ",
