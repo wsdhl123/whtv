@@ -18,11 +18,50 @@
 "分类url": "https://www.tlang2.cc/vodshow/{cateId}-----------"
 }},
 
-{ "key": "DadaTu", "name": "🐰达达兔(Java)", "type": 3, "api": "csp_DadaTu", "searchable": 1, "quickSearch": 1,
-"ext": ""
-},
 
-
+  {
+      "key": "zzyy",
+      "name": "🆗猪猪影院",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "playerType": "1",
+      "api": "csp_XBPQ",
+      "ext": {
+        "站名": "猪猪影院",
+        "分类": "电影&电视&综艺&动漫&短剧&喜剧片&爱情片&动作片&科幻片&恐怖片&战争片&剧情片&动画片&记录片&国产剧&港台剧&韩国剧&日本剧&欧美剧&泰国剧&海外剧&大陆综艺&港台综艺&日韩综艺&欧美综艺&国产动漫&港台动漫&日韩动漫&欧美动漫",
+        "分类值": "5415&5416&5417&5418&5419&5425&5426&5427&5428&5429&5430&5431&5432&5433&5435&5436&5437&5438&5439&5440&5441&5445&5446&5447&5448&5455&5456&5457&5458",
+        "分类url": "https://www.ichuangjia.com/sortlist/{cateId}[/last-{catePg}].html",
+        "列表": "stui-vodlist__box&&</a>",
+        "列表标题": "title=\"&&\"",
+        "列表图片": "https://www.ichuangjia.com+data-original=\"&&\"",
+        "列表链接": "href=\"&&\"",
+        "列表副标题": "pic-text text-right\">&&</span>",
+        "数组": "stui-vodlist__box&&</a>",
+        "标题": "title=\"&&\"",
+        "图片": "https://www.ichuangjia.com+data-original=\"&&\"",
+        "链接": "href=\"&&\"",
+        "副标题": "pic-text text-right\">&&</span>",
+        "搜索url": "https://www.ichuangjia.com/search.html?keyword={wd}",
+        "搜索模式": "1",
+        "搜索列表": "stui-vodlist__box&&</a>",
+        "搜索列表标题": "title=\"&&\"",
+        "搜索列表图片": "https://www.ichuangjia.com+data-original=\"&&\"",
+        "搜索列表链接": "href=\"&&\"",
+        "搜索数组": "stui-vodlist__box&&</a>",
+        "搜索标题": "title=\"&&\"",
+        "搜索图片": "https://www.ichuangjia.com+data-original=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "剧情": "简介：</span>&&<a",
+        "播放数组": "stui-content__playlist&&</ul>",
+        "播放列表": "<li&&</li>",
+        "播放标题": "title=\"&&\"",
+        "播放链接": "href=\"&&\"",
+        "跳转播放链接": "thisUrl = \"&&\"",
+        "嗅探词": "m3u8"
+      }
+    },
 
   
   
